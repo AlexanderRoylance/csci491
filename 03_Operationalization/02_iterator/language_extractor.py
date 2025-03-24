@@ -1,26 +1,41 @@
 import openai
+import json
 
+# Ensure you have the latest OpenAI API key set in your environment
 openai.api_key = "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"
 
-def extract_language(input_file, output_files, categories):
-    with open(input_file, "r", encoding="utf-8") as file:
-        text = file.read()
+# Read the preprocessed text
+with open("../01_input/preprocessed_text.txt", "r", encoding="utf-8") as f:
+    text = f.read()
+
+# Define prompts for extraction
+prompts = {
+    "hero": "Extract words and phrases that portray the target as a hero in this text.",
+    "victim": "Extract words and phrases that depict the target as a victim in this text.",
+    "villain": "Extract words and phrases that describe an attacker as a villain in this text."
+}
+
+# Dictionary to store results
+risk_language = {}
+
+for category, prompt in prompts.items():
+    response = openai.ChatCompletion.create( 
+        model="gpt-3.5-turbo",
+        messages=[{"role": "system", "content": "You are an NLP model extracting linguistic features."},
+                  {"role": "user", "content": f"{prompt}\n\n{text}"}]
+    )
     
-    for category, output_file in zip(categories, output_files):
-        prompt = f"Extract all words and phrases related to '{category}' language in this text:\n\n{text}"
-        
-        response = openai.ChatCompletion.create(
-            model="gpt-4-turbo",
-            messages=[{"role": "user", "content": prompt}]
-        )
+    extracted_words = response['choices'][0]['message']['content'].strip().split(", ")
+    risk_language[category] = extracted_words
 
-        extracted_text = response["choices"][0]["message"]["content"]
+with open("risk_language_summary.json", "w", encoding="utf-8") as f:
+    json.dump(risk_language, f, indent=4)
 
-        with open(output_file, "w", encoding="utf-8") as out:
-            out.write(extracted_text)
+# Also save each category as a separate text file
+for category in ["hero", "victim", "villain"]:
+    with open(f"../03_output/{category}.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(risk_language[category]))
 
-# Usage
-categories = ["hero", "victim", "villain"]
-output_files = ["../03_output/hero.txt", "../03_output/victim.txt", "../03_output/villain.txt"]
-extract_language("../01_input/preprocessed_text.txt", output_files, categories)
+print("Extraction complete. Files saved: risk_language_summary.json, hero.txt, victim.txt, villain.txt")
+
 
