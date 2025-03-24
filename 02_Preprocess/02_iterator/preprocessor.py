@@ -17,4 +17,4 @@ def preprocess_text(input_file, output_file):
         out.write(text)
 
 # Usage
-preprocess_text("scraped_text.txt", "preprocessed_text.txt")
+preprocess_text("../01_input/scraped_text.txt", "../03_output/preprocessed_text.txt")
