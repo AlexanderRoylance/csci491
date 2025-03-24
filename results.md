@@ -35,22 +35,18 @@ Below is a visual representation of our implemented pipeline:
 Our analysis produced the following key findings:  
 
 1. **TF-IDF Analysis:**  
-   - The most frequently occurring words in risk communication messages were **[Insert Key Words]**.  
-   - Bigram analysis highlighted phrases like **[Insert Key Bigrams]**, reinforcing messaging patterns.  
+   - The most frequently occurring words in risk communication messages were adults, privacy, and scam.  
+   - Bigram analysis highlighted phrases like aging adults and older victims, reinforcing messaging patterns.  
 
 2. **Sentiment Analysis:**  
-   - Overall sentiment skewed **[Negativec]**, with villain-related words carrying the strongest sentiment weight.  
-   - Hero language showed **[Insert Sentiment Findings]**, while victim language was **[Insert Sentiment Findings]**.  
+   - Overall sentiment skewed negative, with villain-related words carrying the strongest sentiment weight.  
+   - Hero language showed higher sentiment scores, but victim language was far more prevelant.  
 
 ###  Graphs & Figures  
 
 **TF-IDF Score Table:**  
+![](https://github.com/user-attachments/assets/9ec5d407-9de8-4b66-8194-936799bc614c)
 
-| Document | Most Frequent Word | TF-IDF Score |
-|----------|-------------------|--------------|
-| Doc 1    | [Word]            | [Score]      |
-| Doc 2    | [Word]            | [Score]      |
-| Doc 3    | [Word]            | [Score]      |
 
 **Sentiment Analysis**
 ![](https://github.com/user-attachments/assets/39df3181-069b-4923-beb0-79fe8fcaff53)
@@ -73,23 +69,26 @@ Our analysis produced the following key findings:
 ### **Practical Implications for Practitioners**  
 
 - **Improving Risk Communication:**  
-  Our findings suggest that current phishing risk messages often lack low reading level languages and are overly complex.  
-  - Practitioners should focus on **[Key Recommendation, e.g., avoiding fear-based messaging, increasing empowerment narratives]**.  
-  - Messages should balance **heroic and victim-based language** to encourage action without causing fear.  
-
-- **Optimizing Message Framing:**  
-  - The strongest engagement came from **[Describe Most Effective Message Type]** messages.  
-  - **Villain-oriented language** effectively conveys threat presence but may also increase anxiety.  
+  Our findings suggest that current phishing risk messages often simple terminology and try to include too many technical terms. While our results do show that
+  smaller words like "scam" and "older" are more common, the important areas are filled with terms like "fraudelent digital impersonators." This is not to say
+  that higher quality words do not have their place in these messages, but it is important to recognize the constraints of the language we can use to address
+  the target audience. Those creating the messages, as well as the people that are relaying them to those that need to hear it should take this into
+  consideration. The other important piece of information obtained from these findings is that the current messages are far too often negative. The villain
+  language used in almost every message brings a negative feeling of defeat before the reader is even through the first paragraph. Again, this type of language
+  does need to be included, especially to create the narrative that the hero will eventually get themself out of, but it needs to be used sparingly. An emphasis
+  on hero-driven narratives should be the goal, but a certain amount of victim language should be used to show that the audience is still vulnerable. Showing
+  these findings to the caregivers so that they can pass the information on to the elderly will prove to be a much stronger method of risk communication than
+  current measures. By acting through a median, message creators can get the vital information to the audience without needing to worry about emphasizing
+  positive narratives, as the caregivers will already be enforcing it. 
 
 ### **Threats to Validity**  
 
-- **Government Website Restrictions:**  
-  - We were unable to scrape government websites that may contain valuable quantitative data.  
-  - Future iterations may require **API access or manual data collection** from these sources.  
-
-- **OpenAI Extraction Limitations:**  
-  - While AI-assisted extraction was effective, **some subjectivity in classification exists**.  
-  - Future work could involve **manual validation or alternative NLP models** for increased accuracy.  
+- **Government Website Restrictions:**
+  Scraping sensitive data from Government websites was not allocable in this timeframe, leading to a reliance on magazine and news-based information. The sites
+  we were not able to get to could contain important statistical data for what areas are most susceptible to phishing schemes, as well as what education level
+  teaches people technical literacy. Future iterations will require manual data collection from these sources in order to gather more data and strengthen our
+  claim. OpenAI and AI-assisted extraction for character language is vital to this project, however, it can sometimes incorrectly and ineffectively classify
+  language. Human coding or manual validation could be the next step to increase the validity of the tests and the project as a whole.
 
 ---
 
