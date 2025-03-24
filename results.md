@@ -56,11 +56,11 @@ Our analysis produced the following key findings:
 
 
 **Hero Frequecy**
-![Victim Frequency](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/hero_freq.png?raw=true) 
+![](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/hero_freq.png?raw=true) 
 **Victim Frequecy**
-![Victim Frequency](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/victim_freq.png?raw=true)
+![](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/victim_freq.png?raw=true)
 **Villain Frequecy**
-![Victim Frequency](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/villain_freq.png?raw=true)
+![](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/villain_freq.png?raw=true)
 
 ---
 
