@@ -1,15 +1,15 @@
 # Risk Communication for Elderly Phishing Protection  
 
-## 📌 Methods  
+##  Methods  
 
-### 🔗 GitHub Repository  
+###  GitHub Repository  
 The full implementation of our pipeline, along with README files and documentation, can be found at:  
-[**GitHub Repository Link**](INSERT_YOUR_GITHUB_REPO_HERE)  
+[**GitHub Repository Link**](https://github.com/AlexanderRoylance/csci491.git)  
 
-### 🛠 Pipeline Structure  
+###  Pipeline Structure  
 Below is a visual representation of our implemented pipeline:  
 
-![Pipeline Structure](INSERT_IMAGE_LINK_HERE)  
+![Pipeline Structure](https://github.com/user-attachments/assets/92dd2210-1abd-4281-9b80-02f7f9492cd5)  
 
 **Pipeline Levels:**  
 
@@ -22,7 +22,7 @@ Below is a visual representation of our implemented pipeline:
 
 ---
 
-## 📌 Results  
+##  Results  
 
 Our analysis produced the following key findings:  
 
@@ -31,10 +31,10 @@ Our analysis produced the following key findings:
    - Bigram analysis highlighted phrases like **[Insert Key Bigrams]**, reinforcing messaging patterns.  
 
 2. **Sentiment Analysis:**  
-   - Overall sentiment skewed **[Positive/Negative/Neutral]**, with villain-related words carrying the strongest sentiment weight.  
+   - Overall sentiment skewed **[Negativec]**, with villain-related words carrying the strongest sentiment weight.  
    - Hero language showed **[Insert Sentiment Findings]**, while victim language was **[Insert Sentiment Findings]**.  
 
-### 📊 Graphs & Figures  
+###  Graphs & Figures  
 
 **TF-IDF Score Table:**  
 
@@ -50,12 +50,12 @@ Our analysis produced the following key findings:
 
 ---
 
-## 📌 Discussion  
+##  Discussion  
 
 ### **Practical Implications for Practitioners**  
 
 - **Improving Risk Communication:**  
-  Our findings suggest that current phishing risk messages often **[Describe Bias or Issues in Messaging]**.  
+  Our findings suggest that current phishing risk messages often lack low reading level languages and are overly complex.  
   - Practitioners should focus on **[Key Recommendation, e.g., avoiding fear-based messaging, increasing empowerment narratives]**.  
   - Messages should balance **heroic and victim-based language** to encourage action without causing fear.  
 
@@ -75,12 +75,10 @@ Our analysis produced the following key findings:
 
 ---
 
-### **📌 Next Steps**  
+### ** Next Steps**  
 
 - **Refining NLP Extraction:** Improve hero/victim/villain classification accuracy.  
 - **Extending Data Sources:** Seek alternative sources for quantitative risk messaging data.  
 - **A/B Testing Messages:** Evaluate real-world effectiveness with target audiences.  
 
 ---  
-
-**🔗 Full Repository & Documentation:** [INSERT_GITHUB_REPO_HERE]  
