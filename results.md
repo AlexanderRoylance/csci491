@@ -53,7 +53,7 @@ Our analysis produced the following key findings:
 | Doc 3    | [Word]            | [Score]      |
 
 **Sentiment Analysis**
-!(https://github.com/user-attachments/assets/39df3181-069b-4923-beb0-79fe8fcaff53)
+![](https://github.com/user-attachments/assets/39df3181-069b-4923-beb0-79fe8fcaff53)
 
 
 **Hero Frequecy**
