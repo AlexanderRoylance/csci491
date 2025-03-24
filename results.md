@@ -69,9 +69,9 @@ Our analysis produced the following key findings:
 ### **Practical Implications for Practitioners**  
 
 - **Improving Risk Communication:**  
-  Our findings suggest that current phishing risk messages often simple terminology and try to include too many technical terms. While our results do show that
-  smaller words like "scam" and "older" are more common, the important areas are filled with terms like "fraudelent digital impersonators." This is not to say
-  that higher quality words do not have their place in these messages, but it is important to recognize the constraints of the language we can use to address
+  Our findings suggest that current phishing risk messages often use simple terminology and try to include too many technical terms. While our results do show
+  thatsmaller words like "scam" and "older" are more common, the important areas are filled with terms like "fraudelent digital impersonators." This is not to
+  say that higher quality words do not have their place in these messages, but it is important to recognize the constraints of the language we can use to address
   the target audience. Those creating the messages, as well as the people that are relaying them to those that need to hear it should take this into
   consideration. The other important piece of information obtained from these findings is that the current messages are far too often negative. The villain
   language used in almost every message brings a negative feeling of defeat before the reader is even through the first paragraph. Again, this type of language
