@@ -69,17 +69,23 @@ Our analysis produced the following key findings:
 ### **Practical Implications for Practitioners**  
 
 - **Improving Risk Communication:**  
-  Our findings suggest that current phishing risk messages often use simple terminology and try to include too many technical terms. While our results do show
-  thatsmaller words like "scam" and "older" are more common, the important areas are filled with terms like "fraudelent digital impersonators." This is not to
-  say that higher quality words do not have their place in these messages, but it is important to recognize the constraints of the language we can use to address
+  Our findings suggest that current phishing risk messages often use simple terminology, they include too many technical terms. While our results do show
+  thatsmaller words like "scam" and "older" are more common, the risk communication areas are filled with terms like "fraudelent digital impersonators." This is not to
+  say that higher level words do not have their place in these messages, but it is important to recognize the constraints of the language we can use to address
   the target audience. Those creating the messages, as well as the people that are relaying them to those that need to hear it should take this into
   consideration. The other important piece of information obtained from these findings is that the current messages are far too often negative. The villain
   language used in almost every message brings a negative feeling of defeat before the reader is even through the first paragraph. Again, this type of language
   does need to be included, especially to create the narrative that the hero will eventually get themself out of, but it needs to be used sparingly. An emphasis
-  on hero-driven narratives should be the goal, but a certain amount of victim language should be used to show that the audience is still vulnerable. Showing
+  on hero-driven narratives should be the goal of effective communication, but a certain amount of victim language should be used to show that the audience is still vulnerable. Showing
   these findings to the caregivers so that they can pass the information on to the elderly will prove to be a much stronger method of risk communication than
   current measures. By acting through a median, message creators can get the vital information to the audience without needing to worry about emphasizing
-  positive narratives, as the caregivers will already be enforcing it. 
+  positive narratives, as the caregivers will already be enforcing it.
+
+  less absolute
+  provide credibility and data
+  fix graphs
+  more emotional at the end
+  
 
 ### **Threats to Validity**  
 
@@ -87,9 +93,12 @@ Our analysis produced the following key findings:
   Scraping sensitive data from Government websites was not allocable in this timeframe, leading to a reliance on magazine and news-based information. The sites
   we were not able to get to could contain important statistical data for what areas are most susceptible to phishing schemes, as well as what education level
   teaches people technical literacy. Future iterations will require manual data collection from these sources in order to gather more data and strengthen our
-  claim. OpenAI and AI-assisted extraction for character language is vital to this project, however, it can sometimes incorrectly and ineffectively classify
+  claim.
+  - **OpenAI Character Coding:**
+  OpenAI and AI-assisted extraction for character language is vital to this project, however, it can sometimes incorrectly and ineffectively classify
   language. Human coding or manual validation could be the next step to increase the validity of the tests and the project as a whole.
-
+say why these are not making the article bad
+external threats
 ---
 
 ### **Next Steps**  
