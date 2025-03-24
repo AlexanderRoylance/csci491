@@ -1,26 +1,20 @@
 import requests
 from bs4 import BeautifulSoup
 
-def scrape_text(url):
-    """Fetches and extracts raw text from a given URL."""
-    try:
-        response = requests.get(url, timeout=10)
-        response.raise_for_status()  # Raise an error for bad responses (4xx, 5xx)
-        
-        soup = BeautifulSoup(response.text, "html.parser")
-        text = ' '.join(p.get_text() for p in soup.find_all("p"))  # Extract paragraph text
-        return text
-    except Exception as e:
-        print(f"Error scraping {url}: {e}")
-        return None
+def scrape_websites(input_file, output_file):
+    with open(input_file, "r") as file:
+        urls = file.readlines()
+    
+    with open(output_file, "w", encoding="utf-8") as out:
+        for url in urls:
+            url = url.strip()
+            try:
+                response = requests.get(url, timeout=10)
+                soup = BeautifulSoup(response.text, "html.parser")
+                text = soup.get_text(separator=" ").strip()
+                out.write(f"URL: {url}\n{text}\n\n")
+            except Exception as e:
+                print(f"Failed to scrape {url}: {e}")
 
-# Read URLs from a text file
-with open("../01_input/input.txt", "r", encoding="utf-8") as file:
-    urls = [url.strip() for url in file.readlines()]
-
-# Scrape text and write to an output file
-with open("../03_output/scraped_texts.txt", "w", encoding="utf-8") as f:
-    for url in urls:
-        text = scrape_text(url)
-        if text:
-            f.write(f"{text}\n\n")
+# Usage
+scrape_websites("../01_input/input.txt", "../03_output/scraped_text.txt")
