@@ -52,8 +52,15 @@ Our analysis produced the following key findings:
 | Doc 2    | [Word]            | [Score]      |
 | Doc 3    | [Word]            | [Score]      |
 
+**Sentiment Analysis**
+
+
+**Hero Frequecy**
+![Hero Frequency](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/victim_freq.png?raw=true) 
 **Victim Frequecy**
 ![Victim Frequency](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/victim_freq.png?raw=true) 
+**Villain Frequecy**
+![Villain Frequency](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/victim_freq.png?raw=true) 
 
 ---
 
