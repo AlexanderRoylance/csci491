@@ -21,6 +21,6 @@ def extract_language(input_file, output_files, categories):
 
 # Usage
 categories = ["hero", "victim", "villain"]
-output_files = ["hero.txt", "victim.txt", "villain.txt"]
-extract_language("preprocessed_text.txt", output_files, categories)
+output_files = ["../03_output/hero.txt", "../03_output/victim.txt", "../03_output/villain.txt"]
+extract_language("../01_input/preprocessed_text.txt", output_files, categories)
 

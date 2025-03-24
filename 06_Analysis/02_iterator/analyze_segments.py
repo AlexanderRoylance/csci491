@@ -51,4 +51,4 @@ def analyze_segments(segment_file, sentiment_file, summary_file):
     plot_sentiment(segments, sentiment_data, summary)
 
 # Usage
-analyze_segments("generated_segments.txt", "sentiment_scores.csv", "risk_language_summary.json")
+analyze_segments("../01_input/generated_segments.txt", "../01_input/sentiment_scores.csv", "../01_input/risk_language_summary.json")

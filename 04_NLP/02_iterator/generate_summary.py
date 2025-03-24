@@ -36,4 +36,4 @@ def generate_summary(tfidf_file, sentiment_file, hero_file, victim_file, villain
     print(f"Summary saved to {output_file}")
 
 # Usage
-generate_summary("tfidf_scores.csv", "sentiment_scores.csv", "hero.txt", "victim.txt", "villain.txt", "risk_language_summary.json")
+generate_summary("tfidf_scores.csv", "sentiment_scores.csv", "../01_input/hero.txt", "../01_input/victim.txt", "../01_input/villain.txt", "../03_output/risk_language_summary.json")

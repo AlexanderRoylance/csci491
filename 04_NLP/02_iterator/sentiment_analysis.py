@@ -18,5 +18,5 @@ def analyze_sentiment(input_files, output_file):
     print(f"Sentiment scores saved to {output_file}")
 
 # Usage
-input_files = ["hero.txt", "victim.txt", "villain.txt"]
+input_files = ["../01_input/hero.txt", "../01_input/victim.txt", "../01_input/villain.txt"]
 analyze_sentiment(input_files, "sentiment_scores.csv")

@@ -37,4 +37,4 @@ def generate_messages(summary_file, output_file):
     print(f"Generated segments saved to {output_file}")
 
 # Usage
-generate_messages("risk_language_summary.json", "generated_segments.txt")
+generate_messages("../01_input/risk_language_summary.json", "../03_output/generated_segments.txt")
