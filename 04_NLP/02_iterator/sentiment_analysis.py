@@ -1,19 +1,22 @@
-from sklearn.feature_extraction.text import TfidfVectorizer
+from textblob import TextBlob
 import pandas as pd
 
-def compute_tfidf(input_files, output_file):
-    texts = [open(f, "r", encoding="utf-8").read() for f in input_files]
-    vectorizer = TfidfVectorizer(ngram_range=(1,2))  # Single words & bigrams
-    tfidf_matrix = vectorizer.fit_transform(texts)
-    
-    feature_names = vectorizer.get_feature_names_out()
-    tfidf_df = pd.DataFrame(tfidf_matrix.toarray(), columns=feature_names, index=[f.split(".")[0] for f in input_files])
-    
-    # Save TF-IDF scores to a CSV file
-    tfidf_df.to_csv(output_file)
-    print(f"TF-IDF scores saved to {output_file}")
+def analyze_sentiment(input_files, output_file):
+    sentiment_data = []
+
+    for file in input_files:
+        with open(file, "r", encoding="utf-8") as f:
+            words = f.read().split()
+
+        for word in words:
+            polarity = TextBlob(word).sentiment.polarity
+            sentiment_data.append({"Word": word, "Sentiment Score": polarity, "Category": file.split(".")[0]})
+
+    # Save sentiment scores to a CSV file
+    df = pd.DataFrame(sentiment_data)
+    df.to_csv(output_file, index=False)
+    print(f"Sentiment scores saved to {output_file}")
 
 # Usage
 input_files = ["hero.txt", "victim.txt", "villain.txt"]
-compute_tfidf(input_files, "tfidf_scores.csv")
-
+analyze_sentiment(input_files, "sentiment_scores.csv")
