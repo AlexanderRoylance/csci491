@@ -9,7 +9,8 @@ The full implementation of our pipeline, along with README files and documentati
 ###  Pipeline Structure  
 Below is a visual representation of our implemented pipeline:  
 
-![Pipeline Structure](https://github.com/user-attachments/assets/92dd2210-1abd-4281-9b80-02f7f9492cd5)  
+![Pipeline Structure](<img width="966" alt="Screenshot 2025-03-23 at 10 19 52 PM" src="https://github.com/user-attachments/assets/720438aa-430d-423d-b1de-f4f3276b95a6" />
+)  
 
 **Pipeline Levels:**  
 
