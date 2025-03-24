@@ -1,1 +1,5121 @@
+URL: https://online.hilbert.edu/blog/phishing-prevention-tips-for-older-adults/#:~:text=Phishing%20is%20a%20type%20of,an%2084%25%20jump%20from%202021.
+Phishing Prevention Tips for Older Adults | Hilbert College Global Campus
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Is an Online Degree Right For You?
+       
+ 
+          Take The Free Quiz
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Open main menu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            Tuition & Financial Aid 
+ 
+ 
+ 
+            Admissions 
+ 
+ 
+ 
+            Online Degree Programs  ▼ 
+ 
+ 
+                All Programs 
+ 
+ 
+                Associate's Degrees 
+ 
+ 
+                Bachelor's Degrees 
+ 
+ 
+                Graduate Degrees 
+ 
+ 
+ 
+ 
+ 
+ Online Degree Programs 
+ 
+ 
+                All Programs 
+ 
+ 
+ 
+                Associate's Degrees 
+ 
+ 
+ 
+                Bachelor's Degrees 
+ 
+ 
+ 
+                Graduate Degrees 
+ 
+ 
+ 
+ 
+ 
+            Resources  ▼ 
+ 
+ 
+                Blog 
+ 
+ 
+                Student Services 
+ 
+ 
+ 
+ 
+ 
+ Resources 
+ 
+ 
+                Blog 
+ 
+ 
+ 
+                Student Services 
+ 
+ 
+ 
+ 
+ 
+            APPLY NOW
+           
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Hilbert College Global Online
+        Blog 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        ← Return to All Articles
+       
+ 
+ 
+ 
+ 
+ 
+ 
+ Phishing Prevention Tips for Older Adults 
+ Written by:  
+ Hilbert College 
+        •  Oct 19, 2023 
+ 
+ 
+ Phishing is a type of online fraud  that can affect any age group, but 
+ older adults often suffer the greatest  financial impact. 
+ That impact is growing. 
+ The FBI reports that Internet fraud led to 
+ $3.1 billion in losses  to people over the age of 60 in 2022, a figure that represents an 84% jump from 2021. The financial toll averaged more than $5,000 for each older American victimized in 2022. For more than 5,000 people, the individual financial loss exceeded $100,000. 
+ However, seniors can stand up to this increasing threat by taking action to prevent becoming victims. 
+ Whatâs Phishing Prevention?  Â¶ 
+ 
+ 
+ Preventing phishing attacks means protecting  against a specific kind of fraud. Itâs an important part of 
+ cybersecurity , which is the practice of protecting computer systems and networks from unauthorized access, and 
+ computer science , which encompasses cybersecurity and various issues related to computer systems. 
+ The first step in phishing prevention is to gain an understanding of what phishing involves and the wide range of phishing tactics that a 
+ hacker, or someone who gains access  to a computer system, might use. 
+ Phishing: Definition  Â¶ 
+ 
+ Phishing is a crime in which someone poses as a reputable person or organization in an attempt to access personal information or financial account details. Although its 
+ most common form is email , phishing can also use various other online toolsâfrom text messages to voice callsâto target victims. 
+ Victims may voluntarily provide data or money, or they may unwittingly install software that compromises the security of their system or network. In some cases, such as those involving a 
+ technique called pharming , phishing doesnât require an individual to take any deliberate action. 
+ Notifications received in phishing attacks often seem to encourage prompt action, such as clicking a link to make a payment or to provide bank account information. However, the alerts contained in phishing messages are fraudulent. 
+ A phishing email may ask for 
+ confirmation of personal data , for example, or it may direct the recipient to click a link. When the individual takes the action requested in the email, they unwittingly open themselves up to scammers, who poach information that they can use to steal the personâs identityâand, often, their money. 
+ 
+ 
+ Phishing scams use language that tricks users into providing personal and financial information. The Federal Trade Commission recommends taking caution with emails and texts that contain notifications of suspicious activity or login attempts; warnings of account or payment information problems; requests for confirmation of personal or financial details; links to click to make a payment; details about eligibility for a government refund; and coupons for free goods or services. 
+ 11 Common Types of Phishing  Â¶ 
+ 
+ Whether targeting an individual or organization, phishing can use a 
+ broad range of techniques . The following are 11 
+ common types of phishing  that older adults should be on the lookout for in their phishing prevention efforts: 
+ 
+ Email âsends emails to as many different addresses as possible, posing as a reputable person or organization to gain access to personal information 
+ Smishing âuses text messages to direct an individual to take an action that makes it possible for a cybercriminal to steal their data or money 
+ Vishing (voice phishing)  âleaves voice messages by phone that aim to trick an individual into providing information or money 
+ Social media âestablishes fake accounts through social media platforms, such as Facebook or X/Twitter, to lure an individual into sharing personal information 
+ Pharming âinstalls malicious code on an individualâs computer, sending them to fake websites that collect their login information 
+ Pop-up âpresents a pop-up display on an individualâs computer that makes a false claim of a security risk, thereby tricking the individual into installing harmful software 
+ Evil twin âestablishes a false Wi-Fi network that appears to be authentic to collect personal information that an individual provides when they log in 
+ Search engine:  âdisplays fake items meant to lure an individual into providing sensitive information when they attempt to make a purchase 
+ Clone âsends an email message with a malicious link thatâs identical to an email message that an individual already received 
+ Watering hole:  âinstalls malware on a group of computers to gain access to the network of a website that users frequently visit 
+ Deceptive  âsends messages that falsely claim that an individual is a victim of a cyberattack and instructing them to correct the problem by clicking a link that infects their computer 
+ 
+ Why Do Phishing Scams Target Seniors?  Â¶ 
+ 
+ In a 2022 report, the Federal Trade Commission (FTC) indicated that 
+ fewer people age 60 and older  reported incidents of online fraud in 2021 than those between 18 and 59. Still, the FBI notes, these attacks often specifically target older people. The agency issues a regular report that provides statistics about online fraud targeting older adults. 
+ The reasons behind phishing scams targeting seniors are many, from older generationsâ wealth to their trust levels. Below is a look at some key factors that drive phishing aimed at older adults. 
+ Greater Accumulated Savings  Â¶ 
+ 
+ Peopleâs wealth tends to peak as they reach older adulthood, making their nest eggs attractive prizes for a potential scammer. In the first quarter of 2023, people in the baby-boom generation, or those who were between 59 and 77, held about 
+ 53% of the total wealth  in the United States, according to the Federal Reserve. 
+ Itâs little surprise, then, that the FTC reports that people 70 and older tend to incur greater losses from online scams. 
+ Increased Trust in Others  Â¶ 
+ 
+ Older adults are often 
+ more trusting and polite  than younger people, the FBI warns. These otherwise positive traits can be problematic when older people encounter phishing scams. They may be quick to 
+ believe scammersâ fraudulent messages  and act on them. 
+ Then, when they discover that theyâre victims of phishing attacks, older adults are often 
+ reluctant to speak up  about the crimeâmaking them attractive targets of hackers. 
+ Less Technological Literacy  Â¶ 
+ 
+ Many older adults rely on technology to stay in touch with others. They often face challenges in using these tools, however, leaving them prone to unwittingly becoming victims of phishing attacks. 
+ A 2021 AARP report noted that more than 
+ 70% of those over 50  relied on digital communication to stay in touch with others. However, 40% also found the devices to be complex and difficult to use. 
+ Heightened Sense of Loneliness  Â¶ 
+ 
+ Included among the groups at 
+ greatest risk of experiencing loneliness  are older adults. The Centers for Disease Control and Prevention (CDC) reported in 2023 that more than a third of people over 45 in this nation feel lonely. 
+ Phishing scams targeting seniors can capitalize on these feelings, tricking them into taking action that they believe will connect them with others. 
+ What Are Examples of Phishing Scams on Seniors?  Â¶ 
+ 
+ Similar to their younger counterparts, older adults can face an array of schemes that aim to steal their data and money. Some scams commonly target older people. The following are 
+ some of those scams on seniors  and how cybercriminals engage their victims: 
+ 
+ Charity âclaiming to work for a reputable charitable organization to gain an individualâs trust  and money 
+ Government impersonation âacting as though theyâre government employees and threatening an individual with arrest unless they provide payment 
+ Grandparent âpretending to be an individualâs child or grandchild in an effort to get money 
+ IRS âsending emails or other communications falsely claiming to be from the revenue service in an attempt to steal an individualâs information or tax refund 
+ Lottery/sweepstakes âissuing a false announcement that an individual has won a foreign lottery or sweepstakes and asking for their bank information to deposit the winnings 
+ Medicare/Medicaid âimpersonating a government employee whoâs contacting an individual about their Medicare/Medicaid health insurance and convincing them to provide personal information 
+ Money mule âreaching out to an individual or posting a job opportunity online that results in the cybercriminal laundering money by depositing funds into the individualâs account 
+ Romance âposing as a potential romantic partner on social media or dating sites to convince an individual to give them money 
+ Tech support âclaiming that theyâre technology support representatives who are fixing tech issues and tricking an individual into giving them access to their devices and information 
+ 
+ 
+ 
+ Older Americans suffered the greatest level of financial loss due to Internet fraud of all age groups in 2022, according to the FBI. Among those over age 60, there were 88,282 victims; average loss per victim was $35,101; total losses amounted to $3.1B; and that marked an 84% increase in losses compared to 2021. 
+ How to Prevent Phishing Attacks  Â¶ 
+ 
+ Just because theyâre frequent targets of cybercriminals doesnât mean that older adults have to fall victim to their tricks. By taking some steps to prevent phishing, older adults can safeguard their personal data and money. Here are tips on how to prevent phishing attacks. 
+ Follow Digital Security Practices  Â¶ 
+ 
+ Following commonly recommended digital security precautions can help ensure that networks and systems on everything from personal computers to smartphones are safe, regardless of actions that usersâor would-be hackersâtake. Older adults can bolster their phishing prevention with the following cybersecurity practices: 
+ Using Strong Passwords  Â¶ 
+ 
+ Passwords required for actions like logging in to an online account or unlocking a digital device 
+ should be strong enough  to prevent unauthorized access. 
+ Strong passwords  include a combination of at least 16 random letters, numbers and symbols. The password for each device or account that an individual has should be unique. 
+ Installing Security Software  Â¶ 
+ 
+ Software such as spam filters, anti-phishing browser toolbars and antivirus protection are another layer of defense against unwanted access to networks and systemsâand the data they contain. Scheduling frequent scans with security software can provide the most up-to-date protection. 
+ Performing Regular Updates  Â¶ 
+ 
+ Updating software, browsers and other digital tools can help protect against emerging security threats. Promptly installing updates as they become available is important. 
+ Using Multifactor Authentication  Â¶ 
+ 
+ Many tools and accounts allow for multifactor authentication (MFA), which requires two or more credentials to gain access. Taking advantage of MFA opportunities is a good practice in preventing phishing attacks. The extra layers of authentication typically require passcodes, security question answers, fingerprints or face scans. 
+ Blocking Pop-Ups  Â¶ 
+ 
+ Because pop-ups are a common vehicle for phishing attacks, most web browsers block them automatically. By ensuring that these pop-up blockers are activated, digital device users can stop any fraudulent messages that a pop-up may be sharing. 
+ Backing Up Data  Â¶ 
+ 
+ Older adults can give themselves peace of mind by protecting their data from potential loss. Backing up that data in the cloud or on an external hard drive provides the assurance that the user will likely always be able to access it. 
+ Look for Warning Signs  Â¶ 
+ 
+ Regardless of where and how older adults receive the messages, phishing scams have some common indicators. Older adults should keep the following potential warning signs in mindâand take caution before acting on any communication that contains them: 
+ 
+ High-pressure tone âfeatures language that conveys a sense of urgency and fear, such as reports of suspicious activity, directing the individual to take immediate action 
+ Too good to be true âoffers once-in-a-lifetime deals, refunds, prizes or opportunities 
+ Unfamiliar sender âappears to be from someone who an individual doesnât know 
+ Unusual greeting or language âuses a tone or words that arenât typical for the sender or words that contain grammatical errors 
+ Unknown links and attachments âincludes links or attachments that are unfamiliar to an individual 
+ Personal information request âasks for information that a hacker could use to access networks or accounts 
+ Inconsistent addresses or links âprovides email addresses or hyperlinks that closely resemble those of legitimate senders, with differences that are small enough as to be easily overlooked 
+ 
+ Avoid Clicking Links  Â¶ 
+ 
+ Any unknown hyperlink can contain malware. To protect themselves against these phishing attacks, older adults should avoid any links or attachments from an unfamiliar source or that seem to be suspicious. 
+ When a message contains a link, they should hover over the link to see the URL, examining it closely to ensure that itâs a legitimate site. Even if the URL seems to be legitimate, they should avoid clicking it and providing their login information. Instead, they should open a new browser tab and directly enter the URL to ensure that it goes to a reputable site. 
+ Donât Share Personal Information  Â¶ 
+ 
+ Older adults should take care 
+ when providing information  about themselves online, whether through messages or social media posts, if it could be useful in answering security questions to guess passwords. Also, they should never share sensitive data digitally, keeping in mind that legitimate government and financial institutions wonât ask them to do so. 
+ Older adults should contact the company to 
+ verify a messageâs authenticity  before providing information such as: 
+ 
+ Account information 
+ Birth date 
+ Government identification numbers 
+ Password 
+ Username 
+ 
+ Ignore Questions  Â¶ 
+ 
+ Recipients of messages with any of the warning signs of scams targeting seniors should pause before taking action. Cybercriminals often lure their victims into quick responses by setting artificial time limits. Providing any response to questions confirms to the hacker that an account is active, so ignoring questions from unknown sources is the best bet for phishing prevention. 
+ Phishing Scam Resources for Older Adults  Â¶ 
+ 
+ Resources are available to help older adults and their loved ones learn more about how to guard against scams on seniorsâand what to do in the case of a suspected phishing attack. 
+ Where to Learn More About Phishing Prevention  Â¶ 
+ 
+ Government agencies and organizations that assist older adults provide information to help seniors protect against and spot phishing schemes. 
+ 
+ 
+ AARP Fraud Watch Network : Provides tips for protecting against phishing and other scams and provides updates on current concerns and law enforcement alerts. 
+ 
+ FTC : Presents information and materials about the warning signs of scams, how to avoid them and where to report them (available for download and ordering). 
+ 
+ National Council on Aging : Offers information and events about various fraud targeting older people, from 
+ text messaging  to 
+ payment scams . 
+ 
+ Cybersecurity & Infrastructure Security Agency : Connects people to organizations that assist with phishing prevention and complaints and provides downloadable resources on issues ranging from cybersecurity while traveling to social media use. 
+ 
+ Where to Turn if Youâre a Phishing Victim  Â¶ 
+ 
+ Older adults should learn where to turn if they become victims of phishing, so theyâre prepared to report any incident of suspected fraud. The following are some places to report these concerns: 
+ 
+ 
+ Consumer Financial Protection Bureau : Lists answers to a host of questions about scams, including what to do 
+ in the case of identity theft . 
+ 
+ FBI : Offers an Internet Crime Complaint Center (IC3) where people who believe theyâre victims of online fraud can report the incident. 
+ 
+ HelpGuide.org : Provides information about scams against older adults and how to watch for them, explains where to report the crime, and notes the details that the victim should be ready to share about the incident. 
+ 
+ Office for Victims of Crime : Offers information about elder abuse and an initiative to combat it, as well as a hotline for reporting fraud against older people. 
+ 
+ Prevent Phishing for Yourself and Your Loved Ones  Â¶ 
+ 
+ Learning how to prevent phishing attacks is an important step for older adults and those who care for them. By understanding the warning signs, taking preventive action and finding out where to turn for help, they can help guard against the thousands of dollars in loss that typically result in phishing attacks on older generations. 
+ Infographic Sources: 
+ 
+ FBI, Elder Fraud Report 2022 
+ 
+ Federal Trade Commission, How to Recognize and Avoid Phishing Scams 
+ 
+ 
+ Related Articles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How to Start a Career in Cybersecurity 
+ 
+ May 10, 2023 
+ •
+
+ Hilbert College  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cybersecurity vs. Computer Science: What Is the Difference? 
+ 
+ Feb 9, 2023 
+ •
+
+ Hilbert College 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Forensic Computer Analyst: Salary and Career Outlook 
+ 
+ Mar 20, 2024 
+ •
+
+ Hilbert College 
+ 
+ 
+ 
+ 
+ Categories 
+ Blog Cybersecurity 
+ 
+ 
+ 
+ Previous: Racial Disparities in Sentencing and Criminal Justice Reform 
+ Next: Digital Marketing Specialist: Salary and Job Description 
+ 
+ 
+ 
+ Recent Articles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cybersecurity Blog 
+ 
+ 
+ How to Start a Career in Cybersecurity 
+ 
+ 
+ Hilbert College    
+ May 10, 2023  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cybersecurity Blog 
+ 
+ 
+ Cybersecurity vs. Computer Science: What Is the Difference? 
+ 
+ 
+ Hilbert College   
+ Feb 9, 2023  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Cybersecurity Blog 
+ 
+ 
+ Forensic Computer Analyst: Salary and Career Outlook 
+ 
+ 
+ Hilbert College   
+ Mar 20, 2024  
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn more about the benefits of receiving  your degree from Hilbert College
+     
+ 
+      GET MORE INFORMATION
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facebook Logo 
+ 
+ 
+ 
+ 
+ 
+ Twitter Logo 
+ 
+ 
+ 
+ 
+ 
+ Instagram Logo 
+ 
+ 
+ 
+ 
+ 
+ LinkedIn Logo 
+ 
+ 
+ 
+ 
+ 
+ YouTube Logo 
+ 
+ 
+ 
+ 
+ 
+ 
+            REQUEST INFO
+           
+ 
+ 
+ 
+ 
+ 
+ Home 
+ Admissions 
+ Student
+              Services 
+ Tuition & Financial Aid 
+ Online Degree
+              Programs 
+ On-Campus Programs 
+ Apply Now 
+ Blog 
+ Privacy Policy 
+ 
+ 
+ 
+ Bachelors
+                Degrees 
+ B.A. Digital Media &
+                Communication 
+ B.A. Psychology 
+ B.S. Accounting 
+ B.S. Business Management 
+ B.S. Criminal Justice 
+ B.S. Cybersecurity 
+ B.S.
+                Liberal Studies 
+ 
+ 
+ 
+ 
+ Associates
+                Degrees 
+ A.A. Alcohol &
+                Substance Abuse Counseling 
+ A.A.
+                Business Administration 
+ A.A. Liberal Arts 
+ 
+ 
+ 
+ 
+ Graduate
+                Degrees 
+ M.S. Criminal Justice
+                Administration 
+ M.A. Public Administration 
+ M.S in Cybersecurity Technology 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Facebook Logo 
+ 
+ 
+ 
+ 
+ 
+ Twitter Logo 
+ 
+ 
+ 
+ 
+ 
+ Instagram Logo 
+ 
+ 
+ 
+ 
+ 
+ LinkedIn Logo 
+ 
+ 
+ 
+ 
+ 
+ YouTube Logo
+
+URL: https://mbi.ufl.edu/2024/08/12/older-age-shown-as-major-risk-factor-in-falling-for-phishing-scams/
+Older age shown as major risk factor in falling for phishing scams »  McKnight Brain Institute » University of Florida 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+ Skip to main menu 
+ 
+ 
+ 
+ 
+ 
+ 
+ UF Health 
+ 
+ 
+ 
+ 
+ 
+ 
+      University of Florida
+      
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        McKnight Brain Institute
+       
+ 
+ 
+ 
+          University  of  Florida
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Support the MBI 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Open Search 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Open Main Menu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Main Navigation 
+ 
+ 
+ 
+ 
+        Home
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        About
+                               
+ 
+ 
+ 
+ 
+ 
+ Show submenu for About 
+ 
+ 
+ 
+ 
+ About  Overview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Leadership & Administration
+                               
+ 
+ 
+ 
+ 
+ 
+        Neuromedicine Executive Committee
+                               
+ 
+ 
+ 
+ 
+ 
+        Our History
+                               
+ 
+ 
+ 
+ 
+ 
+        Contact Us
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Research
+                               
+ 
+ 
+ 
+ 
+ 
+ Show submenu for Research 
+ 
+ 
+ 
+ 
+ Research  Overview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Research Areas
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Acquired Neural Injury
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Cognition, Behavior, and Sensation
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Neurological Diseases
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Research Snapshots
+                               
+ 
+ 
+ 
+ 
+ 
+        Funding Opportunities
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        MBI Accelerator Program
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        MBI Professional Development Fund
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        MBI HiPerGator Research Fund
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Gator NeuroScholars Postdoc Fellowship
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Awards Across Campus
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Cores
+                               
+ 
+ 
+ 
+ 
+ 
+ Show submenu for Cores 
+ 
+ 
+ 
+ 
+ Cores  Overview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        AMRIS
+                               
+ 
+ 
+ 
+ 
+ 
+        Microscopy Core
+                               
+ 
+ 
+ 
+ 
+ 
+        UF Neuromedicine Human Brain and Tissue Bank – Faculty Resources
+                               
+ 
+ 
+ 
+ 
+ 
+        MBI-UF Shared Equipment Resources
+                               
+ 
+ 
+ 
+ 
+ 
+        Computing Resources
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        HiPerGator Help Desk at the MBI
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        BioRender Access for MBI Members
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        News & Features
+                               
+ 
+ 
+ 
+ 
+ 
+ Show submenu for News & Features 
+ 
+ 
+ 
+ 
+ News & Features  Overview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        News
+                               
+ 
+ 
+ 
+ 
+ 
+        Research Snapshots
+                               
+ 
+ 
+ 
+ 
+ 
+        Researchers in the Spotlight
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Writing for The Conversation
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Newsletter
+                               
+ 
+ 
+ 
+ 
+ 
+        Features & Videos
+                               
+ 
+ 
+ 
+ 
+ 
+        Events Calendar
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Add an Event to the MBI Calendar
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Training
+                               
+ 
+ 
+ 
+ 
+ 
+        Members
+                               
+ 
+ 
+ 
+ 
+ 
+ Show submenu for Members 
+ 
+ 
+ 
+ 
+ Members  Overview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        MBI Faculty Directory
+                               
+ 
+ 
+ 
+ 
+ 
+        Membership Info
+                               
+ 
+ 
+ 
+ 
+ 
+        Become a Member
+                               
+ 
+ 
+ 
+ 
+ 
+        Email an MBI Listserv
+                               
+ 
+ 
+ 
+ 
+ 
+        Member Communications Resources
+                               
+ 
+ 
+ 
+ 
+ 
+        Faculty Member Onboarding Guide
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Forms
+                               
+ 
+ 
+ 
+ 
+ 
+ Show submenu for Forms 
+ 
+ 
+ 
+ 
+ Forms  Overview 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        MBI Restricted Access Request
+                               
+ 
+ 
+ 
+ 
+ 
+        MBI Key Request Form
+                               
+ 
+ 
+ 
+ 
+ 
+        Conference Room Requests
+                               
+ 
+ 
+ 
+ 
+ 
+        Email & Newsletter Sign-Up
+                               
+ 
+ 
+ 
+ 
+ 
+        Submit a Web Update
+                               
+ 
+ 
+ 
+ 
+ 
+        Become a Member
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Giving
+                               
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ All Posts 
+ 
+ 
+ 
+ 
+ 
+ MBI News 
+ 
+ 
+ 
+ 
+ 
+ Older age shown as major risk factor in falling for phishing scams 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Older age shown as major risk factor in falling for phishing scams
+   
+ 
+ 
+ Published On 
+ 
+ August 12, 2024 
+ 
+ 
+ 
+ Social Media 
+ 
+ 
+    Share this article
+
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Facebook
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Twitter
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          LinkedIn
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By Michelle Jaffee 
+ While people of all ages are targeted by online scammers, older age has emerged as a major risk factor in falling for deceptive emails, according to a new study led by  University of Florida  researchers. 
+ (From left) Drs. Natalie Ebner and Didem Pehlivanoglu 
+ The study comes at a time when email phishing — or tricking online users into revealing personal or confidential information — is more prevalent than ever. From 2020 to 2021 alone, there was a 74% increase in financial losses — a total of $1.7 billion — among more than 92,000 older victims of fraud in the U.S., according to the paper published in PNAS Nexus. 
+ In the new study, 182 participants ages 18 to 90 with normal cognitive functioning completed two separate tests to predict susceptibility to phishing. 
+ The first, called the Phishing Internet Task, involved participants’ personal email inboxes, delivering 60 simulated phishing emails over 30 days, unbeknownst to the participants. The second test, called the Short Phishing Email Suspicion Test, was administered in a lab. 
+ Results from both tasks revealed a correlation between chronological age and ability to detect a scam: Correctly distinguishing between phishing emails and safe ones steadily declined from the youngest participants to the oldest, the researchers reported. 
+ “One goal of this study was to identify risk profiles for susceptibility to deception,” said senior author  Natalie Ebner , Ph.D., a UF professor of psychology and McKnight Brain Institute researcher. “This paper suggests it’s age. The older you are, the higher the risk.” 
+ Dr. Pehlivanoglu administering a lab test to evaluate susceptibility to phishing emails. 
+ Another goal of the study, Ebner said, was to identify new ways to help prevent fraud. The research team found that the easy-to-administer lab test provided a solid indicator of who is most susceptible. 
+ In that test, participants rate 40 emails presented one at a time in randomized order on suspiciousness, using a four-point scale from “definitely safe” to “definitely suspicious.” The results correlated with the study’s “real life” test, suggesting that participants who showed lower discrimination ability in the lab were also more likely to fall for phishing emails outside the lab. 
+ Even more dramatic were the results for older adults with lower memory capacity on screening tests and those who tested positive as carriers of the APOE4 gene, a genetic variation that can increase the risk of later developing Alzheimer’s disease. That group’s ability to distinguish between safe and unsafe emails declined even more sharply than the general group, the researchers reported. 
+ The new paper was a collaboration between UF, the Translational Genomics Research Institute in Phoenix; the University of Arizona; York University in Toronto; and McGill University. 
+ 
+ Among other aspects, “we collaborated with computer scientists who were able to see if participants interacted with these phishing emails — if they opened the email, clicked in the email or submitted some information through that link,” said first author  Didem Pehlivanoglu , Ph.D., a postdoctoral associate in Ebner’s lab. 
+ The next step in this line of research is to study a more diverse participant set, as one limitation was the study sample was predominantly white participants from the same geographic region of North Central Florida. 
+ With online deception rapidly increasing, solutions can’t come fast enough, Ebner said. 
+ “Companies don’t yet acknowledge it enough themselves that these older adults are users of their apps and their websites and services,” Ebner said. “Now for everyone a lot of activities have moved online. For older adults having less experience with these venues and online places and then also having more assets and less time to recover, it’s really a population that deserves more attention.” Read the paper in PNAS Nexus. 
+ 
+ 
+ 
+ Posted in 
+ 
+ Cognition, Behavior and Sensation ,                         Cognitive Aging News ,                         MBI News   
+ 
+ 
+ Tagged as 
+ 
+ Didem Pehlivanoglu ,                         Natalie Ebner   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     Recent  News 
+ 
+ 
+ 
+ 
+ 
+ 
+         Pain Research Snapshot: Drs. Pedro Valdes-Hernandez, Soamy Montesino-Goicolea and Yenisel Cruz-Almeida
+        
+ 
+         March 19, 2025
+        
+ 
+ 
+ 
+ 
+ 
+         Groundbreaking AI tool generates 3D map of the brain
+        
+ 
+         March 18, 2025
+        
+ 
+ 
+ 
+ 
+ 
+         Research shows AI technology improves Parkinson’s diagnoses
+        
+ 
+         March 17, 2025
+        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         Most Recent
+        
+ 
+ Select 
+  March 2025  
+  February 2025  
+  January 2025  
+  December 2024  
+  November 2024  
+  October 2024  
+  September 2024  
+  August 2024  
+  July 2024  
+  June 2024  
+  May 2024  
+  April 2024  
+  March 2024  
+  February 2024  
+  January 2024  
+  December 2023  
+  November 2023  
+  October 2023  
+  September 2023  
+  August 2023  
+  July 2023  
+  June 2023  
+  May 2023  
+  April 2023  
+  March 2023  
+  February 2023  
+  January 2023  
+  December 2022  
+  November 2022  
+  October 2022  
+  September 2022  
+  August 2022  
+  July 2022  
+  June 2022  
+  May 2022  
+  April 2022  
+  March 2022  
+  February 2022  
+  January 2022  
+  December 2021  
+  November 2021  
+  October 2021  
+  September 2021  
+  August 2021  
+  July 2021  
+  June 2021  
+  May 2021  
+  April 2021  
+  March 2021  
+  February 2021  
+  January 2021  
+  December 2020  
+  November 2020  
+  October 2020  
+  September 2020  
+  August 2020  
+  July 2020  
+  June 2020  
+  May 2020  
+  April 2020  
+  March 2020  
+  February 2020  
+  January 2020  
+  December 2019  
+  November 2019  
+  October 2019  
+  September 2019  
+  August 2019  
+  July 2019  
+  June 2019  
+  May 2019  
+  April 2019  
+  March 2019  
+  February 2019  
+  January 2019  
+  December 2018  
+  November 2018  
+  October 2018  
+  September 2018  
+  August 2018  
+  July 2018  
+  June 2018  
+  May 2018  
+  April 2018  
+  March 2018  
+  February 2018  
+  January 2018  
+  December 2017  
+  November 2017  
+  October 2017  
+  August 2017  
+  July 2017  
+  June 2017  
+  May 2017  
+  March 2017  
+  January 2017  
+  December 2016  
+  November 2016  
+  September 2016  
+  August 2016  
+  July 2016  
+  June 2016  
+  May 2016  
+  February 2016  
+  September 2015  
+  August 2015  
+  July 2015  
+  April 2015  
+  March 2015  
+  January 2015  
+  November 2014  
+  October 2014  
+  September 2014  
+  August 2014  
+  June 2014  
+  May 2014  
+  April 2014  
+  February 2014  
+  January 2014  
+  December 2013  
+  November 2013  
+  October 2013  
+  September 2013  
+  August 2013  
+  July 2013  
+  April 2013  
+  March 2013  
+  February 2013  
+  December 2012  
+  November 2012  
+  October 2012  
+  June 2012  
+  May 2012  
+  April 2012  
+  December 2011  
+  September 2011  
+  August 2011  
+  June 2011  
+  May 2011  
+  January 2011  
+  November 2010  
+  September 2010  
+  July 2010  
+  June 2010  
+  April 2010  
+  March 2010  
+  December 2009  
+  November 2009  
+  October 2009  
+  August 2009  
+  July 2009  
+  June 2009  
+  March 2009  
+  February 2009  
+  December 2008  
+  August 2008  
+  July 2008  
+  June 2008  
+  February 2008  
+  December 2007  
+  November 2007  
+  August 2007  
+  July 2007  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        McKnight Brain Institute
+       
+ 
+ 
+ 
+          University  of  Florida
+         
+ 
+ 
+ 
+ 
+ Utility Links 
+ 
+ 
+ 
+ MBI Faculty Membership Directory 
+ 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ Forms 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  Physical Address
+                 
+ 
+                                      1149 Newell Drive                                       Gainesville, FL 32610                                   
+ 
+                  Email
+                 
+ 
+ 
+ secretary@mbi.ufl.edu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  Make a Gift
+                 
+ 
+ 
+ 
+ Giving Opportunities 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Social Media
+               
+ 
+ 
+ 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Twitter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ YouTube 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ University of Florida Health - Home 
+ 
+ 
+ 
+ 
+ 
+ University of Florida - Home 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Log in 
+ 
+ 
+ 
+ 
+ Website Support 
+ 
+ 
+ 
+ 
+ Sitemap 
+ 
+ 
+ 
+ 
+ Disclaimer & Permitted Use 
+ 
+ 
+ 
+ 
+ Disability Services 
+ 
+ 
+ 
+ 
+ Security Policies 
+ 
+ 
+ 
+ 
+ UF Privacy Policy 
+ 
+ 
+ 
+ 
+ Shands Privacy Policy 
+ 
+ 
+ 
+ 
+ This page uses Google Analytics (Google Privacy Policy) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+      © 2025 University of Florida Health
+
+URL: https://www.ncoa.org/article/how-to-prevent-phishing-scams-a-guide-for-seniors/
+How to Prevent Phishing Scams: A Guide for Seniors   Skip to main content Events Research
+
+ BenefitsCheckUp® Decrease Font Size A Increase Font Size A Search Donate Menu Aging Well Caregiver Support Chronic Diseases Falls Prevention Health & Wellness Nutrition & Exercise Aging in Place Benefits & Assistance Medicare Personal Finance Work & Retirement Pathways AGING WELL: SEE ALL TOPICS Aging Well For most older adults, good health and financial wellness ensures independence, security, and the ability to afford a longer life. Discover tools and resources to improve quality of life and tips to make the most of your money. Professional Resources Benefits Access Economic Well-Being Falls Prevention Healthy Aging Programs Senior Centers Workforce Training PROFESSIONAL RESOURCES: SEE ALL TOPICS Professional Resources Improving the lives of older adults, especially those who are struggling, is not just your job–it’s at your core. Gain your inspiration here and find NCOA tools, tips, and resources to help improve your delivery and service. About Us About NCOA Our Impact Our Promise Financial Information Policy Positions ABOUT US About NCOA We believe every person deserves to age well, regardless of their background. Learn more about the work we do, the people we serve, and why aging well matters now more than ever. Get Involved Ways to Give Partner with Us Advocate Events & Education Community Partners GET INVOLVED Help NCOA Make an Impact Help us build a more just and caring society in which each of us, as we age, lives with dignity, purpose, and security. Explore how to support our mission, partner with us, and advocate on behalf of older adults. Donate Menu Donate Close Search for a keyword Aging Well Caregiver Support Chronic Diseases Falls Prevention Health & Wellness Nutrition & Exercise Aging in Place Benefits & Assistance Medicare Personal Finance Work & Retirement Pathways AGING WELL: SEE ALL TOPICS Professional Resources Benefits Access Economic Well-Being Falls Prevention Healthy Aging Programs Senior Centers Workforce Training PROFESSIONAL RESOURCES: SEE ALL TOPICS About Us About NCOA Our Impact Our Promise Financial Information Policy Positions ABOUT US Get Involved Ways to Give Partner with Us Advocate Events & Education Community Partners GET INVOLVED Events Research
+
+ BenefitsCheckUp® Find us on Social Facebook Linkedin Instagram Twitter YouTube Aging Well Caregiver Support Chronic Diseases Falls Prevention Health & Wellness Nutrition & Exercise Aging in Place Benefits & Assistance Medicare Personal Finance Work & Retirement Pathways AGING WELL: SEE ALL TOPICS Aging Well For most older adults, good health and financial wellness ensures independence, security, and the ability to afford a longer life. Discover tools and resources to improve quality of life and tips to make the most of your money. Professional Resources Benefits Access Economic Well-Being Falls Prevention Healthy Aging Programs Senior Centers Workforce Training PROFESSIONAL RESOURCES: SEE ALL TOPICS Professional Resources Improving the lives of older adults, especially those who are struggling, is not just your job–it’s at your core. Gain your inspiration here and find NCOA tools, tips, and resources to help improve your delivery and service. About Us About NCOA Our Impact Our Promise Financial Information Policy Positions ABOUT US About NCOA We believe every person deserves to age well, regardless of their background. Learn more about the work we do, the people we serve, and why aging well matters now more than ever. Get Involved Ways to Give Partner with Us Advocate Events & Education Community Partners GET INVOLVED Help NCOA Make an Impact Help us build a more just and caring society in which each of us, as we age, lives with dignity, purpose, and security. Explore how to support our mission, partner with us, and advocate on behalf of older adults. Decrease Font Size A Increase Font Size A Search Donate Menu Search Search for a keyword Close This site uses cookies. We use cookies to give you the best experience on our website. For more information on what this means and how we use your data, please see our   Privacy Policy . Accept Close How to Prevent Phishing Scams: A Guide for Seniors Scam and Fraud Prevention Dec 09, 2021 6 min read Print Page Share Key Takeaways Phishing is one of the internet’s oldest and most well-known scams. There are many types of phishing attacks used by cyber criminals. Unlike spam (junk mail), phishing attacks are deliberate attempts to steal your information and use it in unlawful ways. Knowing how to spot phishing emails is the first step in keeping your sensitive personal information safe from thieves. Elderly scams are a multi-million dollar business that robs seniors of their hard-earned savings, retirement funds, and even government benefits. 
+ The financial damage can be devastating: in 2020, the Internet Crime Complaint Center (IC3)  reported  losses in excess of $966 million for people age 60 and over. 
+ While there are many methods cyber criminals use to defraud older adults,  phishing  is one of the internet’s oldest and most well-known scams.  
+ What is phishing? 
+ Phishing is a type of internet hoax in which scammers use email and other methods to steal personal information, such as financial details or account passwords. This approach earned its unusual name because it uses attractive “bait” to lure people to websites and solicit their data under false pretenses. 
+ Phishing is not the same as spam. While spam is just another term for junk mail and unwanted ads, phishing attacks are deliberate attempts to steal your information and use it in harmful ways. 
+ How does phishing work? 
+ There are three main components to a phishing scam: 
+ 
+ 
+ The attack is conducted via electronic communications. Although email is common, phishing can also be carried out via text messages, social media accounts, voicemail, and even phone calls. 
+ All forms of phishing aim to convince you that a fake communication is real and credible. The attacker claims to be an individual or organization that’s familiar and trustworthy to you. 
+ The goal of a phishing attack is to obtain sensitive personal information, such as login credentials, bank details, or credit card numbers. 
+ 
+ 
+ With all phishing attacks, the scammer delivers a carefully crafted pitch aimed at getting you to click a link, download an attachment, or provide specific personal information. In some cases, you may even be asked to make a payment, and most recently  we’ve seen scammers using the COVID-19 vaccine rollout  to steal Medicare numbers and personal information. Some common phishing attack examples include: 
+ 
+ 
+ A plea for help:  With a goal of tugging at your heartstrings, the attacker sends you an email pretending to be a good friend or relative (e.g., your grandchild). They claim to be in financial dire straits and request your assistance immediately. How are cyber criminals able to impersonate people you know? With social media, scammers have access to more of our personal information than ever before. This allows them to make their messages highly targeted—and often very believable. 
+ 
+ 
+ 
+ 
+ You’re the grand prize winner:  You receive a text message congratulating you on being the winner of a very big prize, whether it's an irresistible travel package deal or free tickets to the event of the year. You're asked to provide your personal details in order to claim your award. 
+ 
+ 
+ 
+ 
+ Your bank account has been compromised:  You get an “urgent” notice that appears to be from your bank, alerting you of suspicious activity on your account. You're then asked to click a link that takes you to a website, where you'll be prompted to confirm your bank account information. 
+ The government is after you:  Few things in life are as jarring as an authoritatively worded notice from the Internal Revenue Service (IRS). Scammers know this, which is why many phishing emails appear to be from the U.S. government. An email like this typically has a threatening tone and mentions big, scary penalties—unless you provide the payment or personal data they demand. 
+ 
+ These types of phishing attacks have a flip side, too. In some cases, they’re sent during tax season, offering you a generous refund after you confirm your financial details. 
+ 
+ Why does phishing work so well? 
+ Emails, text messages, voicemail messages, and even voice calls are not authenticated. This means that, just like a postcard sent through the mail, there’s no real way to validate where they came from. That gives scammers plenty of freedom to mimic trusted brands in their communications. 
+  “Phishing is one of the most common and pervasive threats. A 2021 report by Avast found that the chances of consumers encountering phishing scams has increased by 20% in the June-October period, compared to the first five months of the same year," said Emma McGowan, a privacy and security expert at Avast. 
+ Sophisticated phishers are very skilled at creating spoof email templates and websites that are almost indistinguishable from the real thing, right down to the URL (website address) and security certificates. You may think you’re receiving a credible message from a bank, online store, or credit card company. And if you’re not paying close attention, you might not notice the trickery until it’s too late. 
+ How do you avoid phishing scams? 
+ Knowing how to stop phishing emails and texts means knowing what to look for. While scammers are always changing their approaches to evade detection, certain red flags can help tip you off to trouble. Some  telltale signs  of a phishing email or text message include: 
+ 
+ 
+ Offers that seem too good to be true 
+ High-pressure sales pitches that stress urgency 
+ Alerts that there’s a problem with your account (e.g. suspicious activity or outdated payment information) 
+ Shortened  or misspelled links 
+ Emails that don't address you by name 
+ Messages with poor grammar and spelling 
+ Direct requests or demands for payment 
+ Requests to confirm personal information 
+ 
+ 
+ 
+ The best defense against a phishing scam is to verify with the person or organizations who sent the email or message before clicking on anything," McGowan continued. 
+ 
+ Remember that you can never be 100% certain that the sender of an email, text message, voicemail, or phone call is who they say they are. That’s why it’s important to approach every communication with a healthy dose of skepticism. Here are some personal cybersecurity best practices to keep in mind: 
+ 
+ 
+ Don’t click on any links found within emails or text messages if the original message was not initiated by you. 
+ Navigate to trusted websites by typing the web address directly into the browser address bar—instead of clicking on a link. 
+ Verify  security certificates  of websites by clicking the small padlock icon in the left corner of the browser address bar. Make sure the URL begins with “HTTPS.” An HTTPS connection is protected by a special type of security technology, which means that any information you send through the website is kept private. 
+ Do not send personal information in email or text messages. Again, this information is not secure, and you can’t be sure who the recipient is. 
+ Never give out personal information over the phone during calls that are not initiated by you. Always double-check to make sure you’re using the correct phone number of the person or business you’re trying to contact. 
+ 
+ 
+ When it comes to preventing phishing scams, education is a powerful way to protect yourself. Installing reputable antivirus software on your devices is another. Many of these software programs contain an anti-phishing tool that detects and blocks phishing attempts before they reach you. There are a number of trusted options  available for free  on the web. 
+ This content on phishing was developed in partnership with  Avast . Learn more about Avast’s  privacy and security software  and how it can help protect your information and data. 
+ Share Get More Tips to Avoid Scams and Fraud Older adults lose billions of dollars each year to scams and fraud. Learn how to spot common scams, keep your money secure, and report financial fraud if you suspect you’re a victim. Explore More Related Articles Protecting Yourself Against Tech Support Scams Government Imposter Scams: What They Are and How to Spot Them Sweetheart Scams: How to Avoid Being a Victim Related Articles The Top 5 Financial Scams Targeting Older Adults  Feb 20, 2025 What Are Tax Refund Scams? A Guide for Older Adults Feb 13, 2025 What Are AI Scams? A Guide for Older Adults Oct 31, 2024 Close Make Aging Well a Right for All Now is the time to ensure that aging well is a right for all, not just for a few. Your gift today can make all the difference—helping people rejoin the workforce, navigate Medicare, and access trusted guidance. With your support, we can be there when we’re needed most.  
+ Older adults are counting on us. Can we count on you? Donate Today Get NCOA in Your Inbox Choose where we'll send you resources to support your health and financial well-being. Select an option(s) below that best describes you to get communication that matches your interests. I need resources for myself or a loved one I'm an aging services professional who works with older adults I want to advocate for better aging policy First Name This field is required. Last Name This field is required. Email Address Please enter a valid email address. Submit Footer Donate ABOUT US About Us Impact Report Our Promise Financial Information Policy Positions ABOUT US About Us Impact Report Our Promise Financial Information Policy Positions QUICK LINKS Press Room Action Center Careers Contact Us QUICK LINKS Press Room Action Center Careers Contact Us Follow NCOA on Social Media: Facebook Linkedin Instagram Twitter YouTube 251 18th Street South, Suite 500, Arlington, VA 22202 251 18th Street South, Suite 500, Arlington, VA 22202 ©   2025   National Council on Aging, Inc. Secondary Footer Navigation Privacy Policy Terms of Service Ethics & Compliance Back to Top
+
+URL: https://www.ncoa.org/article/what-are-the-top-online-scams-targeting-older-adults/
+The Top Online Payment Scams Targeting Seniors  Skip to main content Events Research
+
+ BenefitsCheckUp® Decrease Font Size A Increase Font Size A Search Donate Menu Aging Well Caregiver Support Chronic Diseases Falls Prevention Health & Wellness Nutrition & Exercise Aging in Place Benefits & Assistance Medicare Personal Finance Work & Retirement Pathways AGING WELL: SEE ALL TOPICS Aging Well For most older adults, good health and financial wellness ensures independence, security, and the ability to afford a longer life. Discover tools and resources to improve quality of life and tips to make the most of your money. Professional Resources Benefits Access Economic Well-Being Falls Prevention Healthy Aging Programs Senior Centers Workforce Training PROFESSIONAL RESOURCES: SEE ALL TOPICS Professional Resources Improving the lives of older adults, especially those who are struggling, is not just your job–it’s at your core. Gain your inspiration here and find NCOA tools, tips, and resources to help improve your delivery and service. About Us About NCOA Our Impact Our Promise Financial Information Policy Positions ABOUT US About NCOA We believe every person deserves to age well, regardless of their background. Learn more about the work we do, the people we serve, and why aging well matters now more than ever. Get Involved Ways to Give Partner with Us Advocate Events & Education Community Partners GET INVOLVED Help NCOA Make an Impact Help us build a more just and caring society in which each of us, as we age, lives with dignity, purpose, and security. Explore how to support our mission, partner with us, and advocate on behalf of older adults. Donate Menu Donate Close Search for a keyword Aging Well Caregiver Support Chronic Diseases Falls Prevention Health & Wellness Nutrition & Exercise Aging in Place Benefits & Assistance Medicare Personal Finance Work & Retirement Pathways AGING WELL: SEE ALL TOPICS Professional Resources Benefits Access Economic Well-Being Falls Prevention Healthy Aging Programs Senior Centers Workforce Training PROFESSIONAL RESOURCES: SEE ALL TOPICS About Us About NCOA Our Impact Our Promise Financial Information Policy Positions ABOUT US Get Involved Ways to Give Partner with Us Advocate Events & Education Community Partners GET INVOLVED Events Research
+
+ BenefitsCheckUp® Find us on Social Facebook Linkedin Instagram Twitter YouTube Aging Well Caregiver Support Chronic Diseases Falls Prevention Health & Wellness Nutrition & Exercise Aging in Place Benefits & Assistance Medicare Personal Finance Work & Retirement Pathways AGING WELL: SEE ALL TOPICS Aging Well For most older adults, good health and financial wellness ensures independence, security, and the ability to afford a longer life. Discover tools and resources to improve quality of life and tips to make the most of your money. Professional Resources Benefits Access Economic Well-Being Falls Prevention Healthy Aging Programs Senior Centers Workforce Training PROFESSIONAL RESOURCES: SEE ALL TOPICS Professional Resources Improving the lives of older adults, especially those who are struggling, is not just your job–it’s at your core. Gain your inspiration here and find NCOA tools, tips, and resources to help improve your delivery and service. About Us About NCOA Our Impact Our Promise Financial Information Policy Positions ABOUT US About NCOA We believe every person deserves to age well, regardless of their background. Learn more about the work we do, the people we serve, and why aging well matters now more than ever. Get Involved Ways to Give Partner with Us Advocate Events & Education Community Partners GET INVOLVED Help NCOA Make an Impact Help us build a more just and caring society in which each of us, as we age, lives with dignity, purpose, and security. Explore how to support our mission, partner with us, and advocate on behalf of older adults. Decrease Font Size A Increase Font Size A Search Donate Menu Search Search for a keyword Close This site uses cookies. We use cookies to give you the best experience on our website. For more information on what this means and how we use your data, please see our   Privacy Policy . Accept Close What Are the Top Online Scams Targeting Older Adults? Scam and Fraud Prevention Jul 17, 2024 8 min read Print Page Share Created in Partnership with Key Takeaways Older adults are often the target of financial scams. This may be due to scammers’ beliefs about their wealth, their generous nature, or social isolation. According to the I3C, roughly $3.4 billion in total fraud losses were reported by people over age 60 in 2023, up 11% from 2022. There are many types of online scams used today. Knowing what red flags to look out for can help you keep yourself or someone else safe. Related Topics Personal Finance Getting scammed wasn't on Phyllis Weisberg’s radar. She was a trusting soul who believed most people are good and honest. But after accepting “help” from thieves posing as  tech support  reps, the unsuspecting  90-year-old was defrauded of $20,000 . 
+ Phyllis is not alone in her plight—far from it. New data from the Federal Trade Commission (FTC) revealed that consumers lost more than $10 billion to fraud in 2023—the first time losses have ever risen that high. 1 
+ Older people are especially vulnerable to online scams. According to the FBI Internet Crime Complaint Center (IC3), roughly $3.4 billion in total fraud losses were reported by Americans over age 60 in 2023, up 11% from 2022. The average loss per case was nearly $34,000. 2 
+ Why are seniors at higher risk for scams? Although many are  barely making ends meet , scammers may believe they have ample retirement savings sitting in their bank account. Some older adults can be more trusting by nature, and some also have  cognitive issues  that can make them prone to exploitation. Additionally, many live alone, with no one to help manage their money. 
+ According to Soo-Lynn Getz, Director of Fraud Prevention at Zelle®, it's important for older adults to stay diligent in understanding what scams are out there. 
+ "When older adults are intentionally seeking and sharing knowledge on how current scams are perpetrated, along with what red flags to look for, this builds the ability to reflect on the situation while it is occurring, as well as to pause and reflect." Getz said. "The power of that pause could support an older adult in stopping the emotional response to act without thinking.” 
+ Criminals who target the older adult population are constantly evolving their social engineering and their phishing techniques to be very convincing. "Scammers are really smart,” said Abigail Bishop, Head of External Relations for Scam Prevention at Amazon, during a panel at  Age + Action 2024 . “They are keeping a pulse on the way reputable organizations are communicating with consumers, and they are replicating those communications through all sorts of different communication channels.” 
+ What are the top online scams targeting older adults? 
+ Financial scams come in many forms, but there are certain types that zero in on older adults. Below are some of the most common. 
+ Imposter scams 
+ What is an  imposter scam ? It refers to any type of scam where a fraudster attempts to trick you by pretending to be someone else—like a government agent, bank representative, or trusted business. They may even pretend to be someone you know personally. In 2023, imposter scams were associated with the second highest reported consumer loss amount: $2.7 billion. 1 
+ Imposter scams lean on two main methods of trickery: 
+ 
+ Authority:  With this technique, scammers take advantage of the fact that people are not likely to question authority figures, and/or they fear the “scary” consequences threatened by the scammer. For example, scammers may pretend to be:
+
+	 
+ Your electric or gas company claiming they’ll cut off your services unless you pay what you owe them 
+ The IRS, Social Security Administration, or other government organization telling you that you owe taxes and/or fees and threatening criminal charges 
+ Your bank telling you there’s a problem with your account and requesting money transfers or account details 
+ 
+ 
+ 
+ 
+ 
+ Familiarity:  This type of imposter scam is particularly devious. Bad actors pretend to be a loved one and try to persuade you to give them sensitive personal information or send them money through a digital payment platform, by wire, or via check. The scammer may, for instance:
+
+	 
+ Claim to be (or be with) your grandchild or other close family member, saying they’re in serious trouble and need emergency financial help (e.g., bail money or money for medical bills). This is called the "grandparent scam." 
+ Pretend to be romantically interested in you, and suddenly start asking you for money or bank account details after gaining your trust and affection. This is also known as a  sweetheart scam . 
+ 
+ 
+ 
+ Important:  NCOA was alerted to a scam involving unsolicited calls and text messages from someone claiming to be a representative from  BenefitsCheckUp . This person might ask you to send them gift cards in exchange for enrollment in benefits programs that help pay for groceries, utilities, and other expenses. 
+ 
+ If you’re contacted by someone attempting to pose as an NCOA representative, hang up the phone immediately. Do not reply to any text messages or click on any links. 
+ Instead, email  scams@ncoa.org  to tell us what happened. You can also report the incident to the FTC by visiting  ReportFraud.ftc.gov . 
+ Tech support scams 
+ Tech support scams , along with government imposter scams, were the top fraud categories affecting older adults in 2023, accounting for $1.3 billion in losses according to IC3. 2 
+ These scams usually involve unsolicited offers to fix a “problem” with your computer or software. They typically come from someone pretending to be from a legitimate software company (e.g., Microsoft or Apple). The scammer may initially reach out to you by phone, text message, or email. Or, you may get a pop-up alert while using your computer. The “representative” requests remote access to your system, which allows them to install malware or steal your information. In other cases, they pretend to repair your technical issues. Then, the scammer demands payment via gift card, money transfer via an online payment app, or another hard-to-trace method. 
+ In a  newer version of the tech support scam , the scammer tells you you’re owed a potential refund for a tech-related subscription. They request your bank information and then claim to have accidentally transferred a much larger refund than you were owed. You are asked to return the difference to them by mailing wrapped-up cash to an address they provide. 
+ 
+ Online shopping  scams 
+ Online marketplaces like Amazon, eBay, Facebook Marketplace, and Craigslist are used by millions of consumers every day to buy, sell, and exchange everything from clothing to cookware. But their popularity also makes them a hotspot for scammers. Both buyers and sellers can fall prey to scams in an online marketplace: 
+ 
+ 
+ As a buyer, you may pay for something you either never receive —or what you did receive is not what you expected based on the product description. Or the seller may deny you a refund because you used an unauthorized payment type. 
+ As a seller, you may be contacted and asked to pay a bogus “business account upgrade” fee.  Or you have a buyer who pays you more than the expected price. That buyer asks for a refund of the difference, then cancels the original payment, leaving you out of money. 
+ 
+ 
+ Online marketplace scams  have some telltale red flags. The offer may seem too good to be true—such as a high-demand item being sold for significantly less than its market value. The seller may push a false sense of urgency with the intention of getting you to act on impulse (instead of reason). Or they may provide suspiciously vague information about their product, shipping time, and return policies. 
+ Another warning sign is product listings that demand specific payment methods, such as gift cards or money sent through a specific digital payment app or platform. These payment methods aren't approved by online marketplaces and often can't be refunded. 
+ “Scammers tend to be creatures of habit," Getz said. "Some red flags older adults should always be looking for include a false sense of urgency to cause immediate action, being asked for their one-time passcode, being told to click on links to enter credentials and/or change their passwords, and being forced to use specific nonpayment protection payment methods." 
+ Fake check scams 
+ A  fake check scam  can happen when a scammer gives someone a fraudulent check to deposit and then asks them to send back money for a variety of reasons. Here are some examples: 
+ 
+ 
+ You respond to an online job ad for a remote job and are told you’re hired.  The “employer” sends you a check and tells you to send a portion of the money back through a payment app or to purchase gift cards and send your "boss" the PIN numbers. The scammer redeems the gift cards instantly, leaving you with nothing. And if a payment is transferred through a payment app it often cannot be refunded. 
+ A  company contacts you saying you’ve won a prize or sweepstakes.  They send you a check, and then request a digital payment to cover taxes, shipping and handling, or processing fees. Legitimate sweepstakes do not work this way. 
+ A person buys an item from you online, and then “accidentally” sends you a check for more than what they owe you.  They ask you to refund the balance with a digital payment platform (one that does not allow payment cancellation). 
+ 
+ 
+ You may be wondering, how do scammers get away with writing  fraudulent checks ? These scams work so well because, thanks to modern printing technology, fake checks can be indistinguishable from the real thing—even to bank employees. They’re often printed with the names and addresses of reputable financial institutions. Fake checks can also be real checks written on bank accounts that belong to someone whose identity the scammer has stolen. It can take weeks for a bank to figure out that a check is fraudulent, which leaves plenty of time for a thief to collect their ill-gotten gains and disappear. 
+ Awareness can help you stop scams in their tracks 
+ The first step to protecting yourself and those you love from payment scams is simply knowing these dishonest practices exist. 
+ "Awareness really is the best defense against fraud," says NCOA Chief Customer Officer Josh Hodges. 
+ 
+ Scammers don’t rest; they’re constantly working on new and creative ways to bilk people out of their hard-earned money," Hodges continued. 
+ 
+ "That’s why it’s so important to keep yourself up to date on the latest scams targeting older adults,” she said. Awareness of how scams work can help you recognize them in the moment, remember to always pause and think it through. 
+ What to do if you’ve been scammed 
+ If you believe you’ve been scammed, try not to feel ashamed.  Scams  are purposefully designed to catch a person off guard, and they can happen to any of us. Instead, call a trusted family member or friend and explain what occurred. Contact your financial institution as soon as possible if money has been taken from your account. 
+ You can also  report scams online to the FTC.  While you may not be able to recover your loss, sharing your experience could help prevent the same scammers from harming other older adults.  
+ This content on online scams was developed in partnership with  Zelle .  Zelle and the Zelle related marks are property of Early Warning Services, LLC. 
+ Sources 
+ 1. Federal Trade Commission (FTC). As Nationwide Fraud Losses Top $10 Billion in 2023, FTC Steps Up Efforts to Protect the Public. Found on the internet at https://www.ftc.gov/news-events/news/press-releases/2024/02/nationwide-fraud-losses-top-10-billion-2023-ftc-steps-efforts-protect-public 
+ 2. Federal Bureau of Investigation (FBI) Internet Crimes Complaint Center (IC3). Elder Fraud Report 2023. Found on the internet at https://www.ic3 
+ 2. Reported Frauds and Losses by Age (2022). Federal Trade Commission. Found on the internet at https://public.tableau.com/app/profile/federal.trade.commission/viz/FraudReports/AgeFraud 
+ 3. Federal Bureau of Investigation. Elder Fraud Report 2022. Found on the internet at https://www.ic3.gov/Media/PDF/AnnualReport/2022_IC3ElderFraudReport.pdf 
+ Share Related Topics Personal Finance Stay informed Newsletter We'll send you resources to support independence, health, and economic security. Sign Up Related Articles Protecting Yourself Against Tech Support Scams Government Imposter Scams: What They Are and How to Spot Them Sweetheart Scams: How to Avoid Being a Victim Related Articles The Top 5 Financial Scams Targeting Older Adults  Feb 20, 2025 What Are Tax Refund Scams? A Guide for Older Adults Feb 13, 2025 What Are AI Scams? A Guide for Older Adults Oct 31, 2024 Close Make Aging Well a Right for All Now is the time to ensure that aging well is a right for all, not just for a few. Your gift today can make all the difference—helping people rejoin the workforce, navigate Medicare, and access trusted guidance. With your support, we can be there when we’re needed most.  
+ Older adults are counting on us. Can we count on you? Donate Today Get NCOA in Your Inbox Choose where we'll send you resources to support your health and financial well-being. Select an option(s) below that best describes you to get communication that matches your interests. I need resources for myself or a loved one I'm an aging services professional who works with older adults I want to advocate for better aging policy First Name This field is required. Last Name This field is required. Email Address Please enter a valid email address. Submit Footer Donate ABOUT US About Us Impact Report Our Promise Financial Information Policy Positions ABOUT US About Us Impact Report Our Promise Financial Information Policy Positions QUICK LINKS Press Room Action Center Careers Contact Us QUICK LINKS Press Room Action Center Careers Contact Us Follow NCOA on Social Media: Facebook Linkedin Instagram Twitter YouTube 251 18th Street South, Suite 500, Arlington, VA 22202 251 18th Street South, Suite 500, Arlington, VA 22202 ©   2025   National Council on Aging, Inc. Secondary Footer Navigation Privacy Policy Terms of Service Ethics & Compliance Back to Top
+
+URL: https://gbt.bank/educating-elderly-family-members-on-phishing-risks/
+Educating Elderly Family Members on Phishing Risks - Gibsland Bank & Trust 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to content 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Locations & Hours 
+ 
+ 
+ 
+ 
+ Careers 
+ 
+ 
+ 
+ 
+ Pay Your Loan 
+ 
+ 
+ 
+ 
+ Reorder Checks 
+ 
+ 
+ 
+ 
+ Mobile App 
+ 
+ 
+ 
+ 
+ Share Files 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ Personal Business Lending Mortgages Investments 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Online Banking 
+ 
+ 
+ 
+ 
+ 
+ Online Banking 
+ 
+ 
+   
+ 
+   
+ Forgot Username 
+ Enroll Now 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Checking Savings Digital Banking News/Events About Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Educating Elderly Family Members on Phishing Risks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Phishing scams are becoming increasingly sophisticated, and elderly internet users are often prime targets. As outlined in our previous post on  “Essential Steps to Take After a Phishing Scam” , it’s important to take proactive steps to secure online information. In this post, we focus on educating elderly family members about phishing risks, helping them recognize scams, and teaching safe online habits. 
+ How Can I Teach My Elderly Parents About Phishing Scams? 
+ Start by explaining the basics of phishing scams, including how scammers impersonate legitimate companies to steal  personal  information. Use real-life examples to make the concept more relatable, and emphasize the importance of skepticism when receiving unsolicited emails or texts. 
+ What Are Effective Ways to Educate Seniors About Phishing Risks? 
+ Break down phishing risks into simple, easy-to-understand terms. Encourage seniors to ask questions and practice identifying suspicious messages. Regularly review phishing examples and keep communication open to reinforce their understanding of online safety. 
+ How Do I Explain Phishing to Elderly Family Members? 
+ Use analogies they are familiar with, such as comparing phishing to traditional scams like phone fraud. Explain that phishing attempts can appear legitimate, making it important to verify the authenticity of emails, texts, or phone calls before responding. 
+ What Are the Common Phishing Scams Targeting the Elderly? 
+ Common phishing scams targeting seniors include fake bank emails, tech support scams, and fraudulent IRS communications. These scams often create a sense of urgency, urging the victim to act immediately, which increases the likelihood of falling for the scam. 
+ How Can Seniors Recognize Phishing Emails? 
+ Teach seniors to recognize phishing emails by looking for tell-tale signs such as generic greetings, misspelled words, or suspicious links. Encourage them to always hover over links to verify their authenticity before clicking. 
+ Tips for Helping Elderly Family Members Avoid Phishing Scams 
+ Ensure they never share  personal  or financial information through email. Encourage them to contact institutions directly through official channels if they receive a suspicious request. Set up spam filters and antivirus software to offer an extra layer of protection. 
+ How to Talk to Seniors About Online Security? 
+ Approach the topic with patience, making sure to emphasize the importance of staying vigilant online. Use friendly language, avoiding technical jargon. Share tips on how to secure their devices and accounts. 
+ What Should I Tell My Elderly Parents About Phishing? 
+ Let them know that reputable companies, banks, or government agencies will never ask for sensitive information via email or text. Remind them to avoid clicking on links from unknown senders. 
+ How Can I Protect My Elderly Relatives From Phishing Attacks? 
+ Install trusted antivirus software and set up email spam filters. Encourage them to use strong, unique passwords for each account and enable two-factor authentication where possible. 
+ What Are the Signs of a Phishing Scam That Seniors Should Know? 
+ Key signs of a  phishing scam  include poor grammar, a sense of urgency, unexpected requests for  personal  information, and mismatched email addresses or URLs. 
+ How Can Elderly People Verify Suspicious Messages? 
+ Teach them to verify suspicious messages by contacting the organization directly using a phone number or website they trust, rather than clicking on links or calling numbers provided in the message. 
+ What Are Some Resources to Help Seniors Learn About Phishing? 
+ Share trusted resources, such as  FinCEN’s website  or their local bank’s cybersecurity guides. Encourage them to attend online safety seminars or read up on phishing awareness from verified sources. 
+ How Can I Support My Elderly Family in Staying Safe Online? 
+ Regularly check in with elderly relatives about their online habits. Help them update security settings and passwords, and review any unusual emails they may receive. 
+ What Online Practices Should I Teach Elderly Family Members? 
+ Encourage the use of strong passwords, secure browsing habits, and the avoidance of public Wi-Fi for financial transactions. Stress the importance of logging out after using any online service. 
+ How Can Seniors Report Phishing Scams? 
+ If they suspect a  phishing scam , teach them to report it to their bank or the Federal Trade Commission (FTC). This can help stop scammers from targeting others. 
+ Why Are Seniors Targeted by Phishing Scams? 
+ Seniors are often targeted because they may be less familiar with newer technologies, making them more vulnerable to falling for phishing scams. Educating them about these risks is a critical step in preventing fraud. 
+ What Should Elderly People Do if They Fall for a Phishing Scam? 
+ Encourage immediate action if they’ve fallen victim to a  phishing scam . They should change all passwords, notify their bank, and consider placing a fraud alert on their credit report. 
+ How Can I Create a Safe Online Environment for My Elderly Relatives? 
+ Help set up their devices with secure settings, including automatic software updates and trusted security tools. Regularly check their devices for malware and remind them to be cautious online. 
+ By offering continuous support and guidance, you can help elderly family members stay safe from phishing attacks. For more advice on staying secure online, visit our  News and Events  page. 
+ 
+ 
+ 
+ 
+ 
+ 
+ Posts navigation 
+ ← Essential Steps to Take After a Phishing Scam Top 10 Tips for Recognizing Phishing Scams → 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get Started 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 📞 Call (318) 843-6228 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recent Posts 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Top 10 Tips for Recognizing Phishing Scams 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Educating Elderly Family Members on Phishing Risks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Essential Steps to Take After a Phishing Scam 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Important Update for Business Customers: Comply with New Beneficial Ownership Information (BOI) Requirements 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Safeguard Online Banking: Phishing Scam Prevention Tips 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ Awards Mobile Banking/App Routing Number #111104617 Reorder Checks Lost or Stolen Card Privacy & Security Civil Rights Notice 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2025 , All rights reserved. 
+Privacy Policy 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Tel:  318.843.6228  | Fax: 318.843.9961 | 1246 Third Street P.O. Box 180 Gibsland, LA 71028
+
+URL: https://news.ufl.edu/2024/06/older-adults-vulnerable-to-scams/
+The Conversation: Are older adults more vulnerable to scams? News | University of Florida 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ School Logo Link 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ MENU 
+   
+ 
+ 
+ 
+ 
+ University of Florida 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ For Faculty 
+ 
+ 
+ Faculty Resources 
+ Senior Communicators 
+ 
+ 
+ 
+ 
+ 
+ For Media 
+ 
+ 
+ Contact 
+ Subscribe to News Releases 
+ UF Facts for Media 
+ UF Administration 
+ UF Directory 
+ Hurricane Hub 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     University of Florida   
+ 
+ MENU 
+ 
+ 
+ 
+ 
+ News Categories 
+ 
+ Agriculture + Environment 
+ Arts + Media 
+ Business + Economics 
+ Campus + Community 
+ Education 
+ Government + Society 
+ Health + Science 
+ Viewpoints 
+ 
+ Subscribe to our Newsletter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Are older adults more vulnerable to scams? What psychologists have learned about who’s most susceptible, and when 
+ 
+ Adobe Stock 
+ 
+ About 1 in 6 Americans are age 65 or older, and that percentage is projected to grow. Older adults often hold positions of power, have retirement savings accumulated over the course of their lifetimes, and make important financial and health-related decisions – all of which makes them attractive targets for financial exploitation. 
+ In 2021, there were more than 90,000 older victims of fraud, according to the FBI. These cases resulted in US$1.7 billion in losses, a 74% increase compared with 2020. Even so, that may be a significant undercount, since embarrassment or lack of awareness keeps some victims from reporting. 
+ Financial exploitation represents one of the most common forms of elder abuse. Perpetrators are often individuals in the victims’ inner social circles – family members, caregivers or friends – but can also be strangers. 
+ When older adults experience financial fraud, they typically lose more money than younger victims. Those losses can have devastating consequences, especially since older adults have limited time to recoup – dramatically reducing their independence, health and well-being. 
+ But older adults have been largely neglected in research on this burgeoning type of crime. We are psychologists who study social cognition and decision-making, and our research lab at the University of Florida is aimed at understanding the factors that shape vulnerability to deception in adulthood and aging. 
+ Defining vulnerability 
+ Financial exploitation involves a variety of exploitative tactics, such as coercion, manipulation, undue influence and, frequently, some sort of deception. 
+ The majority of current research focuses on people’s ability to distinguish between truth and lies during interpersonal communication. However, deception occurs in many contexts – increasingly, over the internet. 
+ Our lab conducts laboratory experiments and real-world studies to measure susceptibility under various conditions: investment games, lie/truth scenarios, phishing emails, text messages, fake news and deepfakes – fabricated videos or images that are created by artificial intelligence technology. 
+ To study how people respond to deception, we use measures like surveys, brain imaging, behavior, eye movement and heart rate. We also collect health-related biomarkers, such as being a carrier of gene variants that increase risk for Alzheimer’s disease, to identify individuals with particular vulnerability. 
+ And our work shows that an older adult’s ability to detect deception is not just about their individual characteristics. It also depends on how they are being targeted. 
+ Individual risk factors 
+ Better cognition, social and emotional capacities, and brain health are all associated with less susceptibility to deception. 
+ Cognitive functions, such as how quickly our brain processes information and how well we remember it, decline with age and impact decision-making. For example, among people around 70 years of age or older, declines in analytical thinking are associated with reduced ability to detect false news stories. 
+ Additionally, low memory function in aging is associated with greater susceptibility to email phishing. Further, according to recent research, this correlation is specifically pronounced among older adults who carry a gene variant that is a genetic risk factor for developing Alzheimer’s disease later in life. Indeed, some research suggests that greater financial exploitability may serve as an early marker of disease-related cognitive decline. 
+ Social and emotional influences are also crucial. Negative mood can enhance somebody’s ability to detect lies, while positive mood in very old age can impair a person’s ability to detect fake news. 
+ Lack of support and loneliness exacerbate susceptibility to deception. Social isolation during the COVID-19 pandemic has led to increased reliance on online platforms, and older adults with lower digital literacy are more vulnerable to fraudulent emails and robocalls. 
+ Finally, an individual’s brain and body responses play a critical role in susceptibility to deception. One important factor is interoceptive awareness: the ability to accurately read our own body’s signals, like a “gut feeling.” This awareness is correlated with better lie detection in older adults. 
+ According to a first study, financially exploited older adults had a significantly smaller size of insula – a brain region key to integrating bodily signals with environmental cues – than older adults who had been exposed to the same threat but avoided it. Reduced insula activity is also related to greater difficulty picking up on cues that make someone appear less trustworthy. 
+ Types of effective fraud 
+ Not all deception is equally effective on everyone. 
+ Our findings show that email phishing that relies on reciprocation – people’s tendency to repay what another person has provided them – was more effective on older adults. Younger adults, on the other hand, were more likely to fall for phishing emails that employed scarcity: people’s tendency to perceive an opportunity as more valuable if they are told its availability is limited. For example, an email might alert you that a coin collection from the 1950s has become available for a special reduced price if purchased within the next 24 hours. 
+ There is also evidence that as we age, we have greater difficulty detecting the “wolf in sheep’s clothing”: someone who appears trustworthy, but is not acting in a trustworthy way. In a card-based gambling game, we found that compared with their younger counterparts, older adults are more likely to select decks presented with trustworthy-looking faces, even though those decks consistently resulted in negative payouts. Even after learning about untrustworthy behavior, older adults showed greater difficulty overcoming their initial impressions. 
+ Reducing vulnerability 
+ Identifying who is especially at risk for financial exploitation in aging is crucial for preventing victimization. 
+ We believe interventions should be tailored, instead of a one-size-fits-all approach. For example, perhaps machine learning algorithms could someday determine the most dangerous types of deceptive messages that certain groups encounter – such as in text messages, emails or social media platforms – and provide on-the-spot warnings. Black and Hispanic consumers are more likely to be victimized, so there is also a dire need for interventions that resonate with their communities. 
+ Prevention efforts would benefit from taking a holistic approach to help older adults reduce their vulnerability to scams. Training in financial, health and digital literacy are important, but so are programs to address loneliness. 
+ People of all ages need to keep these lessons in mind when interacting with online content or strangers – but not only then. Unfortunately, financial exploitation often comes from individuals close to the victim. 
+ 
+ 
+ 
+ This article is republished from   The Conversation   under a Creative Commons license. Read the   original article . 
+ 
+ 
+ 
+ 
+ Natalie C. Ebner and
+Didem Pehlivanoglu / 
+ June 11, 2024 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ News 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Contact Us  
+ University of Florida, Gainesville, FL 32611 
+ news@ufl.edu 
+ 3523920186 
+ 
+ 
+ News Categories  
+ 
+ Agriculture + Environment 
+ Arts + Media 
+ Business + Economics 
+ Campus + Community 
+ Education 
+ Government + Society 
+ Health + Science 
+ 
+ 
+ 
+ For Faculty   
+ 
+ Faculty Resources 
+ Senior Communicators 
+ 
+ 
+ 
+ For Media 
+ 
+ Contact 
+ Subscribe to News Releases 
+ UF Facts for Media 
+ UF Administration 
+ UF Directory 
+ Hurricane Hub 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ © 2025
+                                   University of Florida 
+ 
+ 
+ Accessibility 
+ 
+ 
+ Privacy Statement 
+ 
+ 
+ Acceptable Use Policy 
+ 
+ 
+ Text Only
+
+URL: https://lifelock.norton.com/learn/internet-security/elderly-scams?srsltid=AfmBOopwKg48_O4hd3rebz4W3dBS-WBRt9nPr5mCjuhT2vlmmGjkZbrF
+Elderly scams: Types and tips to help protect seniors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Keep your personal information safe 
+ 
+ Get LifeLock Ultimate Plus to help monitor your SSN, protect your financial accounts, and keep your identity safe. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get it now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Keep your personal information safe 
+ 
+ Get LifeLock Ultimate Plus to help monitor your SSN, protect your financial accounts, and keep your identity safe. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get it now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Keep your personal information safe 
+ 
+ Get LifeLock Ultimate Plus to help monitor your SSN, protect your financial accounts, and keep your identity safe. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get it now 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to Main Content 
+ 
+ 
+ 
+ 
+ 
+ Hamburger Menu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ Identity theft protection
+                                                        
+                                                        
+                                                     
+ 
+ 
+ Budget-Friendly
+                                                        
+                                                        
+                                                     
+ 
+ 
+ Best Protection
+                                                        
+                                                        
+                                                     
+ 
+ 
+ Family
+                                                        
+                                                        
+                                                     
+ 
+ 
+ All in One
+                                                        
+                                                        
+                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ View more
+                                                         
+ 
+ 
+ 
+ LifeLock Standard
+                                                        
+                                                        
+                                                     
+ 
+ 
+ LifeLock Advantage
+                                                        
+                                                        
+                                                     
+ 
+ 
+ LifeLock Ultimate Plus
+                                                        
+                                                        
+                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other identity products
+                                                         
+ 
+ 
+ 
+ Home Title Monitoring
+                                                        
+                                                        
+                                                     
+ 
+ 
+ Mobile App
+                                                        
+                                                        
+                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ Partner with us
+                                                        
+                                                        
+                                                     
+ 
+ 
+ 
+ 
+ 
+ Can’t decide? Try free for 30 days! 
+ 
+                                            Free trial 
+ 
+ 
+ 
+ 
+ How it works 
+ 
+ 
+ Blog
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ Featured Articles
+                                                        
+                                                        
+                                                     
+ 
+ 
+ What is Identity Theft
+                                                        
+                                                        
+                                                     
+ 
+ 
+ Help Protect Against ID Theft
+                                                        
+                                                        
+                                                     
+ 
+ 
+ What is PII
+                                                        
+                                                        
+                                                     
+ 
+ 
+ What is Credit Report
+                                                        
+                                                        
+                                                     
+ 
+ 
+ Ordering a Free Credit Report
+                                                        
+                                                        
+                                                     
+ 
+ 
+ Disputing a Credit Report
+                                                        
+                                                        
+                                                     
+ 
+ 
+ Is Credit Monitoring Enough
+                                                        
+                                                        
+                                                     
+ 
+ 
+ Lost Social Security Card
+                                                        
+                                                        
+                                                     
+ 
+ 
+ Replace Social Security Card
+                                                        
+                                                        
+                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ Products 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Identity theft protection
+                                                    
+                                                    
+                                                 
+ 
+ 
+ Budget-Friendly
+                                                    
+                                                    
+                                                 
+ 
+ 
+ Best Protection
+                                                    
+                                                    
+                                                 
+ 
+ 
+ Family
+                                                    
+                                                    
+                                                 
+ 
+ 
+ All in One
+                                                    
+                                                    
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ Other identity products
+                                                     
+ 
+ 
+ 
+ Home Title Monitoring
+                                                    
+                                                    
+                                                 
+ 
+ 
+ Mobile App
+                                                    
+                                                    
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ View more
+                                                     
+ 
+ 
+ 
+ LifeLock Standard
+                                                    
+                                                    
+                                                 
+ 
+ 
+ LifeLock Advantage
+                                                    
+                                                    
+                                                 
+ 
+ 
+ LifeLock Ultimate Plus
+                                                    
+                                                    
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ Partner with us
+                                                    
+                                                    
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ How it works 
+ 
+ 
+ Blog
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blog 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Featured Articles
+                                                    
+                                                    
+                                                 
+ 
+ 
+ What is Identity Theft
+                                                    
+                                                    
+                                                 
+ 
+ 
+ Help Protect Against ID Theft
+                                                    
+                                                    
+                                                 
+ 
+ 
+ What is PII
+                                                    
+                                                    
+                                                 
+ 
+ 
+ What is Credit Report
+                                                    
+                                                    
+                                                 
+ 
+ 
+ Ordering a Free Credit Report
+                                                    
+                                                    
+                                                 
+ 
+ 
+ Disputing a Credit Report
+                                                    
+                                                    
+                                                 
+ 
+ 
+ Is Credit Monitoring Enough
+                                                    
+                                                    
+                                                 
+ 
+ 
+ Lost Social Security Card
+                                                    
+                                                    
+                                                 
+ 
+ 
+ Replace Social Security Card
+                                                    
+                                                    
+                                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Pricing 
+ 
+ 
+ 
+ 
+ My Account
+                                 
+ 
+ 
+ 
+ 
+ 
+   My Account 
+ 
+ 
+ 
+ 
+ 
+ Log In 
+ 
+ 
+ Help Center 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ Can’t decide? Try free for 30 days! 
+ 
+                            Free trial 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Call us: 
+ 1-800-416-0599 
+ 
+ 
+ 
+ 
+ Call us 
+ 
+ 
+ 
+ 
+ 
+ My Account 
+ 
+ 
+ 
+ Log In 
+ 
+ 
+ Help Center 
+ 
+ 
+ Contact Us 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get protection 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Blog Home 
+ 
+ 
+ 
+                Identity Theft
+                 
+ 
+ 
+ 
+ 
+ 
+                            ID Theft Recovery
+                         
+ 
+ 
+ 
+                            See all articles
+                         
+ 
+ 
+ 
+ 
+ 
+ Data Breaches 
+ 
+ 
+ 
+                Credit & Finance
+                 
+ 
+ 
+ 
+ 
+ 
+                            Credit Cards
+                         
+ 
+ 
+ 
+                            Credit Reports
+                         
+ 
+ 
+ 
+                            See all articles
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+                Fraud
+                 
+ 
+ 
+ 
+ 
+ 
+                            Credit Card Fraud
+                         
+ 
+ 
+ 
+                            Tax Fraud
+                         
+ 
+ 
+ 
+                            Social Security Fraud
+                         
+ 
+ 
+ 
+                            See all articles
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+                Internet Security
+                 
+ 
+ 
+ 
+ 
+ 
+                            Scams
+                         
+ 
+ 
+ 
+                            Social Media
+                         
+ 
+ 
+ 
+                            Passwords
+                         
+ 
+ 
+ 
+                            See all articles
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Blog Categories
+                 
+ 
+ 
+ 
+ Blog Home 
+ 
+ 
+ 
+                Identity Theft
+                 
+ 
+ 
+ 
+ 
+ 
+                            ID Theft Recovery
+                         
+ 
+ 
+ 
+                            See all articles
+                         
+ 
+ 
+ 
+ 
+ 
+ Data Breaches 
+ 
+ 
+ 
+                Credit & Finance
+                 
+ 
+ 
+ 
+ 
+ 
+                            Credit Cards
+                         
+ 
+ 
+ 
+                            Credit Reports
+                         
+ 
+ 
+ 
+                            See all articles
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+                Fraud
+                 
+ 
+ 
+ 
+ 
+ 
+                            Credit Card Fraud
+                         
+ 
+ 
+ 
+                            Tax Fraud
+                         
+ 
+ 
+ 
+                            Social Security Fraud
+                         
+ 
+ 
+ 
+                            See all articles
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+                Internet Security
+                 
+ 
+ 
+ 
+ 
+ 
+                            Scams
+                         
+ 
+ 
+ 
+                            Social Media
+                         
+ 
+ 
+ 
+                            Passwords
+                         
+ 
+ 
+ 
+                            See all articles
+                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Learn 
+ 
+ 
+ 
+ 
+ 
+ Internet Security 
+ 
+ 
+ 
+ 
+ Elderly scams: Types and tips to help protect seniors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 13 types of elderly scams and how to report them 
+ 
+ Scams are inherently deceitful, and they can be particularly insidious when targeting the elderly. Learn common types of elderly scams, and how to help protect yourself and your family. Then, subscribe to LifeLock Ultimate Plus, which offers a suite of powerful features built to help you detect potential identity fraud using your or your loved one’s personal information. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get LifeLock Ultimate Plus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ DB
+                         
+ 
+ 
+ 
+                            Written by Danielle Bodnar
+                         
+ 
+ Updated:  October 04, 2024 
+ 
+                            14 min read
+                         
+ 
+ 
+ 
+ 
+ 
+ Elderly scams are on the rise. In 2023, seniors accounted for 50% of reported fraud cases, and total reported losses from elder fraud amounted to nearly  $3.4 billion in 2023  in the US alone—an 11% increase from the previous year. To help protect yourself and the seniors in your life from major financial loss, you need to know what types of elderly scams are out there. 
+ 
+ 
+ What are elderly scams? 
+ 
+ 
+ Elderly scams are scams that target senior citizens—people over the age of 65, who are often retired—exploiting their particular weaknesses and perceived wealth for financial gain. Many common elderly scams also target other age groups, while some target only seniors. It’s a good idea to be aware of these scams and common scammer tactics no matter your age. 
+ 
+ 
+ Why do scammers target seniors? 
+ 
+ 
+ Scammers may target seniors believing that possible social isolation makes them more likely to respond to anyone who seems friendly. They might also hope that their senior targets are less familiar with current technology and modern-day scams. Older adults also tend to have accumulated wealth and assets over the years, which makes them more appealing targets. 
+ 
+ 
+ And on top of everything else, senior citizens are also  less likely to report suspected fraud , so criminals may perceive this as a less risky group to target. 
+ 
+ 
+ 13 scams targeting seniors 
+ 
+ 
+ The following types of scams, while not always necessarily targeting seniors alone, are among the most common to target seniors. And remember that no matter how old you are, staying aware of the kinds of scams that are out there can help you avoid falling victim. 
+ 
+ 
+ Here are the most common scams targeting seniors today: 
+ 
+ 
+ 1. Tech support scams 
+ 
+ 
+ In 2023, tech support scams accounted for the  highest number of complaints  to the Internet Crime Complaint Center by people over the age of 60. To launch these scams, fraudsters may claim your device has a virus or needs fixing in some other way. 
+ 
+ 
+ Scammers might call you on the phone or use a text, email, or pop-up message on your computer to warn of the “issue” and provide a number to call them on. But the number is fake and the “tech support person” on the other end of the line just wants control of your computer or your financial information. 
+ 
+ 
+ In some cases, they’ll suggest that you need to pay for their supposed protection. When you do, you either receive no new software or the "protection" you do receive is just a malware infection. 
+ 
+ 
+ Tech support scam warning signs:  You’re notified via call, pop-up message, email, or text that your computer has a virus or a technical problem. The scammer asks to gain remote access to resolve the issue or asks you to pay for antivirus software immediately. 
+ 
+ 
+ 2. Sweetheart scams 
+ 
+ 
+ Sweetheart scams, or romance scams, involve scammers using fake online profiles to develop a relationship with victims, aiming to build trust quickly in a whirlwind “romance,” until they ask for money (usually via  CashApp  or non-traceable payment methods like gift cards). Often, the scammer says that the reason they’re asking for money is due to an emergency, such as an accident or urgent help for a loved one. Or, they might need help covering the cost of a plane ticket so they can meet you in person. 
+ 
+ 
+ Once the scammer has the money, your sweetheart vanishes without a trace—or they keep getting into situations where they need more and more money until you have nothing left to give. 
+ 
+ 
+ Sweetheart scam warning signs:  Your sweetheart has a profile that’s too good to be true—perhaps they’ve tailored it to match your exact hobbies and list all your favorite things. These scammers will also usually say they’re far away, and break promises to see you (in person and on video calls). And they may ask for money or request an untraceable payment method after you’ve only interacted online. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Sweetheart scam warning signs. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 3. Investment scams 
+ 
+ 
+ Investment scams promise high returns with supposedly little risk, enticing seniors to invest their life savings or retirement funds. Scammers often use persuasive tactics and professional-looking materials to gain trust, exploiting seniors’ desire for financial security in retirement and their apparent propensity to invest in their legacy to pass on to their children. 
+ 
+ 
+ Investment scam warning signs:  They promise big returns for little or no risk as long as you “invest” quickly. They also emphasize the relatively small amount of money you need to give them (which could rise to the thousands) compared to what you’ll supposedly gain from the investment. 
+ 
+ 
+ 4. Funeral scams 
+ 
+ 
+ Considering the discomfort many of us feel about death and funerals, it’s no surprise that the funeral industry is exploited by unethical and malicious actors. Having reached a later stage of life, older adults are more likely to be targeted by prepaid funeral scammers. Pretending to be from funeral homes, these scammers con victims into prepaying for a funeral they’ll never receive. 
+ 
+ 
+ Funeral scam warning signs:  There’s no itemized price list, as required by the  FTC’s Funeral Rule , or the con artist pressures you into choosing the most expensive services. While funeral scammers might pressure you into paying more than you want, legitimate funeral directors typically won’t do this. 
+ 
+ 
+ 5. Grandparent scams 
+ 
+ 
+ In grandparent scams, scammers pose as a grandchild or another relative in distress, urgently asking for money. They usually claim to be in an emergency situation, such as an accident or being stranded in a foreign country, and they need money to get out of it. This scam takes advantage of older adults’ emotional attachments to loved ones, in the hope they’ll act quickly. 
+ 
+ 
+ Grandparent scam warning signs:  The scammer contacts you on the phone in hysterics and sounds muffled (often blaming bad reception), doesn’t give specific information about the family (possibly only knows some names from social media), and/or pressures you to act quickly while asking you not to tell anyone they asked you for help. 
+ 
+ 
+ 6. Lottery & fake prize scams 
+ 
+ 
+ Lottery scams lure you in by saying you’ve won a lot of money, sometimes using legitimate lottery names, such as the Mega Millions jackpot or the  Publishers Clearing House sweepstakes . But in order to collect your winnings or prize, you'll need to wire a processing fee, tax, or shipping fee or mail cash directly to the lottery's organizers. 
+ 
+ 
+ Lottery scam warning signs:  A sure warning sign is a request for payment before collecting winnings or a prize. Real lotteries never do this. And if you don’t recognize the lottery or remember entering the lottery in the first place, it’s most likely a scam. 
+ 
+ 
+ 7. Charity scams 
+ 
+ 
+ Charity scams  often run rampant immediately after a disaster breaks out, like war, floods, or a pandemic. Fraudsters may reach out to you by phone, text, or email asking that you support a real charitable cause through a fake charity. They might also post fake ads or posts and masquerade as a volunteer from a legitimate charity. 
+ 
+ 
+ Charity scam warning signs:  Unsolicited contact from a charity you don’t recognize (they can also pretend to be from a well-known charity), pressure to donate immediately, and requests for donations made by gift card or a money-transfer app. When in doubt, search the name of the charity and verify it through  Charity Navigator  and  Charity Watch , then donate through the charity’s website or official phone number. 
+ 
+ 
+ 8. Internet scams 
+ 
+ 
+ Internet scams try to trick seniors into handing over money or sensitive information. This can be done via phishing emails,  scammy social media messages , or fake websites. Scammers who target seniors may do so hoping they aren’t technologically savvy and/or won’t be as aware of online scams. 
+ 
+ 
+ Internet scam warning signs:  Watch out for emails supposedly from a trusted organization or a website that has poor grammar or a suspicious sender address or URL. If you hover over a link and the address that appears at the bottom of your screen isn’t what you expect, then it could direct you to a malicious page or download. 
+ 
+ 
+ 9. Government impersonation scams 
+ 
+ 
+ A government impersonation scam begins with a call, text, email, or social media message from a  scammer claiming to be from the IRS , Social Security Administration, or the FTC. They might provide a fake employee ID number that sounds convincing and ask for money or personal information to resolve a non-existent issue. 
+ 
+ 
+ Government impersonation warning signs:  Someone contacts you from a government agency via phone, email, or social media message asking for money or personal information—a government agency will never do that. 
+ 
+ 
+ 10. Medicare scams 
+ 
+ 
+ Medicare scams  are a form of government impersonation scams that usually target seniors since Medicare is typically for people 65 and older.  Senior Medicare Patrol  states that losses to medicare fraud, errors, and abuse are estimated to be around $60 billion a year. 
+ 
+ 
+ Scammers may say that you need a new Medicare card or that you’re eligible for additional coverage at a steep discount or a cheaper plan. They’ll usually say you need to send them your medical and  personal information  first, which they could then sell on the  dark web  or exploit for identity theft. 
+ 
+ 
+ Medicare scam warning signs:  The biggest red flag for a Medicare scam is that they ask you for personal or medical information. No legitimate Medicare representative requests this information, and certainly not through an unsolicited phone call, email, text, or social media message. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Medicare scams targeting the elderly are often after personal information like your SSN. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11. Robocalls & phone scams 
+ 
+ 
+ Phone scams aim to get a voice signature from the target, money, or personal information. An example of a robocall scam is the “Can you hear me?” call. When the older person answers, the scammer has a voice signature they can use to authorize fraudulent charges. Other scam calls might scare the elderly target by saying they must pay a fine or they’ll be sued or arrested. 
+ 
+ 
+ Phone scam warning signs:  Like with many scams, phone scammers will often pressure you to act quickly. They might also ask for personal information that legitimate entities would never request over the phone. Another sign is if the caller claims unusual account activity or unknown fines, and evades your questions. 
+ 
+ 
+ 12. Reverse mortgage scams 
+ 
+ 
+ A reverse mortgage allows seniors to unlock money from their home equity based on the difference between the market value of their home and mortgage balance. 
+ 
+ 
+ There are multiple ways scammers launch these attacks, including offering fake reverse mortgage offers for a fee. They may also claim to help the senior get a real reverse mortgage and convince them to transfer the title to them in attempted  home title theft . Or, they might trick an elderly person into moving into a home to obtain a reverse mortgage on the property so the scammer can take the equity. 
+ 
+ 
+ Reverse mortgage scam warning signs:  Reverse mortgage scams are often unsolicited offers and promise terms that are too good to be true. They might use complex terminology in documents making them appear official and difficult to understand or validate. 
+ 
+ 
+ 13. Online shopping scams 
+ 
+ 
+ Online shopping scams come in many forms and aren’t limited to just one platform. From  Facebook Marketplace  to  Craigslist  and beyond, scammers take advantage of people looking for the perfect item or a bargain. They can also run fake websites or apps. Scams can include selling an item that doesn’t exist or shipping an item of lesser value or quality than the listing. 
+ 
+ 
+ Online shopping scam warning signs:  Watch out for prices that are too good to be true, or if the seller requests payment via  wire transfer  or a payment app like  Zelle . A legitimate shop and app should accept credit cards, and if it’s an individual selling on an informal marketplace, use one of the platform’s recommended payment methods. 
+ 
+ 
+ How to avoid elderly scams 
+ 
+ 
+ Under the right circumstances, nearly anyone can fall for a scam. But, there are some practical steps you can take to help avoid elderly scams: 
+ 
+ Don’t rush:  Scammers often create a sense of urgency to get you to act without thinking. Resist the pressure to act immediately and consult with a trusted family member or friend before sending any money from an unsolicited call or email. 
+ Be skeptical:  If something sounds too good to be true, it probably is. Always question unexpected offers or prizes. 
+ Verify identities:  Confirm the identity of those who contact you, especially if they ask for money or personal information—if you think the request or offer is legitimate, contact the company back on an official channel. If someone claims to be a relative, ask a specific question only they could answer. If you’re still in doubt, verify with another relative as to their whereabouts and circumstances. 
+ 
+ Don’t share personal information:  Never give out your  Social Security number , bank account details, or other sensitive info unless you’re sure the requester, site, or app is legitimate. 
+ 
+ Understand phishing:  Phishing scams are some of the most common and can be very convincing. Stay on top of the new tactics and remember that  spoofing  and other techniques mean you need to question every communication before acting or responding. 
+ Hang up on unsolicited calls:  If you receive a suspicious call, hang up immediately and do not engage with the caller. Then block the number or ask a family member to help you do it. 
+ Do your research:  Before giving any organization money, search for the name on the web. Check for reviews and verify their legitimacy with official resources. 
+ Use secure payment methods:  Avoid wire transfers or prepaid debit cards for payments. Use credit cards or other secure payment methods that offer fraud protection. 
+ Use technology wisely:  Be careful not to overshare on social media and set your accounts to private wherever possible. 
+ Use online security software:  Make sure you have  reputable security software  on all your connected devices. Pick one that can help protect you from online scams, malicious links, and malicious websites. 
+ 
+ 
+ 
+ 
+ How to report an elderly scammer 
+ 
+ 
+ If you believe you or a loved one has been scammed, there are several steps you can take to report it. If identity fraud has been involved, learn how to  recover from identity theft  and the important steps to take like  freezing or locking your credit . 
+ 
+ Contact the police:  Contact your local police department and  report the identity theft  or scam. 
+ Notify your bank:  If you’ve given out financial information to a scammer, contact your bank to protect your accounts and cut off the scammer immediately. Lost funds may or may not be recovered, but you can help prevent further damage from being done. 
+ File a report with the FTC:   File a report online  or call 1-877-FTC-HELP (382-4357) and follow the instructions given. Once you file the report, you’ll be provided with the next steps to take. 
+ 
+ Report it to the Internet Crime Complaint Center (IC3):  If it was an internet scam, also  file a claim with the IC3 . Click the link “Elder Fraud (Victims 60 and Over)” and you’ll see the information you need to provide. 
+ 
+ Report it to the platform:  If the scam started on a website or social media platform, report it to the administrators so they can take action and possibly help prevent others from being scammed. 
+ 
+ 
+ 
+ Don’t become a senior scam statistic 
+ 
+ 
+ Even when you know what to look out for, there’s still the possibility of being scammed.   LifeLock Ultimate Plus  can help protect against identity theft by monitoring the dark web for your information and scanning for names on accounts connected with your Social Security number. 
+ 
+ 
+ LifeLock Ultimate Plus can also help detect unauthorized banking transactions and monitor your credit by monitoring hundreds of millions of data points a second. We also guarantee help restoring your identity and stolen funds should you fall victim to identity theft*, with a U.S.-based restoration specialist ready to help you resolve your case. Subscribe now for greater peace of mind. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get LifeLock Ultimate Plus 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ FAQs about elder fraud 
+ 
+ 
+ Still have questions about elder fraud? We’ve got answers. 
+ 
+ 
+ Why are older adults potentially more vulnerable to scams? 
+ 
+ 
+ Older adults can be more vulnerable to senior scams because they may lack deep knowledge of modern technology and experience increased social isolation that can result in their not being familiar with common scam tactics. Senior citizens also tend to have more assets that can be stolen, which can make them more attractive targets to scammers. 
+ 
+ 
+ What should I do if my elderly family member is being scammed? 
+ 
+ 
+ If you suspect your elderly family member is being scammed, report it immediately and talk to them about their financial accounts and how to secure them and their identity. You can also help educate your parent about scams so they are more aware in the future. 
+ 
+ 
+ How do banks and other financial institutions help prevent elder scams? 
+ 
+ 
+ Many banks and other financial institutions help prevent elder scams by providing staff training to recognize signs of elder financial exploitation, providing educational material about recognizing scams, and monitoring and flagging unusual account activity. The  Senior Safe Act of 2018  further encourages financial institutions to report suspected cases of elder abuse and fraud. 
+ 
+ 
+ *  Restrictions apply. Automatically renewing subscription required. If you are a victim of identity theft and not satisfied with our resolution, you may receive a refund for the current term of your subscription. See LifeLock. com/Guarantee for complete details. 
+ 
+ 
+ 
+ 
+ 
+ DB 
+ 
+ 
+ Danielle Bodnar
+                             
+ 
+                                Cybersecurity writer
+                             
+ 
+ 
+ 
+ 
+ 
+ 
+ Editor’s note: Our articles provide educational information. LifeLock offerings may not cover or protect against every type of crime, fraud, or threat we write about. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                    This article contains
+                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Related articles 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID Theft Resources 
+ 
+ Victims of identity theft: Who is targeted and why? 
+ 
+ Discover who the most common victims of identity theft are, why they’re targeted, and how you can protect yourself. 
+  May 17, 2024  · 7 min read
+         
+ Read More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID Theft Resources 
+ 
+ What is medical identity theft and how does it occur? 
+ 
+ Medical identity theft occurs when someone steals your identity to access healthcare or insurance services. 
+  March 06, 2025  · 8 min read
+         
+ Read More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ID Theft Resources 
+ 
+ What is medical identity theft and how does it occur? 
+ 
+ Medical identity theft occurs when someone steals your identity to access healthcare or insurance services. 
+  March 06, 2025  · 8 min read
+         
+ Read More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Internet Security 
+ 
+ Social Media Identity Theft: How to Protect Yourself 
+ 
+ Whether you’re accessing the internet from the comfort of your living room or 30,000 feet in the air, you want what you’re doing online to have protection. That goes for shopping, banking, and just having fun. Learn how to do just that. 
+  October 22, 2020  · 3 min read
+         
+ Read More 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Get discounts, info, protection tips, and more. 
+ Sign up for promotional emails. 
+ 
+ 
+ 
+ 
+                        SUBMIT
+                     
+ 
+ 
+ Email has been successfully submitted. 
+ 
+ 
+ 
+ We use the information you provide in accordance with our  Global Privacy Statement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COMPANY 
+ 
+ Company 
+ Blog 
+ Careers 
+ Investors 
+ Newsroom 
+ Affiliates 
+ Security 
+ Sitemap 
+ Do Not Sell or Share My Personal Data 
+ 
+   
+ 
+ 
+ 
+ HELP 
+ 
+ 
+ Contact 
+ Legal information 
+ Accessibility policy 
+ Help Center 
+ Restoration Guarantee 
+ Reviews 
+ Global Privacy Statement 
+ License and Services Agreement 
+ Renewal pricing 
+ Cancellation and refund policy 
+ Identity theft resources 
+ What is identity theft ? 
+ 
+   
+ 
+ 
+ 
+ BUSINESS SOLUTIONS 
+ 
+ Partner with us 
+ Employee benefits 
+ Data breach services 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Copyright © 2025 Gen Digital Inc. All rights reserved. All trademarks, service marks, and tradenames (collectively, the "Marks") are trademarks or registered trademarks of Gen Digital Inc. or its affiliates ("Gen") or other respective owners that have granted Gen the right to use such Marks. For a list of Gen Marks please see GenDigital.com/trademarks.
+
+URL: https://www.forbes.com/sites/carolynrosenblatt/2024/12/02/warn-aging-parents-now-about-online-phishing-scams/
+Warn Aging Parents Now About Online Phishing Scams Subscribe To Newsletters Warn Aging Parents Now About Online Phishing Scams By Carolyn Rosenblatt Follow Share Save Comment BETA This is a BETA experience. opt-out  here Money Retirement Warn Aging Parents Now About Online Phishing Scams By Carolyn Rosenblatt , Contributor.  Forbes contributors publish independent expert analyses and insights.   I am an RN-Attorney with significant experience in both professions.  Follow Author Dec 02, 2024, 01:37pm EST Share Save Comment Older woman shopping online Universal Images Group via Getty Images 
+ Holiday season is scammers’ season too. Millions of people shop online at this time, with record spending expected. If your aging parents are online shoppers, help them to see the tactics thieves use to steal their personal information. 
+ 
+ 
+ Personally, I do a lot of online shopping for the convenience. I have gotten these fake text and email messages recently along with what are probably countless others who also shop this way. Scammers know that older adults may not scrutinize incoming messages as thoroughly as their younger family members do and they take advantage of it. This is exactly why younger family members and adult children of aging parents should alert their elders to the lurking danger. It increases during the holiday shopping season but it also happens all year long. 
+ 
+ The Typical Message 
+ 
+ All of us are in the category of targets when we shop online. My latest message in my email said that “my item” could not be delivered because part of my street address was missing and I needed to update it. Just click on the link... That  is a phishing scam. 
+ 
+ 
+ I could tell it was fake by the fact that it did not identify “my item”, and I did not recognize the sender’s address. Your aging parent could fall for this phishing scam, thinking that they had a delivery coming or a gift coming. If possible, show them the kind of wording scammers use to do this trick. Know that when you or they order something from a real company, it usually tells you what shipped, when it shipped and when it will be delivered. It identifies what you ordered, not with a nondescript “your item”. If there actually were a problem with your address, you would be notified by the seller before anything shipped to you. Being notified that your address is missing something is a clear red flag of a scam. 
+ Another Common Scammer Message 
+ You get an email or text and it says you “missed the delivery”. Most of us do not have to be home for deliveries. If you order something that does require your signature at delivery, you will know it and delivery services like UPS leave a note for you about the attempted delivery if you were not home. They do not send texts! The scammers inevitably say to just click on the link and they’ll take care of the imaginary problem. That is a trick to steal your or your aging parents’ personal information. 
+ MORE FROM   FORBES ADVISOR Best High-Yield Savings Accounts Of 2024 By   Kevin Payne ,   Contributor Best 5% Interest Savings Accounts of 2024 By   Cassidy Horton ,   Contributor 
+ 
+ How Do Scammers Get Personal Information? 
+ According to the  Federal Trade Commission , if your aging parent clicks on the link, scammers can get information like their usernames and passwords for online banking, email, or social media accounts. The link is a trick to allow the scammer access the person’s stored information on the computer. Scammers can quickly steal the victim’s identity and open new accounts in the victim’s name. 
+ 
+ Identity Theft 
+ Opening new accounts in another person’s name is a goal of identity thieves. It has far reaching consequences. They can buy real estate, take out car loans, empty bank accounts and other thefts, all using the stolen identity of the unsuspecting victim. It can take months or years for the person whose identify was stolen to clear up the messes the scammers create. If this has already happened, go to  IdentityTheft.gov  to find out how to repair the damage. 
+ 
+ 
+ The Takeaways 
+ 
+ Holiday shopping season puts all who do online shopping at risk for scams. 
+ Warning your aging parents about these increasingly common scams is good protection, as they may not know the risks on their own. 
+ Show aging parents the hallmarks of text and email scams about “incomplete information” or “missed delivery” among other tricks these thieves use. 
+ Show aging loved ones what to do if they get a text or email about something they ordered:  Never click on links  as above described.  Always contact the seller directly  if you get such a message about a “problem” with the order, delivery or payment method. 
+ Never respond back to the sender of the questionable email or text by their method of communication. Instead, go to the company from which the item was ordered, directly to their website, or call their phone number, to verify any suspicious message. 
+ 
+ Follow me on  Twitter  or  LinkedIn .  Check out  my  website . Editorial Standards Forbes Accolades LOADING VIDEO PLAYER... FORBES’ FEATURED Video © 2025 Forbes Media LLC. All Rights Reserved. AdChoices Privacy Statement Do Not Sell or Share My Personal Information Limit the Use of My Sensitive Personal Information Privacy Preferences Digital Terms of Sale Terms of Service Contact Us Send Us Feedback Report a Security Issue Jobs At Forbes Reprints & Permissions Forbes Press Room Advertise
+
+URL: https://forums.techsoup.org/t/teach-staff-or-seniors-or-teens-to-avoid-phishing/2217
+
+
+URL: https://www.seniorliving.org/research/common-elderly-scams/
+Scams Targeting Seniors and the Elderly in 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Menu 
+ 
+ 
+ 
+ 
+ 
+ 
+ Retirement 
+ 
+ 
+ 
+ Finance 
+ 
+ 
+ Senior Finance Guide 
+ 
+ 
+ Retirement Calculator 
+ 
+ 
+ Estate Planning 
+ 
+ 
+ Social Security Calculator 
+ 
+ 
+ Senior Discounts 
+ 
+ 
+ 
+ 
+ Insurance 
+ 
+ 
+ Insurance for Seniors 
+ 
+ 
+ Best Medigap Plans 
+ 
+ 
+ Best Senior Vision Plans 
+ 
+ 
+ Best Senior Dental Plans 
+ 
+ 
+ Medicare & Medicaid 
+ 
+ 
+ 
+ 
+ Life 
+ 
+ 
+ Retirement Communities 
+ 
+ 
+ 55+ Housing 
+ 
+ 
+ Senior Activities 
+ 
+ 
+ Travel in Retirement 
+ 
+ 
+ Senior Health Guide 
+ 
+ 
+ 
+ 
+ 
+ 
+ Aging in Place 
+ 
+ 
+ 
+ Caregiving 
+ 
+ 
+ A Caregivers Guide 
+ 
+ 
+ Home Care 
+ 
+ 
+ Health and Well-Being 
+ 
+ 
+ Durable Medical Equipment 
+ 
+ 
+ Transportation for Seniors 
+ 
+ 
+ 
+ 
+ Medical Alert Systems 
+ 
+ 
+ Medical Alert System Guide 
+ 
+ 
+ Best Medical Alert Systems 
+ 
+ 
+ Bay Alarm Medical Review 
+ 
+ 
+ Medical Guardian Review 
+ 
+ 
+ ADT Medical Alert Review 
+ 
+ 
+ 
+ 
+ Safety 
+ 
+ 
+ Senior Safety Guide 
+ 
+ 
+ Best Walk In Tubs 
+ 
+ 
+ Home Security for Seniors 
+ 
+ 
+ ID Theft Protection for Seniors 
+ 
+ 
+ Medication Dispensers 
+ 
+ 
+ 
+ 
+ 
+ 
+ Housing & Care 
+ 
+ 
+ 
+ Senior Care 
+ 
+ 
+ Senior Care Resources 
+ 
+ 
+ Assisted Living 
+ 
+ 
+ Memory Care 
+ 
+ 
+ Companion Care 
+ 
+ 
+ Nursing Homes 
+ 
+ 
+ 
+ 
+ Paying for Care 
+ 
+ 
+ Senior Care Cost Guide 
+ 
+ 
+ Average Assisted Living Costs 
+ 
+ 
+ Nursing Home Costs 
+ 
+ 
+ Cost of Memory Care 
+ 
+ 
+ Affordable Senior Care 
+ 
+ 
+ 
+ 
+ Housing 
+ 
+ 
+ Senior Housing Options 
+ 
+ 
+ Independent Living 
+ 
+ 
+ Senior Apartments 
+ 
+ 
+ Condos for Seniors 
+ 
+ 
+ Senior Townhomes 
+ 
+ 
+ 
+ 
+ 
+ 
+ Technology 
+ 
+ 
+ 
+ Cable & Internet 
+ 
+ 
+ An Internet Guide for Seniors 
+ 
+ 
+ Best Senior Internet 
+ 
+ 
+ ATT Senior Internet 
+ 
+ 
+ Cable Plans for Seniors 
+ 
+ 
+ DIRECTV for Seniors 
+ 
+ 
+ Xfinity Internet for Seniors 
+ 
+ 
+ 
+ 
+ Cell Phones 
+ 
+ 
+ Senior Cell Phones 
+ 
+ 
+ Best Senior Cell Phones 
+ 
+ 
+ Best Senior Phone Plans 
+ 
+ 
+ ATT Senior Plans 
+ 
+ 
+ Jitterbug Phones 
+ 
+ 
+ Consumer Cellular Plans 
+ 
+ 
+ 
+ 
+ Hearing Aids 
+ 
+ 
+ Hearing Aid Resources 
+ 
+ 
+ List of the Best Hearing Aids 
+ 
+ 
+ Best OTC Hearing Aids 
+ 
+ 
+ Jabra Hearing Aid  Review 
+ 
+ 
+ MDHearingAid Review 
+ 
+ 
+ Eargo Review 
+ 
+ 
+ 
+ 
+ 
+ 
+ About 
+ 
+ 
+ 
+ Who We Are 
+ 
+ 
+ Experts 
+ 
+ 
+ Our Research 
+ 
+ 
+ Contact 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ Thank you for your inquiry 
+ Someone will be in touch shortly 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Common Scams That Target Seniors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Author :  SeniorLiving.org Team 
+ 
+ 
+ ·  Updated: January 15, 2025                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Scams targeting older adults  are all too common in today's world. Many scammers think of seniors as prime targets because of their retirement savings or because they may live alone. Many outdated and downright inaccurate stereotypes about older adults make them popular targets. 
+ Luckily, there are plenty of ways to stay ahead of the fraudsters and avoid getting scammed. In this guide, we'll walk you through the most common scams that target older adults, so you know exactly what to look out for. 
+ This guide covers the various fraud tactics that scammers commonly use, followed by more detail on each type of fraud. Last but not least, if you suspect that you or someone you know may be a victim of a scam, briefly review the resources you can turn to. 
+ Expert Insight on Senior Scams 
+ Before delving into the common scams that target older adults, let's take a look at some insight that experts have to share about the topic: 
+ 
+ Common Fraud Tactics Used on Seniors 
+ Con artists employ a wide variety of tactics to get older people to fall for their schemes. Below are some to be cautious of: 
+ 
+ Being friendly, approachable, and sympathetic so that the victim feels like the solicitor is on his or her side 
+ Instilling fear or giving a sense of urgency so people don't have much time to think or act rationally 
+ Appearing to be helpful to gain someone's trust and make that person feel inclined to return a favor later on 
+ Using emotional arousal to skew proper judgment;  not long ago, researchers at Stanford found  that when senior individuals are in a state of high emotional arousal, they become more interested in buying things that are falsely advertised 
+ Pretending to be associated with a credible company, government agency, or charity to fake legitimacy 
+ Being ambiguous about the subject or changing it throughout a conversation to distract the victim 
+ 
+ Popular Scams Targeting Seniors 
+ The National Council on Aging (NCOA) lists the following scams that are most commonly targeted at seniors. Review each type below so that you can identify a potential scam. A few other kinds of scams are covered as well. 
+ Health Insurance Scams 
+ Every citizen who is 65 years or older  qualifies for Medicare benefits , making seniors an easy target for medical-related scams. Because scammers don’t have to do extensive research on seniors’ insurance providers, they can carry out fraudulent schemes pretty easily via the phone or even at the door. These solicitors typically claim to be a Medicare representative, for example, and do the following: 
+ 
+ Tell a senior that he or she needs a new Medicare card, and to be issued one, would need to provide a  Social Security  number 
+ Ask an older adult to contribute a fee to help navigate the new Obamacare landscape 
+ Tell an older adult that he or she needs new supplemental policies 
+ Gather personal information provided to bill Medicare and take the money for themselves 
+ 
+ Quick Tip: Quick Tip:  If you're shopping for a Medigap plan, and you want to avoid being scammed, visit our list of the  best Medigap plans for older adults . All of the companies on our list are well-known, reputable insurance providers, so you can rest easy knowing you won't be scammed. 
+ Telemarketing Swindles 
+ Telemarketing scams are  one of the most common scams  to happen to seniors, due to no face-to-face interaction and convincing charades of being an authority figure. 
+ Scammers can hook seniors by pretending to offer: 
+ 
+ Free trials 
+ Extended warranties 
+ Can’t-miss investment opportunities 
+ The chance to travel for cheap or free 
+ Incredible prizes 
+ Advance loans 
+ 
+ Scammers may also get seniors' money by representing themselves as: 
+ 
+ IRS agents 
+ Investors 
+ Bank officials 
+ Family members 
+ 
+ One of the worst parts of a telemarketing scam is that if it is successful, the victim’s name will likely be passed on to other con artists as an easy target to prey on. 
+ The best way to prevent falling victim to any telemarketing scheme is to know that any legitimate financial institution or large corporation along with agencies, such as the IRS, will not call and ask for personal information over the phone. 
+ Should you receive such calls, it’s best to hang up immediately and find the direct number to the company claiming to require your information. Then, call to see if it is actually trying to reach you. Below are a few of the most common scams over the phone. 
+ The Pigeon Drop 
+ A pigeon drop is when a  “suspect offers a larger sum of money to the victim in exchange for a smaller sum of money” . There is usually a second or third person in on the scam to act as a lawyer or ‘innocent bystander' to make the scam more convincing. These are often done in person at tourist spots, but they also occur over the phone often. 
+ If someone contacts you saying that he or she recently inherited money from an uncle but needs a smaller amount of money from you to transfer the inheritance, this could be an example of a pigeon drop. You would be promised something like half of the inheritance. 
+ The Fake Accident Scenario 
+ Scammers will call and claim that someone related to or known by the victim has been injured. They'll also say that the person is currently in the hospital and needs money to be sent immediately. The scammer often pressures the victim to send the money before verifying the validity of the injury and their relation to the person who is injured. Another con artist is often involved in acting as the police officer, doctor,  or lawyer  at the scene of the “accident.” 
+ Robocalls 
+ A scam that seems to have arisen in 2017 uses pre-recorded robocalls to get the victim to say, “Yes.” Questions such as, “Are you there?” tend to prompt this answer, and scammers who have someone's “yes” reply recorded may be able to use that voice signature to put charges on credit cards and the like. 
+ Apps to Help Protect Against Telemarketing Scams 
+ Several free smartphone apps use crowdsourcing to identify phone numbers involved in scams or frauds and that can be automatically blocked. Here are a few of the top caller ID and scam-blocking apps for both Android and iOS. 
+ Hiya  – Hiya is one of the most widely used apps for caller ID and blocking spam calls. You can set it to automatically block calls from numbers that have been reported as a scam or spam repeatedly, and block new numbers that scammers use. You can also report the number so others using the app know to avoid it. 
+ Android  |  iOS 
+ Truecaller  – This is another reliable and popular app to protect yourself against unwanted calls and to know immediately if a new number is a scam as reported by others who received the same call. 
+ Android  |  iOS 
+ Whoscall  – Whoscall has over 1 billion numbers in its database, and the figure constantly increases as users of the app report more and more unknown numbers as spam and scams. Hopefully, this app helps you know when you're receiving a call from a legitimate business or a scammer. 
+ Android  |  iOS 
+ To safeguard against robocall and telemarketing scams, join the Do Not Call Registry. When you sign up, you'll be protected from legitimate telemarketers. This way, if you get questionable calls, you'll know that they are more likely to be scams. 
+ In addition, when you get a question such as, “Do you hear me?” just hang up. Some callers may encourage you to press “1” to be removed from a call list or to speak with a real person. Don't do this. It just shows the scammers that you are responsive. Your aim is to avoid engaging at all. 
+ Charity Scams 
+ These scams are unfortunate as they  prey on the goodwill of others . Scammers either call or approach a senior in person, saying they are looking for donations to a worthy cause. In reality, the perpetrators have nothing to do with the charity or cause and are looking to take the victim's money for their own gain. 
+ Did You Know? Did You Know?  Security systems can keep you protected in your home and monitor who shows up at your door, so you can avoid scammers who visit your home. Read our  guide to the best home security systems  for more details. 
+ Sometimes the goal is to  steal the victim's identity  as well. Charity scams tend to happen most after natural disasters on the international level like a  major hurricane  or on a local level like helping to fund  local firefighters . 
+ Internet Fraud 
+ The internet has been rife with scams targeting seniors since its inception. Examples include fake-virus pop ups to trick the victims into paying money, real viruses that may hold victims hostage until they make a payment, phishing scams, and attempts to steal identities through fake websites and emails. 
+ Phishing Scams via Email  – Phishing is the main internet method scammers use to get personal information from unsuspecting people through email. The scammer creates an email address and template that looks like an official email from a bank, credit card, or other business. The email looks legitimate and claims that your password, banking number, or other personally identifying information is needed to fix an issue. 
+ Pro Tip: Pro Tip:  Identity theft protection services can help you avoid becoming a victim of online scams and alert you to potential fraud attempts. We've put together our picks for the  best identity theft protection services  to help you find the one that's right for your needs. 
+ A related scam is to suggest downloading software like a “Free VPN” or “Free Virus Checker”. This software may actually be designed specifically for hackers. Legitimate VPNs and antivirus software are useful tools, here are some resources for  selecting a VPN  or software used for  protection from identity theft and viruses . 
+ No bank or other business will ever ask for any personal information through an email. If you are concerned about your account, you can go to the website directly (don't click on any links in a suspected phishing email), and check your account information there, or call your bank directly. 
+ Tech or Computer Support Scams 
+ Tech or computer support scams tend to be the most successful. In some versions, seniors get a call from someone who promises to do tech support on their computers/devices or to clear their computers of viruses, malware, and the like. To sweeten the pot, scammers may offer this so-called service at  a senior-citizen discount . Later, the scammers do rudimentary work such as installing free security programs, and seniors may never realize they have been scammed. In other versions, scammers use internet ads to entice older adults to contact them for help. 
+ Did You Know? Did You Know?  Many internet providers offer security suites to protect your computer from viruses and other scams. Head to our list of the  best internet providers for seniors  to learn more. You can also visit our  guide to internet services for seniors  for our top online safety tips. 
+ The primary aim of many scammers doing tech or computer support schemes is to access bank account passwords and other sensitive financial information. Because they pose as tech support personnel, they may get permission to link their computer with the victim's. Sometimes, the scam turns mean immediately when a scammer locks the victim out of his or her computer until a fee is paid. Disengaging from the scammer and restarting your computer may solve the issue sometimes. 
+ Lottery and Fake Prize Scams 
+ Thousands of seniors are tricked into believing that they won a large sum of money but are told that they have to wire money in “taxes and fees” or to free the grand prize up from customs officials. After going through with this and receiving a check that doesn't clear, the victim realizes that he or she has been scammed. 
+ Unfortunately, once people fall for this scam, they are at higher risk of getting more lottery and fake-prize scam calls, emails, and offers. Astonishingly, a scammer may even call the victims and claim to be a police officer or detective investigating possible lottery and fake-prize scamming. To investigate, the detective needs to know the victim's financial information. On it goes. According to the  U.S. Attorney General  and the Solicitor General of Canada, this mass-marketing fraud takes about $1 billion a year! 
+ Counterfeit Prescription Medications 
+ Since many older people are on a fixed income or living off retirement funds, it's only natural that they are  often on the lookout  for cheaper drug alternatives to save money. Unfortunately, scammers are fully aware of this, and they prey on seniors' vulnerability.  Criminals use the internet to operate these scams, offering “better prices” on prescription medications that are counterfeit and often detrimental to one's health. Older adults should consult with their loved ones before buying any type of medication online to be extra safe. 
+ Fake Anti-Aging Products 
+ Speaking of counterfeits, fake anti-aging products are another big focus of scammers who target seniors. The NCOA states that seniors often feel pressured to look younger to keep up in social circles or to fill a void in their lives. This results in them seeking out new treatments, medications, and products that will help them achieve “youth.” Perpetrators prey on this and capitalize on this demand. The scam can be executed in different ways, such as offering costly treatments that turn out to be either harmful or simply homeopathic remedies that do nothing but cost money. 
+ The “Grandparent Scam” 
+ This scam usually entails a perpetrator calling or emailing seniors  pretending to be a family member in trouble  or an authoritative person representing the relative (a lawyer, for example). The “relative” then asks for money to be wired to him or her to pay rent, lawyer fees, medical bills, or some other fake expense. The victim is often asked to not tell anyone, such as other family members, because the caller wants to keep the problem from being known. The older adult never hears from this “relative” again and is out of hundreds, if not thousands, of dollars. 
+ Variations of this scheme include scammers contacting seniors through online dating sites or social media platforms such as Facebook. A senior with a legitimate profile or account chats with a scammer, who builds trust and perhaps romantic interest. When the request for money comes after an “emergency,” the senior is all too happy to indulge. Sometimes, scammers may even pretend to be lonely U.S. soldiers serving overseas. 
+ Investment Schemes 
+ Con artists know that seniors may have planned for retirement for years. So, scammers take advantage of retirees by  acting as financial advisors  to gain access to their savings and account funds. Once they get the information they need for access, they take the money and run. 
+ Another type of investment scheme entails the scammer taking advantage of the senior citizen's religious affiliation or other essential part of his or her identity. For example, for just $500, the senior citizen could invest in an illustrated Bible for children and earn part of the royalties. 
+ Investment schemes can also be about property and timeshare deals. They often use a sense of urgency and/or the promise of free gifts. If you have only a few hours to make an investment decision and can't call anyone about it, it's probably a scam. 
+ Pro Tip: Pro Tip:  Check out our  crime prevention guide for seniors  for more tips on how to avoid cyber crimes, financial scams, and more. We also cover what to do if you fall victim to a crime. 
+ Mortgage Scams 
+ Many older adults own their homes, which makes them an increased target for scammers. Con artists send out official-looking letters from an office such as the county assessor. The letters claim that the homeowners can reduce their property tax burden, but only after paying a fee. The letter does not have any information that is not available to the public, so that is one giveaway of it being a scam. If homeowners believe there is any validity to a letter, they should call the county assessor's office directly. 
+ Homeowners who are doing a reverse mortgage are also  a target of con artists , as the reverse mortgage is a sign of unlocked equity that can be taken advantage of. 
+ Funeral Fraud 
+ Sadly, there are con artists who try to take advantage of grieving widows and widowers at funerals. Con artists keep track of obituaries to find their targets and either show up at the funeral or get the contact information of the surviving family members to say the recently deceased had outstanding debts that must be paid off. 
+ Another funeral-related scam is by the funeral house itself. People generally don't go through funerals often and are unaware of the costs associated with one. Dishonest funeral homes tack on additional charges, so it is important to be aware of what a  funeral should actually cost . 
+ Bogus Magazine Sales 
+ This type of scam entails young people knocking on doors to  sell magazine subscriptions  to “raise money” for a good cause, a school trip, or some other charity that older adults are likely to fall for. Once the victim gives money, he or she will not receive any magazine subscriptions nor know where the money went. 
+ IRS Impostor Scams 
+ One of the most common scams is when someone pretends to be an IRS agent. This can happen over email, mail, phone, or in person. 
+ So-called IRS agents say that you owe taxes and demand that you pay immediately or face consequences such as jail time or hefty fines. In many cases, they say that the IRS has contacted you via mail or email already and never heard back, hence the need for dire measures now. 
+ In some cases, they'll instead say you are owed a tax refund. In both scenarios, the goal is to get your credit card numbers or other financial information, and sometimes, money transfers. 
+ If this happens via phone, hang up. If you feel the contact could be valid, call the IRS at 1-800-829-1040 to ensure you are speaking with someone legitimate. Signs of an IRS scam include: 
+ 
+ Arrest threats 
+ Rude language and behavior 
+ Requests for credit card or debit card payments over the phone 
+ Requests to pay with gift cards or prepaid cards 
+ “Agents” refusing to give badge numbers and other ways to verify their legitimacy 
+ Demands for payments right away 
+ 
+ Did You Know? Did You Know?  Many cell phones come with built-in scam blocking protection to help you avoid falling victim to phone scams. Read our  guide to the best cell phones for seniors  to find the right phone to keep you protected and connected. 
+ Are You a Victim of a Scam? 
+ If you think you might be a victim of a scam, reach out to someone you trust such as a close friend or family member. Don't be afraid to talk to someone because doing nothing could make the situation worse. 
+ Unfortunately, once money has been wired out, it is more than likely gone. However, that does not mean that there's nothing left for you to do. Other senior victims are counting on you to  report the details  so that the scams can be shut down. The AARP breaks down a  handy list of resources  that are useful to keep readily available. Additionally, keep the phone numbers for your local police station and bank close by. 
+ Conclusion 
+ Con artists and scammers who prey on seniors rely on two key things: The assumption that older adults are unfamiliar with modern  technology  and that they are unaware of all the different ways to have their personal information stolen. 
+ This guide covers most of the scams that target seniors, but it always helps to be aware of anyone and anything trying to get money or personal information out of you. 
+ Whenever you feel the least bit suspicious of an email, phone call, personal visit, or anything else, you can try a simple Google search about your suspicion. If the search pulls up something, then you'll know for a fact it is a scam to report and then ignore. If nothing comes up, it could be a new scam or one that hasn't been well documented. Be safe and aware! 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Privacy Policy of SeniorLiving.org and all related websites 
+ 
+ 
+ Terms of Use 
+ 
+ 
+ Accessibility 
+ 
+ 
+ Do Not Sell/Share My Personal Information 
+ 
+ 
+ Limit the Use of My Sensitive Personal Information 
+ 
+ 
+ 
+ 
+ 
+ 
+ Research 
+ 
+ 
+ Editorial Guidelines 
+ 
+ 
+ Our Editorial Team 
+ 
+ 
+ Expert Team 
+ 
+ 
+ Find Senior Living Near Me 
+ 
+ 
+ 
+ 
+ 
+ 
+ About Us 
+ 
+ 
+ Contact Us 
+ 
+ 
+ Careers 
+ 
+ 
+ Press 
+ 
+ 
+ Join Our Community 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The content, including without limitation any viewpoint or opinion in any profile, article or video, contained on this website is for informational purposes only. Any third party contributor to any such profile, article or video has been compensated by SeniorLiving.org for such contribution. It is advised that you conduct your own investigation as to the accuracy of any information contained herein as such information, including without limitation any medical advice, is provided "as is" for informational purposes only. Further, SeniorLiving.org shall not be liable for any informational error or for any action taken in reliance on information contained herein. 
+ © Copyright 2025 SeniorLiving.org a Centerfield Media Company 
+ 
+ 
+ 
+ Please ensure Javascript is enabled for purposes of  website accessibility
 

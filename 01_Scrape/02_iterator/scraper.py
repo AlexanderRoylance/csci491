@@ -17,4 +17,4 @@ def scrape_websites(input_file, output_file):
                 print(f"Failed to scrape {url}: {e}")
 
 # Usage
-scrape_websites("input.txt", "scraped_text.txt")
+scrape_websites("../01_input/input.txt", "../03_output/scraped_text.txt")
