@@ -52,9 +52,8 @@ Our analysis produced the following key findings:
 | Doc 2    | [Word]            | [Score]      |
 | Doc 3    | [Word]            | [Score]      |
 
-**Sentiment Analysis Graph:**  
-
-![Sentiment Graph](INSERT_SENTIMENT_GRAPH_LINK_HERE)  
+**Victim Frequecy**
+![Victim Frequency](https://github.com/user-attachments/assets/720438aa-430d-423d-b1de-f4f3276b95a6) 
 
 ---
 
