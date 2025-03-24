@@ -1,6 +1,4 @@
 
-**File:** `preprocess/README.md`  
-
 # Preprocessing Module
 
 ## Overview
