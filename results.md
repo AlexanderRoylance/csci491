@@ -53,7 +53,7 @@ Our analysis produced the following key findings:
 | Doc 3    | [Word]            | [Score]      |
 
 **Victim Frequecy**
-![Victim Frequency](https://github.com/user-attachments/assets/720438aa-430d-423d-b1de-f4f3276b95a6) 
+![Victim Frequency](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/victim_freq.png?raw=true) 
 
 ---
 
