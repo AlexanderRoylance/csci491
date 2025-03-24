@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "YOUR_API_KEY"
+openai.api_key = "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"
 
 def extract_language(input_file, output_files, categories):
     with open(input_file, "r", encoding="utf-8") as file:
