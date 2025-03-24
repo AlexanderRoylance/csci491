@@ -92,7 +92,7 @@ Our analysis produced the following key findings:
 
 ---
 
-### ** Next Steps**  
+### **Next Steps**  
 
 - **Refining NLP Extraction:** Improve hero/victim/villain classification accuracy.  
 - **Extending Data Sources:** Seek alternative sources for quantitative risk messaging data.  
