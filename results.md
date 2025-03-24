@@ -1,3 +1,11 @@
+# Abstract
+Stop Stealing from Grandma:
+Preventing Phishing Attacks on the Elderly
+
+Scammers look for new ways to trick the elderly out of their money. Current messages are largely ineffective. These messages are inconcise as they include convoluted, technical language filled with jargon. We evaluated currently available messages to find their strengths and weaknesses through Term Frequency-Inverse Document Frequency and sentiment analysis. We identified linguistic elements to determine that simple, easy-to-read, positive language made for the most effective messages. By relaying this to the caregivers, they can now use these strategies to train the elderly to prevent them from clicking suspicious links. Stealing from grandma will be harder than ever.
+
+
+
 # Risk Communication for Elderly Phishing Protection  
 
 ##  Methods  
