@@ -9,18 +9,21 @@ def visualize_tfidf(tfidf_file):
     print("TF-IDF Table Preview:")
     print(df.head(10))  # Display first 10 words
 
-    plt.figure(figsize=(10, 6))
+    plt.figure(figsize=(12, 6))
     sns.heatmap(df, cmap="Blues", linewidths=0.5, linecolor="gray")
     plt.title("TF-IDF Scores Across Documents")
     plt.xlabel("Document Category")
     plt.ylabel("Words/Bigrams")
+    plt.xticks(rotation=45)
+    plt.yticks(rotation=0)
     plt.show()
 
 def visualize_sentiment(sentiment_file):
     df = pd.read_csv(sentiment_file)
+    df = df[df["Sentiment Score"] != 0]  # Remove neutral words
 
-    plt.figure(figsize=(10, 6))
-    sns.barplot(data=df, x="Word", y="Sentiment Score", hue="Category")
+    plt.figure(figsize=(12, 6))
+    sns.barplot(data=df, x="Word", y="Sentiment Score", hue="Category", dodge=False)
     plt.xticks(rotation=90)
     plt.title("Sentiment Scores of Extracted Words")
     plt.xlabel("Words")

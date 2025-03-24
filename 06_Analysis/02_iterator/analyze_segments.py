@@ -16,11 +16,11 @@ def load_segments(segment_file):
 
 # Color-coding function
 def get_category_color(word, summary):
-    if word in summary["hero_language"]:
+    if word in summary["hero"]:
         return "blue"
-    elif word in summary["victim_language"]:
+    elif word in summary["victim"]:
         return "red"
-    elif word in summary["villain_language"]:
+    elif word in summary["villain"]:
         return "green"
     return "gray"  # Default color for unknown words
 
@@ -52,3 +52,4 @@ def analyze_segments(segment_file, sentiment_file, summary_file):
 
 # Usage
 analyze_segments("../01_input/generated_segments.txt", "../01_input/sentiment_scores.csv", "../01_input/risk_language_summary.json")
+

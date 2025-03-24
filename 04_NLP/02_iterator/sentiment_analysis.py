@@ -10,7 +10,8 @@ def analyze_sentiment(input_files, output_file):
 
         for word in words:
             polarity = TextBlob(word).sentiment.polarity
-            sentiment_data.append({"Word": word, "Sentiment Score": polarity, "Category": file.split(".")[0]})
+            if polarity != 0:  # Filter out neutral words
+                sentiment_data.append({"Word": word, "Sentiment Score": polarity, "Category": file.split(".")[0]})
 
     # Save sentiment scores to a CSV file
     df = pd.DataFrame(sentiment_data)

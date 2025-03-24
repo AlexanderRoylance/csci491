@@ -1,6 +1,7 @@
 import json
 import openai
 
+openai.api_key = ""
 # Load the risk language summary
 def load_summary(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
@@ -9,7 +10,7 @@ def load_summary(file_path):
 # Generate a message segment using OpenAI API
 def generate_segment(prompt):
     response = openai.ChatCompletion.create(
-        model="gpt-4",
+        model="gpt-3.5-turbo",
         messages=[{"role": "system", "content": "Generate a short risk communication message segment."},
                   {"role": "user", "content": prompt}],
         max_tokens=50
@@ -20,9 +21,9 @@ def generate_segment(prompt):
 def generate_messages(summary_file, output_file):
     summary = load_summary(summary_file)
 
-    hero_prompt = f"Create a brief motivational message for elderly users using these words: {', '.join(summary['hero_language'])}."
-    victim_prompt = f"Create a warning message that highlights potential dangers using: {', '.join(summary['victim_language'])}."
-    villain_prompt = f"Create a message that exposes phishing threats using: {', '.join(summary['villain_language'])}."
+    hero_prompt = f"Create a brief motivational message for elderly users using these words: {', '.join(summary['hero'])}."
+    victim_prompt = f"Create a warning message that highlights potential dangers using: {', '.join(summary['victim'])}."
+    villain_prompt = f"Create a message that exposes phishing threats using: {', '.join(summary['villain'])}."
 
     hero_segment = generate_segment(hero_prompt)
     victim_segment = generate_segment(victim_prompt)

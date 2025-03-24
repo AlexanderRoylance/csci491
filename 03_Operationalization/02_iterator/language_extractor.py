@@ -2,8 +2,7 @@ import openai
 import json
 
 # Ensure you have the latest OpenAI API key set in your environment
-openai.api_key = "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"
-
+openai.api_key = ""
 # Read the preprocessed text
 with open("../01_input/preprocessed_text.txt", "r", encoding="utf-8") as f:
     text = f.read()
