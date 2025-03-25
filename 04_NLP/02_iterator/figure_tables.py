@@ -20,17 +20,23 @@ def visualize_tfidf(tfidf_file):
 
 def visualize_sentiment(sentiment_file):
     df = pd.read_csv(sentiment_file)
-    df = df[df["Sentiment Score"] != 0]  # Remove neutral words
+    
+    # **Filter single words only (remove phrases)**
+    df = df[df["Word"].str.contains(" ") == False]  # Keep words without spaces
 
+    # **Drop duplicate words, keeping the first occurrence per category**
+    df = df.drop_duplicates(subset=["Word", "Category"])
+
+    # **Plot**
     plt.figure(figsize=(12, 6))
     sns.barplot(data=df, x="Word", y="Sentiment Score", hue="Category", dodge=False)
     plt.xticks(rotation=90)
-    plt.title("Sentiment Scores of Extracted Words")
+    plt.title("Sentiment Scores of Unique Single Words")
     plt.xlabel("Words")
     plt.ylabel("Sentiment Score")
     plt.axhline(0, color="black", linewidth=1)  # Neutral sentiment line
     plt.show()
 
 # Usage
-visualize_tfidf("tfidf_scores.csv")
-visualize_sentiment("sentiment_scores.csv")
+visualize_tfidf("../03_output/tfidf_scores.csv")
+visualize_sentiment("../03_output/sentiment_scores.csv")

@@ -14,5 +14,5 @@ def compute_tfidf(input_files, output_file):
     print(f"TF-IDF scores saved to {output_file}")
 
 # Usage
-input_files = ["../01_input/hero.txt", "../01_input/victim.txt", "../01_input/villain.txt"]
-compute_tfidf(input_files, "tfidf_scores.csv")
+input_files = ["../../03_Operationalization/01_input/preprocessed_text.txt"]
+compute_tfidf(input_files, "../03_output/tfidf_scores.csv")
