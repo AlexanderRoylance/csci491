@@ -39,12 +39,17 @@ Below is a visual representation of our implemented pipeline:
 Our analysis produced the following key findings:  
 
 1. **TF-IDF Analysis:**  
+Our research came to find that the most common words among the different risk communication messages were descriptive words of the target population or issue; adults, privacy, scam, for example. Through TF-IDF analysis of bigrams, phrases like "aging adults" and "older victims" appeared the most frequently. These bigrams are examples of how current messages portray the target audience as an aging, frail group which reinforces the idea that victim language is the most prevelant within them.
    - The most frequently occurring words in risk communication messages were adults, privacy, and scam.  
    - Bigram analysis highlighted phrases like aging adults and older victims, reinforcing messaging patterns.  
 
-2. **Sentiment Analysis:**  
+2. **Sentiment Analysis:**
+Sentiment analysis showed an overall negative skew, with villain-related words carrying the strongest and most negative sentiment weight. Victim words, the most prevelant from TF-IDF, hold a negative value as well, adding to the defeatist tone of the messages. Any hero language used holds a high sentiment value, but was far outweighed by the victim or villain language.
    - Overall sentiment skewed negative, with villain-related words carrying the strongest sentiment weight.  
    - Hero language showed higher sentiment scores, but victim language was far more prevelant.  
+
+3. **Segment Generation:**
+Segment generation and analysis is the final step in the research pipeline.
 
 ###  Graphs & Figures  
 
@@ -56,15 +61,12 @@ Our analysis produced the following key findings:
 ![](https://github.com/user-attachments/assets/39df3181-069b-4923-beb0-79fe8fcaff53)
 
 
-**Hero Frequecy**
+![Hero Frequency](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/hero_freq.png?raw=true) 
 
-![](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/hero_freq.png?raw=true) 
-**Victim Frequecy**
 
-![](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/victim_freq.png?raw=true)
-**Villain Frequecy**
+![Victim Frequency](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/victim_freq.png?raw=true)
 
-![](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/villain_freq.png?raw=true)
+![Villain Frequency](https://github.com/bhagdht/ChumBucket_RiskManagment/blob/main/3_ResultParty/villain_freq.png?raw=true)
 
 ---
 
@@ -97,10 +99,14 @@ Our analysis produced the following key findings:
   Scraping sensitive data from Government websites was not allocable in this timeframe, leading to a reliance on magazine and news-based information. The sites
   we were not able to get to could contain important statistical data for what areas are most susceptible to phishing schemes, as well as what education level
   teaches people technical literacy. Future iterations will require manual data collection from these sources in order to gather more data and strengthen our
-  claim.
-  - **OpenAI Character Coding:**
-  OpenAI and AI-assisted extraction for character language is vital to this project, however, it can sometimes incorrectly and ineffectively classify
-  language. Human coding or manual validation could be the next step to increase the validity of the tests and the project as a whole.
+  claim. Even without these resources, valuable data was still collected from reputable news sources. Quantitative data was gathered and processed to generate figures regarding at-risk populations.
+- **OpenAI Character Coding:**
+  OpenAI and AI-assisted extraction for character language is vital to this project, 
+  however, it can sometimes incorrectly and ineffectively classify language. To 
+  nullify common problems, the classification words are verified at each step to 
+  ensure proper classification and accurate results. VHuman coding or manual 
+  validation could be the next step to increase the validity of the tests and the 
+  project as a whole.
 say why these are not making the article bad
 external threats
 ---
