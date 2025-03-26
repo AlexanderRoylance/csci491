@@ -1,45 +1,1597 @@
 Word,Sentiment Score,Category
-Older,0.16666666666666666,
-greatest,1.0,
-important,0.4,
-action,0.1,
-becoming,0.45,
-older,0.16666666666666666,
-powerful,0.3,
-older,0.16666666666666666,
-older,0.16666666666666666,
-older,0.16666666666666666,
-older,0.16666666666666666,
-secure,0.4,
-older,0.16666666666666666,
-older,0.16666666666666666,
-older,0.16666666666666666,
-greatest,1.0,
-Vulnerable,-0.5,
-older,0.16666666666666666,
-older,0.16666666666666666,
-older,0.16666666666666666,
-older,0.16666666666666666,
-common,-0.3,
-older,0.16666666666666666,
-adult,0.1,
-social,0.03333333333333333,
-social,0.03333333333333333,
-social,0.03333333333333333,
-sensitive,0.1,
-social,0.03333333333333333,
-offers,0.1,
-common,-0.3,
-secure,0.4,
-secure,0.4,
-secure,0.4,
-secure,0.4,
-sensitive,0.1,
-secure,0.4,
-sinister,-0.5,
-fake,-0.5,
-dishonest,-0.3,
-fake,-0.5,
-fake,-0.5,
-dishonest,-0.3,
-offers,0.1,
+words,0.2096491228070175,hero
+and,0.2096491228070175,hero
+phrases,0.2096491228070175,hero
+portraying,0.2096491228070175,hero
+the,0.2096491228070175,hero
+target,0.2096491228070175,hero
+as,0.2096491228070175,hero
+a,0.2096491228070175,hero
+hero,0.2096491228070175,hero
+in,0.2096491228070175,hero
+text,0.2096491228070175,hero
+1,0.2096491228070175,hero
+older,0.16666666666666666,hero
+adults,0.2096491228070175,hero
+often,0.2096491228070175,hero
+suffer,0.2096491228070175,hero
+greatest,1.0,hero
+financial,0.2096491228070175,hero
+impact,0.2096491228070175,hero
+2,0.2096491228070175,hero
+prevention,0.2096491228070175,hero
+measures,0.2096491228070175,hero
+to,0.2096491228070175,hero
+protect,0.2096491228070175,hero
+seniors,0.2096491228070175,hero
+3,0.2096491228070175,hero
+phishing,0.2096491228070175,hero
+is,0.2096491228070175,hero
+an,0.2096491228070175,hero
+important,0.4,hero
+part,0.2096491228070175,hero
+of,0.2096491228070175,hero
+cybersecurity,0.2096491228070175,hero
+practice,0.2096491228070175,hero
+4,0.2096491228070175,hero
+stand,0.2096491228070175,hero
+increasing,0.2096491228070175,hero
+threats,0.2096491228070175,hero
+but,0.2096491228070175,hero
+are,0.2096491228070175,hero
+taking,0.2096491228070175,hero
+action,0.1,hero
+prevent,0.2096491228070175,hero
+becoming,0.45,hero
+victims,0.2096491228070175,hero
+5,0.2096491228070175,hero
+recommendations,0.2096491228070175,hero
+safeguard,0.2096491228070175,hero
+6,0.2096491228070175,hero
+protecting,0.2096491228070175,hero
+personal,0.2096491228070175,hero
+data,0.2096491228070175,hero
+money,0.2096491228070175,hero
+7,0.2096491228070175,hero
+education,0.2096491228070175,hero
+powerful,0.3,hero
+way,0.2096491228070175,hero
+8,0.2096491228070175,hero
+providing,0.2096491228070175,hero
+guidance,0.2096491228070175,hero
+support,0.2096491228070175,hero
+9,0.2096491228070175,hero
+advocating,0.2096491228070175,hero
+on,0.2096491228070175,hero
+behalf,0.2096491228070175,hero
+10,0.2096491228070175,hero
+sharing,0.2096491228070175,hero
+resources,0.2096491228070175,hero
+help,0.2096491228070175,hero
+guard,0.2096491228070175,hero
+against,0.2096491228070175,hero
+scams,0.2096491228070175,hero
+11,0.2096491228070175,hero
+learning,0.2096491228070175,hero
+implementing,0.2096491228070175,hero
+preventive,0.2096491228070175,hero
+actions,0.2096491228070175,hero
+12,0.2096491228070175,hero
+recognizing,0.2096491228070175,hero
+avoiding,0.2096491228070175,hero
+attempts,0.2096491228070175,hero
+13,0.2096491228070175,hero
+assisting,0.2096491228070175,hero
+spotting,0.2096491228070175,hero
+warning,0.2096491228070175,hero
+signs,0.2096491228070175,hero
+responding,0.2096491228070175,hero
+cautiously,0.2096491228070175,hero
+14,0.2096491228070175,hero
+strengthening,0.2096491228070175,hero
+practices,0.2096491228070175,hero
+for,0.2096491228070175,hero
+15,0.2096491228070175,hero
+empowering,0.2096491228070175,hero
+report,0.2096491228070175,hero
+suspected,0.2096491228070175,hero
+fraud,0.2096491228070175,hero
+incidents,0.2096491228070175,hero
+16,0.2096491228070175,hero
+proactive,0.2096491228070175,hero
+steps,0.2096491228070175,hero
+secure,0.4,hero
+online,0.2096491228070175,hero
+information,0.2096491228070175,hero
+17,0.2096491228070175,hero
+offering,0.2096491228070175,hero
+victimization,0.2096491228070175,hero
+18,0.2096491228070175,hero
+vulnerability,0.2096491228070175,hero
+19,0.2096491228070175,hero
+enhancing,0.2096491228070175,hero
+digital,0.2096491228070175,hero
+literacy,0.2096491228070175,hero
+safety,0.2096491228070175,hero
+20,0.2096491228070175,hero
+collaborative,0.2096491228070175,hero
+efforts,0.2096491228070175,hero
+from,0.2096491228070175,hero
+exploitation,0.2096491228070175,hero
+these,0.2096491228070175,hero
+highlight,0.2096491228070175,hero
+protective,0.2096491228070175,hero
+taken,0.2096491228070175,hero
+positioning,0.2096491228070175,hero
+them,0.2096491228070175,hero
+heroes,0.2096491228070175,hero
+facing,0.2096491228070175,hero
+overcoming,0.2096491228070175,hero
+challenges,0.2096491228070175,hero
+related,0.2096491228070175,hero
+attacks,0.2096491228070175,hero
+words and,0.2096491228070175,hero
+and phrases,0.2096491228070175,hero
+phrases portraying,0.2096491228070175,hero
+portraying the,0.2096491228070175,hero
+the target,0.2096491228070175,hero
+target as,0.2096491228070175,hero
+as a,0.2096491228070175,hero
+a hero,0.2096491228070175,hero
+hero in,0.2096491228070175,hero
+in the,0.2096491228070175,hero
+the text,0.2096491228070175,hero
+text 1,0.2096491228070175,hero
+1 older,0.16666666666666666,hero
+older adults,0.16666666666666666,hero
+adults often,0.2096491228070175,hero
+often suffer,0.2096491228070175,hero
+suffer greatest,1.0,hero
+greatest financial,0.5,hero
+financial impact,0.2096491228070175,hero
+impact 2,0.2096491228070175,hero
+2 prevention,0.2096491228070175,hero
+prevention measures,0.2096491228070175,hero
+measures to,0.2096491228070175,hero
+to protect,0.2096491228070175,hero
+protect seniors,0.2096491228070175,hero
+seniors 3,0.2096491228070175,hero
+3 phishing,0.2096491228070175,hero
+phishing prevention,0.2096491228070175,hero
+prevention is,0.2096491228070175,hero
+is an,0.2096491228070175,hero
+an important,0.4,hero
+important part,0.4,hero
+part of,0.2096491228070175,hero
+of cybersecurity,0.2096491228070175,hero
+cybersecurity practice,0.2096491228070175,hero
+practice 4,0.2096491228070175,hero
+4 seniors,0.2096491228070175,hero
+seniors stand,0.2096491228070175,hero
+stand as,0.2096491228070175,hero
+as increasing,0.2096491228070175,hero
+increasing threats,0.2096491228070175,hero
+threats but,0.2096491228070175,hero
+but are,0.2096491228070175,hero
+are taking,0.2096491228070175,hero
+taking action,0.1,hero
+action to,0.1,hero
+to prevent,0.2096491228070175,hero
+prevent becoming,0.45,hero
+becoming victims,0.45,hero
+victims 5,0.2096491228070175,hero
+5 recommendations,0.2096491228070175,hero
+recommendations to,0.2096491228070175,hero
+to safeguard,0.2096491228070175,hero
+safeguard older,0.16666666666666666,hero
+adults 6,0.2096491228070175,hero
+6 protecting,0.2096491228070175,hero
+protecting personal,0.2096491228070175,hero
+personal data,0.2096491228070175,hero
+data and,0.2096491228070175,hero
+and money,0.2096491228070175,hero
+money 7,0.2096491228070175,hero
+7 education,0.2096491228070175,hero
+education is,0.2096491228070175,hero
+is a,0.2096491228070175,hero
+a powerful,0.3,hero
+powerful way,0.3,hero
+way to,0.2096491228070175,hero
+seniors 8,0.2096491228070175,hero
+8 providing,0.2096491228070175,hero
+providing guidance,0.2096491228070175,hero
+guidance and,0.2096491228070175,hero
+and support,0.2096491228070175,hero
+support to,0.2096491228070175,hero
+to older,0.16666666666666666,hero
+adults 9,0.2096491228070175,hero
+9 advocating,0.2096491228070175,hero
+advocating on,0.2096491228070175,hero
+on behalf,0.2096491228070175,hero
+behalf of,0.2096491228070175,hero
+of older,0.16666666666666666,hero
+adults 10,0.2096491228070175,hero
+10 sharing,0.2096491228070175,hero
+sharing resources,0.2096491228070175,hero
+resources to,0.2096491228070175,hero
+to help,0.2096491228070175,hero
+help seniors,0.2096491228070175,hero
+seniors guard,0.2096491228070175,hero
+guard against,0.2096491228070175,hero
+against scams,0.2096491228070175,hero
+scams 11,0.2096491228070175,hero
+11 learning,0.2096491228070175,hero
+learning and,0.2096491228070175,hero
+and implementing,0.2096491228070175,hero
+implementing preventive,0.2096491228070175,hero
+preventive actions,0.2096491228070175,hero
+actions 12,0.2096491228070175,hero
+12 recognizing,0.2096491228070175,hero
+recognizing and,0.2096491228070175,hero
+and avoiding,0.2096491228070175,hero
+avoiding phishing,0.2096491228070175,hero
+phishing attempts,0.2096491228070175,hero
+attempts 13,0.2096491228070175,hero
+13 assisting,0.2096491228070175,hero
+assisting older,0.16666666666666666,hero
+adults in,0.2096491228070175,hero
+in spotting,0.2096491228070175,hero
+spotting warning,0.2096491228070175,hero
+warning signs,0.2096491228070175,hero
+signs and,0.2096491228070175,hero
+and responding,0.2096491228070175,hero
+responding cautiously,0.2096491228070175,hero
+cautiously 14,0.2096491228070175,hero
+14 strengthening,0.2096491228070175,hero
+strengthening cybersecurity,0.2096491228070175,hero
+cybersecurity practices,0.2096491228070175,hero
+practices for,0.2096491228070175,hero
+for older,0.16666666666666666,hero
+adults 15,0.2096491228070175,hero
+15 empowering,0.2096491228070175,hero
+empowering seniors,0.2096491228070175,hero
+seniors to,0.2096491228070175,hero
+to report,0.2096491228070175,hero
+report suspected,0.2096491228070175,hero
+suspected fraud,0.2096491228070175,hero
+fraud incidents,0.2096491228070175,hero
+incidents 16,0.2096491228070175,hero
+16 taking,0.2096491228070175,hero
+taking proactive,0.2096491228070175,hero
+proactive steps,0.2096491228070175,hero
+steps to,0.2096491228070175,hero
+to secure,0.4,hero
+secure online,0.4,hero
+online information,0.2096491228070175,hero
+information 17,0.2096491228070175,hero
+17 offering,0.2096491228070175,hero
+offering support,0.2096491228070175,hero
+support and,0.2096491228070175,hero
+and guidance,0.2096491228070175,hero
+guidance to,0.2096491228070175,hero
+prevent victimization,0.2096491228070175,hero
+victimization 18,0.2096491228070175,hero
+18 recognizing,0.2096491228070175,hero
+recognizing the,0.2096491228070175,hero
+the vulnerability,0.2096491228070175,hero
+vulnerability of,0.2096491228070175,hero
+adults to,0.2096491228070175,hero
+to online,0.2096491228070175,hero
+online fraud,0.2096491228070175,hero
+fraud 19,0.2096491228070175,hero
+19 enhancing,0.2096491228070175,hero
+enhancing digital,0.2096491228070175,hero
+digital literacy,0.2096491228070175,hero
+literacy and,0.2096491228070175,hero
+and online,0.2096491228070175,hero
+online safety,0.2096491228070175,hero
+safety for,0.2096491228070175,hero
+for seniors,0.2096491228070175,hero
+seniors 20,0.2096491228070175,hero
+20 collaborative,0.2096491228070175,hero
+collaborative efforts,0.2096491228070175,hero
+efforts to,0.2096491228070175,hero
+seniors from,0.2096491228070175,hero
+from financial,0.2096491228070175,hero
+financial exploitation,0.2096491228070175,hero
+exploitation these,0.2096491228070175,hero
+these words,0.2096491228070175,hero
+phrases highlight,0.2096491228070175,hero
+highlight the,0.2096491228070175,hero
+the proactive,0.2096491228070175,hero
+proactive and,0.2096491228070175,hero
+and protective,0.2096491228070175,hero
+protective actions,0.2096491228070175,hero
+actions taken,0.2096491228070175,hero
+taken to,0.2096491228070175,hero
+adults from,0.2096491228070175,hero
+from scams,0.2096491228070175,hero
+scams positioning,0.2096491228070175,hero
+positioning them,0.2096491228070175,hero
+them as,0.2096491228070175,hero
+as heroes,0.2096491228070175,hero
+heroes in,0.2096491228070175,hero
+in facing,0.2096491228070175,hero
+facing and,0.2096491228070175,hero
+and overcoming,0.2096491228070175,hero
+overcoming challenges,0.2096491228070175,hero
+challenges related,0.2096491228070175,hero
+related to,0.2096491228070175,hero
+fraud and,0.2096491228070175,hero
+and phishing,0.2096491228070175,hero
+phishing attacks,0.2096491228070175,hero
+words and phrases,0.2096491228070175,hero
+and phrases portraying,0.2096491228070175,hero
+phrases portraying the,0.2096491228070175,hero
+portraying the target,0.2096491228070175,hero
+the target as,0.2096491228070175,hero
+target as a,0.2096491228070175,hero
+as a hero,0.2096491228070175,hero
+a hero in,0.2096491228070175,hero
+hero in the,0.2096491228070175,hero
+in the text,0.2096491228070175,hero
+the text 1,0.2096491228070175,hero
+text 1 older,0.16666666666666666,hero
+1 older adults,0.16666666666666666,hero
+older adults often,0.16666666666666666,hero
+adults often suffer,0.2096491228070175,hero
+often suffer greatest,1.0,hero
+suffer greatest financial,0.5,hero
+greatest financial impact,0.5,hero
+financial impact 2,0.2096491228070175,hero
+impact 2 prevention,0.2096491228070175,hero
+2 prevention measures,0.2096491228070175,hero
+prevention measures to,0.2096491228070175,hero
+measures to protect,0.2096491228070175,hero
+to protect seniors,0.2096491228070175,hero
+protect seniors 3,0.2096491228070175,hero
+seniors 3 phishing,0.2096491228070175,hero
+3 phishing prevention,0.2096491228070175,hero
+phishing prevention is,0.2096491228070175,hero
+prevention is an,0.2096491228070175,hero
+is an important,0.4,hero
+an important part,0.4,hero
+important part of,0.4,hero
+part of cybersecurity,0.2096491228070175,hero
+of cybersecurity practice,0.2096491228070175,hero
+cybersecurity practice 4,0.2096491228070175,hero
+practice 4 seniors,0.2096491228070175,hero
+4 seniors stand,0.2096491228070175,hero
+seniors stand as,0.2096491228070175,hero
+stand as increasing,0.2096491228070175,hero
+as increasing threats,0.2096491228070175,hero
+increasing threats but,0.2096491228070175,hero
+threats but are,0.2096491228070175,hero
+but are taking,0.2096491228070175,hero
+are taking action,0.1,hero
+taking action to,0.1,hero
+action to prevent,0.1,hero
+to prevent becoming,0.45,hero
+prevent becoming victims,0.45,hero
+becoming victims 5,0.45,hero
+victims 5 recommendations,0.2096491228070175,hero
+5 recommendations to,0.2096491228070175,hero
+recommendations to safeguard,0.2096491228070175,hero
+to safeguard older,0.16666666666666666,hero
+safeguard older adults,0.16666666666666666,hero
+older adults 6,0.16666666666666666,hero
+adults 6 protecting,0.2096491228070175,hero
+6 protecting personal,0.2096491228070175,hero
+protecting personal data,0.2096491228070175,hero
+personal data and,0.2096491228070175,hero
+data and money,0.2096491228070175,hero
+and money 7,0.2096491228070175,hero
+money 7 education,0.2096491228070175,hero
+7 education is,0.2096491228070175,hero
+education is a,0.2096491228070175,hero
+is a powerful,0.3,hero
+a powerful way,0.3,hero
+powerful way to,0.3,hero
+way to protect,0.2096491228070175,hero
+protect seniors 8,0.2096491228070175,hero
+seniors 8 providing,0.2096491228070175,hero
+8 providing guidance,0.2096491228070175,hero
+providing guidance and,0.2096491228070175,hero
+guidance and support,0.2096491228070175,hero
+and support to,0.2096491228070175,hero
+support to older,0.16666666666666666,hero
+to older adults,0.16666666666666666,hero
+older adults 9,0.16666666666666666,hero
+adults 9 advocating,0.2096491228070175,hero
+9 advocating on,0.2096491228070175,hero
+advocating on behalf,0.2096491228070175,hero
+on behalf of,0.2096491228070175,hero
+behalf of older,0.16666666666666666,hero
+of older adults,0.16666666666666666,hero
+older adults 10,0.16666666666666666,hero
+adults 10 sharing,0.2096491228070175,hero
+10 sharing resources,0.2096491228070175,hero
+sharing resources to,0.2096491228070175,hero
+resources to help,0.2096491228070175,hero
+to help seniors,0.2096491228070175,hero
+help seniors guard,0.2096491228070175,hero
+seniors guard against,0.2096491228070175,hero
+guard against scams,0.2096491228070175,hero
+against scams 11,0.2096491228070175,hero
+scams 11 learning,0.2096491228070175,hero
+11 learning and,0.2096491228070175,hero
+learning and implementing,0.2096491228070175,hero
+and implementing preventive,0.2096491228070175,hero
+implementing preventive actions,0.2096491228070175,hero
+preventive actions 12,0.2096491228070175,hero
+actions 12 recognizing,0.2096491228070175,hero
+12 recognizing and,0.2096491228070175,hero
+recognizing and avoiding,0.2096491228070175,hero
+and avoiding phishing,0.2096491228070175,hero
+avoiding phishing attempts,0.2096491228070175,hero
+phishing attempts 13,0.2096491228070175,hero
+attempts 13 assisting,0.2096491228070175,hero
+13 assisting older,0.16666666666666666,hero
+assisting older adults,0.16666666666666666,hero
+older adults in,0.16666666666666666,hero
+adults in spotting,0.2096491228070175,hero
+in spotting warning,0.2096491228070175,hero
+spotting warning signs,0.2096491228070175,hero
+warning signs and,0.2096491228070175,hero
+signs and responding,0.2096491228070175,hero
+and responding cautiously,0.2096491228070175,hero
+responding cautiously 14,0.2096491228070175,hero
+cautiously 14 strengthening,0.2096491228070175,hero
+14 strengthening cybersecurity,0.2096491228070175,hero
+strengthening cybersecurity practices,0.2096491228070175,hero
+cybersecurity practices for,0.2096491228070175,hero
+practices for older,0.16666666666666666,hero
+for older adults,0.16666666666666666,hero
+older adults 15,0.16666666666666666,hero
+adults 15 empowering,0.2096491228070175,hero
+15 empowering seniors,0.2096491228070175,hero
+empowering seniors to,0.2096491228070175,hero
+seniors to report,0.2096491228070175,hero
+to report suspected,0.2096491228070175,hero
+report suspected fraud,0.2096491228070175,hero
+suspected fraud incidents,0.2096491228070175,hero
+fraud incidents 16,0.2096491228070175,hero
+incidents 16 taking,0.2096491228070175,hero
+16 taking proactive,0.2096491228070175,hero
+taking proactive steps,0.2096491228070175,hero
+proactive steps to,0.2096491228070175,hero
+steps to secure,0.4,hero
+to secure online,0.4,hero
+secure online information,0.4,hero
+online information 17,0.2096491228070175,hero
+information 17 offering,0.2096491228070175,hero
+17 offering support,0.2096491228070175,hero
+offering support and,0.2096491228070175,hero
+support and guidance,0.2096491228070175,hero
+and guidance to,0.2096491228070175,hero
+guidance to prevent,0.2096491228070175,hero
+to prevent victimization,0.2096491228070175,hero
+prevent victimization 18,0.2096491228070175,hero
+victimization 18 recognizing,0.2096491228070175,hero
+18 recognizing the,0.2096491228070175,hero
+recognizing the vulnerability,0.2096491228070175,hero
+the vulnerability of,0.2096491228070175,hero
+vulnerability of older,0.16666666666666666,hero
+older adults to,0.16666666666666666,hero
+adults to online,0.2096491228070175,hero
+to online fraud,0.2096491228070175,hero
+online fraud 19,0.2096491228070175,hero
+fraud 19 enhancing,0.2096491228070175,hero
+19 enhancing digital,0.2096491228070175,hero
+enhancing digital literacy,0.2096491228070175,hero
+digital literacy and,0.2096491228070175,hero
+literacy and online,0.2096491228070175,hero
+and online safety,0.2096491228070175,hero
+online safety for,0.2096491228070175,hero
+safety for seniors,0.2096491228070175,hero
+for seniors 20,0.2096491228070175,hero
+seniors 20 collaborative,0.2096491228070175,hero
+20 collaborative efforts,0.2096491228070175,hero
+collaborative efforts to,0.2096491228070175,hero
+efforts to protect,0.2096491228070175,hero
+protect seniors from,0.2096491228070175,hero
+seniors from financial,0.2096491228070175,hero
+from financial exploitation,0.2096491228070175,hero
+financial exploitation these,0.2096491228070175,hero
+exploitation these words,0.2096491228070175,hero
+these words and,0.2096491228070175,hero
+and phrases highlight,0.2096491228070175,hero
+phrases highlight the,0.2096491228070175,hero
+highlight the proactive,0.2096491228070175,hero
+the proactive and,0.2096491228070175,hero
+proactive and protective,0.2096491228070175,hero
+and protective actions,0.2096491228070175,hero
+protective actions taken,0.2096491228070175,hero
+actions taken to,0.2096491228070175,hero
+taken to safeguard,0.2096491228070175,hero
+older adults from,0.16666666666666666,hero
+adults from scams,0.2096491228070175,hero
+from scams positioning,0.2096491228070175,hero
+scams positioning them,0.2096491228070175,hero
+positioning them as,0.2096491228070175,hero
+them as heroes,0.2096491228070175,hero
+as heroes in,0.2096491228070175,hero
+heroes in facing,0.2096491228070175,hero
+in facing and,0.2096491228070175,hero
+facing and overcoming,0.2096491228070175,hero
+and overcoming challenges,0.2096491228070175,hero
+overcoming challenges related,0.2096491228070175,hero
+challenges related to,0.2096491228070175,hero
+related to online,0.2096491228070175,hero
+online fraud and,0.2096491228070175,hero
+fraud and phishing,0.2096491228070175,hero
+and phishing attacks,0.2096491228070175,hero
+toll,0.06477987421383649,victim
+exceeded,0.06477987421383649,victim
+total,0.06477987421383649,victim
+losses,0.06477987421383649,victim
+individual,0.06477987421383649,victim
+loss,0.06477987421383649,victim
+vulnerable,-0.5,victim
+targets,0.06477987421383649,victim
+american,0.06477987421383649,victim
+people,0.06477987421383649,victim
+generations,0.06477987421383649,victim
+aging,0.06477987421383649,victim
+targeting,0.06477987421383649,victim
+common,-0.3,victim
+types,0.06477987421383649,victim
+ransomware,0.06477987421383649,victim
+cybercriminals,0.06477987421383649,victim
+scammers,0.06477987421383649,victim
+fraudsters,0.06477987421383649,victim
+targeted,0.06477987421383649,victim
+adult,0.1,victim
+potential,0.06477987421383649,victim
+scam,0.06477987421383649,victim
+unsuspecting,0.06477987421383649,victim
+psychological,0.06477987421383649,victim
+tactics,0.06477987421383649,victim
+manipulation,0.06477987421383649,victim
+tricking,0.06477987421383649,victim
+deceptive,0.06477987421383649,victim
+emails,0.06477987421383649,victim
+fraudulent,0.06477987421383649,victim
+messages,0.06477987421383649,victim
+social,0.03333333333333333,victim
+isolation,0.06477987421383649,victim
+emotional,0.06477987421383649,victim
+response,0.06477987421383649,victim
+influence,0.06477987421383649,victim
+engineering,0.06477987421383649,victim
+deception,0.06477987421383649,victim
+susceptibility,0.06477987421383649,victim
+elder,0.06477987421383649,victim
+techniques,0.06477987421383649,victim
+cognition,0.06477987421383649,victim
+decision-making,0.06477987421383649,victim
+detection,0.06477987421383649,victim
+misleading,0.06477987421383649,victim
+theft,0.06477987421383649,victim
+stealing,0.06477987421383649,victim
+identities,0.06477987421383649,victim
+identity,0.06477987421383649,victim
+compromising,0.06477987421383649,victim
+security,0.06477987421383649,victim
+unauthorized,0.06477987421383649,victim
+access,0.06477987421383649,victim
+sensitive,0.1,victim
+account,0.06477987421383649,victim
+details,0.06477987421383649,victim
+activities,0.06477987421383649,victim
+email,0.06477987421383649,victim
+schemes,0.06477987421383649,victim
+behavior,0.06477987421383649,victim
+notifications,0.06477987421383649,victim
+disguise,0.06477987421383649,victim
+language,0.06477987421383649,victim
+tricks,0.06477987421383649,victim
+strategies,0.06477987421383649,victim
+persuasion,0.06477987421383649,victim
+offers,0.1,victim
+communications,0.06477987421383649,victim
+awareness,0.06477987421383649,victim
+software,0.06477987421383649,victim
+tools,0.06477987421383649,victim
+protection,0.06477987421383649,victim
+mechanisms,0.06477987421383649,victim
+spam,0.06477987421383649,victim
+filters,0.06477987421383649,victim
+antivirus,0.06477987421383649,victim
+password,0.06477987421383649,victim
+updates,0.06477987421383649,victim
+multifactor,0.06477987421383649,victim
+authentication,0.06477987421383649,victim
+red,0.06477987421383649,victim
+flags,0.06477987421383649,victim
+suspicious,0.06477987421383649,victim
+activity,0.06477987421383649,victim
+indicators,0.06477987421383649,victim
+telltale,0.06477987421383649,victim
+defense,0.06477987421383649,victim
+networks,0.06477987421383649,victim
+systems,0.06477987421383649,victim
+browsing,0.06477987421383649,victim
+habits,0.06477987421383649,victim
+reporting,0.06477987421383649,victim
+concerns,0.06477987421383649,victim
+seeking,0.06477987421383649,victim
+assistance,0.06477987421383649,victim
+privacy,0.06477987421383649,victim
+recognition,0.06477987421383649,victim
+avoidance,0.06477987421383649,victim
+mitigation,0.06477987421383649,victim
+tech,0.06477987421383649,victim
+investment,0.06477987421383649,victim
+lottery,0.06477987421383649,victim
+charity,0.06477987421383649,victim
+phone,0.06477987421383649,victim
+internet,0.06477987421383649,victim
+shopping,0.06477987421383649,victim
+varieties,0.06477987421383649,victim
+categories,0.06477987421383649,victim
+stolen,0.06477987421383649,victim
+recovery,0.06477987421383649,victim
+risks,0.06477987421383649,victim
+cybercrime,0.06477987421383649,victim
+website,0.06477987421383649,victim
+transactions,0.06477987421383649,victim
+1 victims,0.06477987421383649,victim
+victims older,0.16666666666666666,victim
+adults seniors,0.06477987421383649,victim
+seniors 2,0.06477987421383649,victim
+2 financial,0.06477987421383649,victim
+impact greatest,1.0,victim
+impact financial,0.06477987421383649,victim
+financial toll,0.06477987421383649,victim
+toll exceeded,0.06477987421383649,victim
+exceeded total,0.06477987421383649,victim
+total losses,0.06477987421383649,victim
+losses individual,0.06477987421383649,victim
+individual financial,0.06477987421383649,victim
+financial loss,0.06477987421383649,victim
+loss 3,0.06477987421383649,victim
+3 vulnerable,-0.5,victim
+vulnerable targets,-0.5,victim
+targets older,0.16666666666666666,victim
+older american,0.08333333333333333,victim
+american victims,0.06477987421383649,victim
+older people,0.16666666666666666,victim
+people seniors,0.06477987421383649,victim
+seniors older,0.16666666666666666,victim
+older generations,0.16666666666666666,victim
+generations older,0.16666666666666666,victim
+adults aging,0.06477987421383649,victim
+aging adults,0.06477987421383649,victim
+adults 4,0.06477987421383649,victim
+4 scams,0.06477987421383649,victim
+scams targeting,0.06477987421383649,victim
+targeting seniors,0.06477987421383649,victim
+seniors phishing,0.06477987421383649,victim
+attacks phishing,0.06477987421383649,victim
+prevention phishing,0.06477987421383649,victim
+prevention efforts,0.06477987421383649,victim
+efforts phishing,0.06477987421383649,victim
+prevention practices,0.06477987421383649,victim
+practices common,-0.3,victim
+common types,-0.3,victim
+types of,0.06477987421383649,victim
+of phishing,0.06477987421383649,victim
+phishing types,0.06477987421383649,victim
+phishing online,0.06477987421383649,victim
+online scams,0.06477987421383649,victim
+seniors ransomware,0.06477987421383649,victim
+ransomware attacks,0.06477987421383649,victim
+attacks cybercriminals,0.06477987421383649,victim
+cybercriminals scammers,0.06477987421383649,victim
+scammers fraudsters,0.06477987421383649,victim
+fraudsters 5,0.06477987421383649,victim
+5 targeted,0.06477987421383649,victim
+targeted victimization,0.06477987421383649,victim
+victimization phishing,0.06477987421383649,victim
+phishing victims,0.06477987421383649,victim
+older adult,0.13333333333333333,victim
+adult victims,0.1,victim
+victims victims,0.06477987421383649,victim
+victims of,0.06477987421383649,victim
+of online,0.06477987421383649,victim
+fraud victims,0.06477987421383649,victim
+phishing scams,0.06477987421383649,victim
+scams potential,0.06477987421383649,victim
+potential scam,0.06477987421383649,victim
+scam victims,0.06477987421383649,victim
+victims unsuspecting,0.06477987421383649,victim
+unsuspecting victims,0.06477987421383649,victim
+victims 6,0.06477987421383649,victim
+6 psychological,0.06477987421383649,victim
+psychological tactics,0.06477987421383649,victim
+tactics manipulation,0.06477987421383649,victim
+manipulation tricking,0.06477987421383649,victim
+tricking deceptive,0.06477987421383649,victim
+deceptive emails,0.06477987421383649,victim
+emails fraudulent,0.06477987421383649,victim
+fraudulent messages,0.06477987421383649,victim
+messages fraudulent,0.06477987421383649,victim
+fraudulent emails,0.06477987421383649,victim
+fraudulent tactics,0.06477987421383649,victim
+tactics social,0.03333333333333333,victim
+social isolation,0.03333333333333333,victim
+isolation emotional,0.06477987421383649,victim
+emotional response,0.06477987421383649,victim
+response emotional,0.06477987421383649,victim
+emotional influence,0.06477987421383649,victim
+influence social,0.03333333333333333,victim
+social engineering,0.03333333333333333,victim
+engineering 7,0.06477987421383649,victim
+7 exploitation,0.06477987421383649,victim
+exploitation financial,0.06477987421383649,victim
+financial losses,0.06477987421383649,victim
+losses vulnerability,0.06477987421383649,victim
+vulnerability to,0.06477987421383649,victim
+to deception,0.06477987421383649,victim
+deception susceptibility,0.06477987421383649,victim
+susceptibility to,0.06477987421383649,victim
+to fraud,0.06477987421383649,victim
+fraud financial,0.06477987421383649,victim
+financial fraud,0.06477987421383649,victim
+fraud elder,0.06477987421383649,victim
+elder fraud,0.06477987421383649,victim
+fraud online,0.06477987421383649,victim
+online exploitation,0.06477987421383649,victim
+exploitation targeted,0.06477987421383649,victim
+targeted exploitation,0.06477987421383649,victim
+exploitation 8,0.06477987421383649,victim
+8 deception,0.06477987421383649,victim
+deception techniques,0.06477987421383649,victim
+techniques social,0.03333333333333333,victim
+social cognition,0.03333333333333333,victim
+cognition decision-making,0.06477987421383649,victim
+decision-making susceptibility,0.06477987421383649,victim
+deception detection,0.06477987421383649,victim
+detection of,0.06477987421383649,victim
+of deception,0.06477987421383649,victim
+deception deceptive,0.06477987421383649,victim
+deceptive messages,0.06477987421383649,victim
+messages misleading,0.06477987421383649,victim
+misleading tactics,0.06477987421383649,victim
+tactics 9,0.06477987421383649,victim
+9 personal,0.06477987421383649,victim
+personal information,0.06477987421383649,victim
+information theft,0.06477987421383649,victim
+theft stealing,0.06477987421383649,victim
+stealing information,0.06477987421383649,victim
+information stealing,0.06477987421383649,victim
+stealing identities,0.06477987421383649,victim
+identities identity,0.06477987421383649,victim
+identity theft,0.06477987421383649,victim
+stealing personal,0.06477987421383649,victim
+information compromising,0.06477987421383649,victim
+compromising security,0.06477987421383649,victim
+security unauthorized,0.06477987421383649,victim
+unauthorized access,0.06477987421383649,victim
+access sensitive,0.1,victim
+sensitive data,0.1,victim
+data personal,0.06477987421383649,victim
+information financial,0.06477987421383649,victim
+financial account,0.06477987421383649,victim
+account details,0.06477987421383649,victim
+details personal,0.06477987421383649,victim
+data 10,0.06477987421383649,victim
+10 fraudulent,0.06477987421383649,victim
+fraudulent activities,0.06477987421383649,victim
+activities fraudulent,0.06477987421383649,victim
+fraudulent phishing,0.06477987421383649,victim
+phishing fraudulent,0.06477987421383649,victim
+fraudulent email,0.06477987421383649,victim
+email scam,0.06477987421383649,victim
+scam activities,0.06477987421383649,victim
+fraudulent schemes,0.06477987421383649,victim
+schemes fraudulent,0.06477987421383649,victim
+fraudulent behavior,0.06477987421383649,victim
+behavior fraudulent,0.06477987421383649,victim
+fraudulent notifications,0.06477987421383649,victim
+notifications fraudulent,0.06477987421383649,victim
+emails 11,0.06477987421383649,victim
+11 scam,0.06477987421383649,victim
+scam tactics,0.06477987421383649,victim
+engineering tactics,0.06477987421383649,victim
+tactics disguise,0.06477987421383649,victim
+disguise techniques,0.06477987421383649,victim
+techniques language,0.06477987421383649,victim
+language tricks,0.06477987421383649,victim
+tricks manipulation,0.06477987421383649,victim
+manipulation strategies,0.06477987421383649,victim
+strategies persuasion,0.06477987421383649,victim
+persuasion tactics,0.06477987421383649,victim
+tactics fraudulent,0.06477987421383649,victim
+fraudulent offers,0.1,victim
+offers deceptive,0.1,victim
+deceptive communications,0.06477987421383649,victim
+communications 12,0.06477987421383649,victim
+12 preventive,0.06477987421383649,victim
+preventive measures,0.06477987421383649,victim
+measures phishing,0.06477987421383649,victim
+phishing awareness,0.06477987421383649,victim
+awareness phishing,0.06477987421383649,victim
+phishing education,0.06477987421383649,victim
+education online,0.06477987421383649,victim
+safety cybersecurity,0.06477987421383649,victim
+practices security,0.06477987421383649,victim
+security measures,0.06477987421383649,victim
+measures security,0.06477987421383649,victim
+security software,0.06477987421383649,victim
+software security,0.06477987421383649,victim
+security tools,0.06477987421383649,victim
+tools protection,0.06477987421383649,victim
+protection mechanisms,0.06477987421383649,victim
+mechanisms spam,0.06477987421383649,victim
+spam filters,0.06477987421383649,victim
+filters antivirus,0.06477987421383649,victim
+antivirus protection,0.06477987421383649,victim
+protection password,0.06477987421383649,victim
+password security,0.06477987421383649,victim
+security security,0.06477987421383649,victim
+security updates,0.06477987421383649,victim
+updates multifactor,0.06477987421383649,victim
+multifactor authentication,0.06477987421383649,victim
+authentication cybersecurity,0.06477987421383649,victim
+cybersecurity awareness,0.06477987421383649,victim
+awareness 13,0.06477987421383649,victim
+13 warning,0.06477987421383649,victim
+signs red,0.06477987421383649,victim
+red flags,0.06477987421383649,victim
+flags suspicious,0.06477987421383649,victim
+suspicious activity,0.06477987421383649,victim
+activity potential,0.06477987421383649,victim
+potential warning,0.06477987421383649,victim
+signs indicators,0.06477987421383649,victim
+indicators of,0.06477987421383649,victim
+of scams,0.06477987421383649,victim
+scams common,-0.3,victim
+common warning,-0.3,victim
+signs telltale,0.06477987421383649,victim
+telltale signs,0.06477987421383649,victim
+signs signs,0.06477987421383649,victim
+signs of,0.06477987421383649,victim
+phishing flags,0.06477987421383649,victim
+flags of,0.06477987421383649,victim
+deception 14,0.06477987421383649,victim
+14 digital,0.06477987421383649,victim
+digital security,0.06477987421383649,victim
+security personal,0.06477987421383649,victim
+personal cybersecurity,0.06477987421383649,victim
+cybersecurity online,0.06477987421383649,victim
+online protection,0.06477987421383649,victim
+protection digital,0.06477987421383649,victim
+digital defense,0.06477987421383649,victim
+defense secure,0.4,victim
+secure networks,0.4,victim
+networks secure,0.4,victim
+secure systems,0.4,victim
+systems secure,0.4,victim
+secure browsing,0.4,victim
+browsing habits,0.06477987421383649,victim
+habits secure,0.4,victim
+online behavior,0.06477987421383649,victim
+behavior 15,0.06477987421383649,victim
+15 reporting,0.06477987421383649,victim
+reporting incidents,0.06477987421383649,victim
+incidents reporting,0.06477987421383649,victim
+reporting concerns,0.06477987421383649,victim
+concerns reporting,0.06477987421383649,victim
+reporting fraud,0.06477987421383649,victim
+fraud reporting,0.06477987421383649,victim
+reporting suspicious,0.06477987421383649,victim
+activity seeking,0.06477987421383649,victim
+seeking assistance,0.06477987421383649,victim
+assistance seeking,0.06477987421383649,victim
+seeking help,0.06477987421383649,victim
+help reporting,0.06477987421383649,victim
+reporting phishing,0.06477987421383649,victim
+phishing incidents,0.06477987421383649,victim
+reporting financial,0.06477987421383649,victim
+fraud 16,0.06477987421383649,victim
+16 privacy,0.06477987421383649,victim
+privacy protection,0.06477987421383649,victim
+protection protection,0.06477987421383649,victim
+protection of,0.06477987421383649,victim
+of personal,0.06477987421383649,victim
+information protection,0.06477987421383649,victim
+of sensitive,0.1,victim
+data protection,0.06477987421383649,victim
+protection from,0.06477987421383649,victim
+scams protection,0.06477987421383649,victim
+protection against,0.06477987421383649,victim
+against identity,0.06477987421383649,victim
+theft protection,0.06477987421383649,victim
+losses protection,0.06477987421383649,victim
+protection strategies,0.06477987421383649,victim
+strategies 17,0.06477987421383649,victim
+17 scam,0.06477987421383649,victim
+scam prevention,0.06477987421383649,victim
+prevention scam,0.06477987421383649,victim
+scam awareness,0.06477987421383649,victim
+awareness scam,0.06477987421383649,victim
+prevention strategies,0.06477987421383649,victim
+strategies scam,0.06477987421383649,victim
+scam recognition,0.06477987421383649,victim
+recognition scam,0.06477987421383649,victim
+scam avoidance,0.06477987421383649,victim
+avoidance scam,0.06477987421383649,victim
+scam protection,0.06477987421383649,victim
+protection scam,0.06477987421383649,victim
+scam mitigation,0.06477987421383649,victim
+mitigation scam,0.06477987421383649,victim
+scam education,0.06477987421383649,victim
+education 18,0.06477987421383649,victim
+18 scam,0.06477987421383649,victim
+scam types,0.06477987421383649,victim
+types phishing,0.06477987421383649,victim
+scams tech,0.06477987421383649,victim
+tech support,0.06477987421383649,victim
+support scams,0.06477987421383649,victim
+scams investment,0.06477987421383649,victim
+investment scams,0.06477987421383649,victim
+scams lottery,0.06477987421383649,victim
+lottery scams,0.06477987421383649,victim
+scams charity,0.06477987421383649,victim
+charity scams,0.06477987421383649,victim
+scams phone,0.06477987421383649,victim
+phone scams,0.06477987421383649,victim
+scams internet,0.06477987421383649,victim
+internet scams,0.06477987421383649,victim
+scams financial,0.06477987421383649,victim
+financial scams,0.06477987421383649,victim
+scams online,0.06477987421383649,victim
+online shopping,0.06477987421383649,victim
+shopping scams,0.06477987421383649,victim
+scams scam,0.06477987421383649,victim
+scam varieties,0.06477987421383649,victim
+varieties scam,0.06477987421383649,victim
+scam categories,0.06477987421383649,victim
+categories 19,0.06477987421383649,victim
+19 identity,0.06477987421383649,victim
+theft stolen,0.06477987421383649,victim
+stolen identities,0.06477987421383649,victim
+protection identity,0.06477987421383649,victim
+theft prevention,0.06477987421383649,victim
+prevention identity,0.06477987421383649,victim
+theft recovery,0.06477987421383649,victim
+recovery identity,0.06477987421383649,victim
+theft risks,0.06477987421383649,victim
+risks identity,0.06477987421383649,victim
+theft awareness,0.06477987421383649,victim
+awareness 20,0.06477987421383649,victim
+20 online,0.06477987421383649,victim
+safety online,0.06477987421383649,victim
+shopping safety,0.06477987421383649,victim
+safety digital,0.06477987421383649,victim
+literacy cybercrime,0.06477987421383649,victim
+cybercrime prevention,0.06477987421383649,victim
+prevention internet,0.06477987421383649,victim
+internet safety,0.06477987421383649,victim
+fraud prevention,0.06477987421383649,victim
+prevention website,0.06477987421383649,victim
+website security,0.06477987421383649,victim
+security secure,0.4,victim
+secure transactions,0.4,victim
+transactions online,0.06477987421383649,victim
+online scam,0.06477987421383649,victim
+awareness digital,0.06477987421383649,victim
+digital protection,0.06477987421383649,victim
+1 victims older,0.16666666666666666,victim
+victims older adults,0.16666666666666666,victim
+older adults seniors,0.16666666666666666,victim
+adults seniors 2,0.06477987421383649,victim
+seniors 2 financial,0.06477987421383649,victim
+2 financial impact,0.06477987421383649,victim
+financial impact greatest,0.5,victim
+impact greatest financial,0.5,victim
+financial impact financial,0.06477987421383649,victim
+impact financial toll,0.06477987421383649,victim
+financial toll exceeded,0.06477987421383649,victim
+toll exceeded total,0.06477987421383649,victim
+exceeded total losses,0.06477987421383649,victim
+total losses individual,0.06477987421383649,victim
+losses individual financial,0.06477987421383649,victim
+individual financial loss,0.06477987421383649,victim
+financial loss 3,0.06477987421383649,victim
+loss 3 vulnerable,-0.5,victim
+3 vulnerable targets,-0.5,victim
+vulnerable targets older,-0.16666666666666669,victim
+targets older american,0.08333333333333333,victim
+older american victims,0.08333333333333333,victim
+american victims older,0.08333333333333333,victim
+victims older people,0.16666666666666666,victim
+older people seniors,0.16666666666666666,victim
+people seniors older,0.16666666666666666,victim
+seniors older generations,0.16666666666666666,victim
+older generations older,0.16666666666666666,victim
+generations older adults,0.16666666666666666,victim
+older adults aging,0.16666666666666666,victim
+adults aging adults,0.06477987421383649,victim
+aging adults 4,0.06477987421383649,victim
+adults 4 scams,0.06477987421383649,victim
+4 scams targeting,0.06477987421383649,victim
+scams targeting seniors,0.06477987421383649,victim
+targeting seniors phishing,0.06477987421383649,victim
+seniors phishing attacks,0.06477987421383649,victim
+phishing attacks phishing,0.06477987421383649,victim
+attacks phishing prevention,0.06477987421383649,victim
+phishing prevention phishing,0.06477987421383649,victim
+prevention phishing prevention,0.06477987421383649,victim
+phishing prevention efforts,0.06477987421383649,victim
+prevention efforts phishing,0.06477987421383649,victim
+efforts phishing prevention,0.06477987421383649,victim
+phishing prevention practices,0.06477987421383649,victim
+prevention practices common,-0.3,victim
+practices common types,-0.3,victim
+common types of,-0.3,victim
+types of phishing,0.06477987421383649,victim
+of phishing types,0.06477987421383649,victim
+phishing types of,0.06477987421383649,victim
+of phishing online,0.06477987421383649,victim
+phishing online scams,0.06477987421383649,victim
+online scams targeting,0.06477987421383649,victim
+targeting seniors ransomware,0.06477987421383649,victim
+seniors ransomware attacks,0.06477987421383649,victim
+ransomware attacks cybercriminals,0.06477987421383649,victim
+attacks cybercriminals scammers,0.06477987421383649,victim
+cybercriminals scammers fraudsters,0.06477987421383649,victim
+scammers fraudsters 5,0.06477987421383649,victim
+fraudsters 5 targeted,0.06477987421383649,victim
+5 targeted victimization,0.06477987421383649,victim
+targeted victimization phishing,0.06477987421383649,victim
+victimization phishing victims,0.06477987421383649,victim
+phishing victims older,0.16666666666666666,victim
+victims older adult,0.13333333333333333,victim
+older adult victims,0.13333333333333333,victim
+adult victims victims,0.1,victim
+victims victims of,0.06477987421383649,victim
+victims of online,0.06477987421383649,victim
+of online fraud,0.06477987421383649,victim
+online fraud victims,0.06477987421383649,victim
+fraud victims of,0.06477987421383649,victim
+victims of phishing,0.06477987421383649,victim
+of phishing scams,0.06477987421383649,victim
+phishing scams potential,0.06477987421383649,victim
+scams potential scam,0.06477987421383649,victim
+potential scam victims,0.06477987421383649,victim
+scam victims unsuspecting,0.06477987421383649,victim
+victims unsuspecting victims,0.06477987421383649,victim
+unsuspecting victims 6,0.06477987421383649,victim
+victims 6 psychological,0.06477987421383649,victim
+6 psychological tactics,0.06477987421383649,victim
+psychological tactics manipulation,0.06477987421383649,victim
+tactics manipulation tricking,0.06477987421383649,victim
+manipulation tricking deceptive,0.06477987421383649,victim
+tricking deceptive emails,0.06477987421383649,victim
+deceptive emails fraudulent,0.06477987421383649,victim
+emails fraudulent messages,0.06477987421383649,victim
+fraudulent messages fraudulent,0.06477987421383649,victim
+messages fraudulent emails,0.06477987421383649,victim
+fraudulent emails fraudulent,0.06477987421383649,victim
+emails fraudulent tactics,0.06477987421383649,victim
+fraudulent tactics social,0.03333333333333333,victim
+tactics social isolation,0.03333333333333333,victim
+social isolation emotional,0.016666666666666666,victim
+isolation emotional response,0.06477987421383649,victim
+emotional response emotional,0.06477987421383649,victim
+response emotional influence,0.06477987421383649,victim
+emotional influence social,0.016666666666666666,victim
+influence social engineering,0.03333333333333333,victim
+social engineering 7,0.03333333333333333,victim
+engineering 7 exploitation,0.06477987421383649,victim
+7 exploitation financial,0.06477987421383649,victim
+exploitation financial exploitation,0.06477987421383649,victim
+financial exploitation financial,0.06477987421383649,victim
+exploitation financial losses,0.06477987421383649,victim
+financial losses vulnerability,0.06477987421383649,victim
+losses vulnerability to,0.06477987421383649,victim
+vulnerability to deception,0.06477987421383649,victim
+to deception susceptibility,0.06477987421383649,victim
+deception susceptibility to,0.06477987421383649,victim
+susceptibility to deception,0.06477987421383649,victim
+susceptibility to fraud,0.06477987421383649,victim
+to fraud financial,0.06477987421383649,victim
+fraud financial fraud,0.06477987421383649,victim
+financial fraud elder,0.06477987421383649,victim
+fraud elder fraud,0.06477987421383649,victim
+elder fraud online,0.06477987421383649,victim
+fraud online exploitation,0.06477987421383649,victim
+online exploitation targeted,0.06477987421383649,victim
+exploitation targeted exploitation,0.06477987421383649,victim
+targeted exploitation 8,0.06477987421383649,victim
+exploitation 8 deception,0.06477987421383649,victim
+8 deception techniques,0.06477987421383649,victim
+deception techniques social,0.03333333333333333,victim
+techniques social cognition,0.03333333333333333,victim
+social cognition decision-making,0.03333333333333333,victim
+cognition decision-making susceptibility,0.06477987421383649,victim
+decision-making susceptibility to,0.06477987421383649,victim
+to deception detection,0.06477987421383649,victim
+deception detection of,0.06477987421383649,victim
+detection of deception,0.06477987421383649,victim
+of deception deceptive,0.06477987421383649,victim
+deception deceptive messages,0.06477987421383649,victim
+deceptive messages misleading,0.06477987421383649,victim
+messages misleading tactics,0.06477987421383649,victim
+misleading tactics 9,0.06477987421383649,victim
+tactics 9 personal,0.06477987421383649,victim
+9 personal information,0.06477987421383649,victim
+personal information theft,0.06477987421383649,victim
+information theft stealing,0.06477987421383649,victim
+theft stealing information,0.06477987421383649,victim
+stealing information stealing,0.06477987421383649,victim
+information stealing identities,0.06477987421383649,victim
+stealing identities identity,0.06477987421383649,victim
+identities identity theft,0.06477987421383649,victim
+identity theft stealing,0.06477987421383649,victim
+theft stealing personal,0.06477987421383649,victim
+stealing personal information,0.06477987421383649,victim
+personal information compromising,0.06477987421383649,victim
+information compromising security,0.06477987421383649,victim
+compromising security unauthorized,0.06477987421383649,victim
+security unauthorized access,0.06477987421383649,victim
+unauthorized access sensitive,0.1,victim
+access sensitive data,0.1,victim
+sensitive data personal,0.05,victim
+data personal information,0.06477987421383649,victim
+personal information financial,0.06477987421383649,victim
+information financial account,0.06477987421383649,victim
+financial account details,0.06477987421383649,victim
+account details personal,0.06477987421383649,victim
+details personal data,0.06477987421383649,victim
+personal data 10,0.06477987421383649,victim
+data 10 fraudulent,0.06477987421383649,victim
+10 fraudulent activities,0.06477987421383649,victim
+fraudulent activities fraudulent,0.06477987421383649,victim
+activities fraudulent phishing,0.06477987421383649,victim
+fraudulent phishing fraudulent,0.06477987421383649,victim
+phishing fraudulent email,0.06477987421383649,victim
+fraudulent email scam,0.06477987421383649,victim
+email scam activities,0.06477987421383649,victim
+scam activities fraudulent,0.06477987421383649,victim
+activities fraudulent schemes,0.06477987421383649,victim
+fraudulent schemes fraudulent,0.06477987421383649,victim
+schemes fraudulent behavior,0.06477987421383649,victim
+fraudulent behavior fraudulent,0.06477987421383649,victim
+behavior fraudulent messages,0.06477987421383649,victim
+messages fraudulent notifications,0.06477987421383649,victim
+fraudulent notifications fraudulent,0.06477987421383649,victim
+notifications fraudulent emails,0.06477987421383649,victim
+fraudulent emails 11,0.06477987421383649,victim
+emails 11 scam,0.06477987421383649,victim
+11 scam tactics,0.06477987421383649,victim
+scam tactics social,0.03333333333333333,victim
+tactics social engineering,0.03333333333333333,victim
+social engineering tactics,0.03333333333333333,victim
+engineering tactics disguise,0.06477987421383649,victim
+tactics disguise techniques,0.06477987421383649,victim
+disguise techniques language,0.06477987421383649,victim
+techniques language tricks,0.06477987421383649,victim
+language tricks manipulation,0.06477987421383649,victim
+tricks manipulation strategies,0.06477987421383649,victim
+manipulation strategies persuasion,0.06477987421383649,victim
+strategies persuasion tactics,0.06477987421383649,victim
+persuasion tactics fraudulent,0.06477987421383649,victim
+tactics fraudulent offers,0.1,victim
+fraudulent offers deceptive,0.1,victim
+offers deceptive communications,0.1,victim
+deceptive communications 12,0.06477987421383649,victim
+communications 12 preventive,0.06477987421383649,victim
+12 preventive measures,0.06477987421383649,victim
+preventive measures phishing,0.06477987421383649,victim
+measures phishing prevention,0.06477987421383649,victim
+prevention phishing awareness,0.06477987421383649,victim
+phishing awareness phishing,0.06477987421383649,victim
+awareness phishing education,0.06477987421383649,victim
+phishing education online,0.06477987421383649,victim
+education online safety,0.06477987421383649,victim
+online safety cybersecurity,0.06477987421383649,victim
+safety cybersecurity practices,0.06477987421383649,victim
+cybersecurity practices security,0.06477987421383649,victim
+practices security measures,0.06477987421383649,victim
+security measures security,0.06477987421383649,victim
+measures security software,0.06477987421383649,victim
+security software security,0.06477987421383649,victim
+software security tools,0.06477987421383649,victim
+security tools protection,0.06477987421383649,victim
+tools protection mechanisms,0.06477987421383649,victim
+protection mechanisms spam,0.06477987421383649,victim
+mechanisms spam filters,0.06477987421383649,victim
+spam filters antivirus,0.06477987421383649,victim
+filters antivirus protection,0.06477987421383649,victim
+antivirus protection password,0.06477987421383649,victim
+protection password security,0.06477987421383649,victim
+password security security,0.06477987421383649,victim
+security security updates,0.06477987421383649,victim
+security updates multifactor,0.06477987421383649,victim
+updates multifactor authentication,0.06477987421383649,victim
+multifactor authentication cybersecurity,0.06477987421383649,victim
+authentication cybersecurity awareness,0.06477987421383649,victim
+cybersecurity awareness 13,0.06477987421383649,victim
+awareness 13 warning,0.06477987421383649,victim
+13 warning signs,0.06477987421383649,victim
+warning signs red,0.06477987421383649,victim
+signs red flags,0.06477987421383649,victim
+red flags suspicious,0.06477987421383649,victim
+flags suspicious activity,0.06477987421383649,victim
+suspicious activity potential,0.06477987421383649,victim
+activity potential warning,0.06477987421383649,victim
+potential warning signs,0.06477987421383649,victim
+warning signs indicators,0.06477987421383649,victim
+signs indicators of,0.06477987421383649,victim
+indicators of scams,0.06477987421383649,victim
+of scams common,-0.3,victim
+scams common warning,-0.3,victim
+common warning signs,-0.3,victim
+warning signs telltale,0.06477987421383649,victim
+signs telltale signs,0.06477987421383649,victim
+telltale signs signs,0.06477987421383649,victim
+signs signs of,0.06477987421383649,victim
+signs of phishing,0.06477987421383649,victim
+of phishing flags,0.06477987421383649,victim
+phishing flags of,0.06477987421383649,victim
+flags of deception,0.06477987421383649,victim
+of deception 14,0.06477987421383649,victim
+deception 14 digital,0.06477987421383649,victim
+14 digital security,0.06477987421383649,victim
+digital security personal,0.06477987421383649,victim
+security personal cybersecurity,0.06477987421383649,victim
+personal cybersecurity online,0.06477987421383649,victim
+cybersecurity online protection,0.06477987421383649,victim
+online protection digital,0.06477987421383649,victim
+protection digital defense,0.06477987421383649,victim
+digital defense secure,0.2,victim
+defense secure networks,0.4,victim
+secure networks secure,0.4,victim
+networks secure systems,0.4,victim
+secure systems secure,0.4,victim
+systems secure browsing,0.4,victim
+secure browsing habits,0.4,victim
+browsing habits secure,0.4,victim
+habits secure online,0.4,victim
+secure online behavior,0.4,victim
+online behavior 15,0.06477987421383649,victim
+behavior 15 reporting,0.06477987421383649,victim
+15 reporting incidents,0.06477987421383649,victim
+reporting incidents reporting,0.06477987421383649,victim
+incidents reporting concerns,0.06477987421383649,victim
+reporting concerns reporting,0.06477987421383649,victim
+concerns reporting fraud,0.06477987421383649,victim
+reporting fraud reporting,0.06477987421383649,victim
+fraud reporting suspicious,0.06477987421383649,victim
+reporting suspicious activity,0.06477987421383649,victim
+suspicious activity seeking,0.06477987421383649,victim
+activity seeking assistance,0.06477987421383649,victim
+seeking assistance seeking,0.06477987421383649,victim
+assistance seeking help,0.06477987421383649,victim
+seeking help reporting,0.06477987421383649,victim
+help reporting phishing,0.06477987421383649,victim
+reporting phishing incidents,0.06477987421383649,victim
+phishing incidents reporting,0.06477987421383649,victim
+incidents reporting financial,0.06477987421383649,victim
+reporting financial fraud,0.06477987421383649,victim
+financial fraud 16,0.06477987421383649,victim
+fraud 16 privacy,0.06477987421383649,victim
+16 privacy protection,0.06477987421383649,victim
+privacy protection protection,0.06477987421383649,victim
+protection protection of,0.06477987421383649,victim
+protection of personal,0.06477987421383649,victim
+of personal information,0.06477987421383649,victim
+personal information protection,0.06477987421383649,victim
+information protection of,0.06477987421383649,victim
+protection of sensitive,0.1,victim
+of sensitive data,0.1,victim
+sensitive data protection,0.1,victim
+data protection from,0.06477987421383649,victim
+protection from scams,0.06477987421383649,victim
+from scams protection,0.06477987421383649,victim
+scams protection against,0.06477987421383649,victim
+protection against identity,0.06477987421383649,victim
+against identity theft,0.06477987421383649,victim
+identity theft protection,0.06477987421383649,victim
+theft protection from,0.06477987421383649,victim
+protection from financial,0.06477987421383649,victim
+from financial losses,0.06477987421383649,victim
+financial losses protection,0.06477987421383649,victim
+losses protection strategies,0.06477987421383649,victim
+protection strategies 17,0.06477987421383649,victim
+strategies 17 scam,0.06477987421383649,victim
+17 scam prevention,0.06477987421383649,victim
+scam prevention scam,0.06477987421383649,victim
+prevention scam awareness,0.06477987421383649,victim
+scam awareness scam,0.06477987421383649,victim
+awareness scam prevention,0.06477987421383649,victim
+scam prevention strategies,0.06477987421383649,victim
+prevention strategies scam,0.06477987421383649,victim
+strategies scam recognition,0.06477987421383649,victim
+scam recognition scam,0.06477987421383649,victim
+recognition scam avoidance,0.06477987421383649,victim
+scam avoidance scam,0.06477987421383649,victim
+avoidance scam protection,0.06477987421383649,victim
+scam protection scam,0.06477987421383649,victim
+protection scam mitigation,0.06477987421383649,victim
+scam mitigation scam,0.06477987421383649,victim
+mitigation scam education,0.06477987421383649,victim
+scam education 18,0.06477987421383649,victim
+education 18 scam,0.06477987421383649,victim
+18 scam types,0.06477987421383649,victim
+scam types phishing,0.06477987421383649,victim
+types phishing scams,0.06477987421383649,victim
+phishing scams tech,0.06477987421383649,victim
+scams tech support,0.06477987421383649,victim
+tech support scams,0.06477987421383649,victim
+support scams investment,0.06477987421383649,victim
+scams investment scams,0.06477987421383649,victim
+investment scams lottery,0.06477987421383649,victim
+scams lottery scams,0.06477987421383649,victim
+lottery scams charity,0.06477987421383649,victim
+scams charity scams,0.06477987421383649,victim
+charity scams phone,0.06477987421383649,victim
+scams phone scams,0.06477987421383649,victim
+phone scams internet,0.06477987421383649,victim
+scams internet scams,0.06477987421383649,victim
+internet scams financial,0.06477987421383649,victim
+scams financial scams,0.06477987421383649,victim
+financial scams online,0.06477987421383649,victim
+scams online shopping,0.06477987421383649,victim
+online shopping scams,0.06477987421383649,victim
+shopping scams scam,0.06477987421383649,victim
+scams scam varieties,0.06477987421383649,victim
+scam varieties scam,0.06477987421383649,victim
+varieties scam categories,0.06477987421383649,victim
+scam categories 19,0.06477987421383649,victim
+categories 19 identity,0.06477987421383649,victim
+19 identity theft,0.06477987421383649,victim
+identity theft stolen,0.06477987421383649,victim
+theft stolen identities,0.06477987421383649,victim
+stolen identities identity,0.06477987421383649,victim
+theft protection identity,0.06477987421383649,victim
+protection identity theft,0.06477987421383649,victim
+identity theft prevention,0.06477987421383649,victim
+theft prevention identity,0.06477987421383649,victim
+prevention identity theft,0.06477987421383649,victim
+identity theft recovery,0.06477987421383649,victim
+theft recovery identity,0.06477987421383649,victim
+recovery identity theft,0.06477987421383649,victim
+identity theft risks,0.06477987421383649,victim
+theft risks identity,0.06477987421383649,victim
+risks identity theft,0.06477987421383649,victim
+identity theft awareness,0.06477987421383649,victim
+theft awareness 20,0.06477987421383649,victim
+awareness 20 online,0.06477987421383649,victim
+20 online safety,0.06477987421383649,victim
+online safety online,0.06477987421383649,victim
+safety online shopping,0.06477987421383649,victim
+online shopping safety,0.06477987421383649,victim
+shopping safety digital,0.06477987421383649,victim
+safety digital literacy,0.06477987421383649,victim
+digital literacy cybercrime,0.06477987421383649,victim
+literacy cybercrime prevention,0.06477987421383649,victim
+cybercrime prevention internet,0.06477987421383649,victim
+prevention internet safety,0.06477987421383649,victim
+internet safety online,0.06477987421383649,victim
+safety online fraud,0.06477987421383649,victim
+online fraud prevention,0.06477987421383649,victim
+fraud prevention website,0.06477987421383649,victim
+prevention website security,0.06477987421383649,victim
+website security secure,0.4,victim
+security secure transactions,0.4,victim
+secure transactions online,0.4,victim
+transactions online scam,0.06477987421383649,victim
+online scam awareness,0.06477987421383649,victim
+scam awareness digital,0.06477987421383649,victim
+awareness digital protection,0.06477987421383649,victim
+that,-0.2083333333333333,villain
+describe,-0.2083333333333333,villain
+attacker,-0.2083333333333333,villain
+villain,-0.2083333333333333,villain
+include,-0.2083333333333333,villain
+deceptions,-0.2083333333333333,villain
+cyber,-0.2083333333333333,villain
+criminals,-0.2083333333333333,villain
+coercion,-0.2083333333333333,villain
+malicious,-0.2083333333333333,villain
+actors,-0.2083333333333333,villain
+thieves,-0.2083333333333333,villain
+con,-0.2083333333333333,villain
+artists,-0.2083333333333333,villain
+perpetrators,-0.2083333333333333,villain
+crime,-0.2083333333333333,villain
+threat,-0.2083333333333333,villain
+predatory,-0.2083333333333333,villain
+trickery,-0.2083333333333333,villain
+sinister,-0.5,villain
+insidious,-0.2083333333333333,villain
+plots,-0.2083333333333333,villain
+fake,-0.5,villain
+news,-0.2083333333333333,villain
+fabricated,-0.2083333333333333,villain
+images,-0.2083333333333333,villain
+impersonation,-0.2083333333333333,villain
+imposter,-0.2083333333333333,villain
+checks,-0.2083333333333333,villain
+dishonest,-0.3,villain
+untrustworthy,-0.2083333333333333,villain
+claims,-0.2083333333333333,villain
+intentions,-0.2083333333333333,villain
+websites,-0.2083333333333333,villain
+illicit,-0.2083333333333333,villain
+requests,-0.2083333333333333,villain
+phrases that,-0.2083333333333333,villain
+that describe,-0.2083333333333333,villain
+describe an,-0.2083333333333333,villain
+an attacker,-0.2083333333333333,villain
+attacker as,-0.2083333333333333,villain
+a villain,-0.2083333333333333,villain
+villain in,-0.2083333333333333,villain
+text include,-0.2083333333333333,villain
+include deceptions,-0.2083333333333333,villain
+deceptions fraudsters,-0.2083333333333333,villain
+fraudsters cyber,-0.2083333333333333,villain
+cyber criminals,-0.2083333333333333,villain
+criminals scammers,-0.2083333333333333,villain
+scammers exploitation,-0.2083333333333333,villain
+exploitation manipulation,-0.2083333333333333,villain
+manipulation coercion,-0.2083333333333333,villain
+coercion malicious,-0.2083333333333333,villain
+malicious actors,-0.2083333333333333,villain
+actors thieves,-0.2083333333333333,villain
+thieves con,-0.2083333333333333,villain
+con artists,-0.2083333333333333,villain
+artists perpetrators,-0.2083333333333333,villain
+perpetrators crime,-0.2083333333333333,villain
+crime threat,-0.2083333333333333,villain
+threat predatory,-0.2083333333333333,villain
+predatory tactics,-0.2083333333333333,villain
+tactics trickery,-0.2083333333333333,villain
+trickery phishing,-0.2083333333333333,villain
+scams exploitation,-0.2083333333333333,villain
+exploitation identity,-0.2083333333333333,villain
+theft deception,-0.2083333333333333,villain
+deception financial,-0.2083333333333333,villain
+fraud fraudulent,-0.2083333333333333,villain
+fraudulent sinister,-0.5,villain
+sinister tactics,-0.5,villain
+tactics insidious,-0.2083333333333333,villain
+insidious plots,-0.2083333333333333,villain
+plots schemes,-0.2083333333333333,villain
+emails fake,-0.5,villain
+fake news,-0.5,villain
+news fabricated,-0.2083333333333333,villain
+fabricated images,-0.2083333333333333,villain
+images impersonation,-0.2083333333333333,villain
+impersonation imposter,-0.2083333333333333,villain
+imposter scams,-0.2083333333333333,villain
+scams phishing,-0.2083333333333333,villain
+attacks fraudulent,-0.2083333333333333,villain
+fraudulent checks,-0.2083333333333333,villain
+checks financial,-0.2083333333333333,villain
+exploitation dishonest,-0.3,villain
+dishonest practices,-0.3,villain
+practices predatory,-0.2083333333333333,villain
+predatory behavior,-0.2083333333333333,villain
+behavior untrustworthy,-0.2083333333333333,villain
+untrustworthy behavior,-0.2083333333333333,villain
+behavior exploitation,-0.2083333333333333,villain
+exploitation fraudulent,-0.2083333333333333,villain
+fraudulent claims,-0.2083333333333333,villain
+claims red,-0.2083333333333333,villain
+flags warning,-0.2083333333333333,villain
+signs fraudulent,-0.2083333333333333,villain
+activities deceptive,-0.2083333333333333,villain
+messages malicious,-0.2083333333333333,villain
+malicious schemes,-0.2083333333333333,villain
+schemes malicious,-0.2083333333333333,villain
+malicious intentions,-0.2083333333333333,villain
+intentions financial,-0.2083333333333333,villain
+scams fake,-0.5,villain
+fake websites,-0.5,villain
+websites fake,-0.5,villain
+fake emails,-0.5,villain
+emails dishonest,-0.3,villain
+dishonest tactics,-0.3,villain
+tactics illicit,-0.2083333333333333,villain
+illicit activities,-0.2083333333333333,villain
+fraudulent requests,-0.2083333333333333,villain
+requests fraudulent,-0.2083333333333333,villain
+deceptive practices,-0.2083333333333333,villain
+and phrases that,-0.2083333333333333,villain
+phrases that describe,-0.2083333333333333,villain
+that describe an,-0.2083333333333333,villain
+describe an attacker,-0.2083333333333333,villain
+an attacker as,-0.2083333333333333,villain
+attacker as a,-0.2083333333333333,villain
+as a villain,-0.2083333333333333,villain
+a villain in,-0.2083333333333333,villain
+villain in the,-0.2083333333333333,villain
+the text include,-0.2083333333333333,villain
+text include deceptions,-0.2083333333333333,villain
+include deceptions fraudsters,-0.2083333333333333,villain
+deceptions fraudsters cyber,-0.2083333333333333,villain
+fraudsters cyber criminals,-0.2083333333333333,villain
+cyber criminals scammers,-0.2083333333333333,villain
+criminals scammers exploitation,-0.2083333333333333,villain
+scammers exploitation manipulation,-0.2083333333333333,villain
+exploitation manipulation coercion,-0.2083333333333333,villain
+manipulation coercion malicious,-0.2083333333333333,villain
+coercion malicious actors,-0.2083333333333333,villain
+malicious actors thieves,-0.2083333333333333,villain
+actors thieves con,-0.2083333333333333,villain
+thieves con artists,-0.2083333333333333,villain
+con artists perpetrators,-0.2083333333333333,villain
+artists perpetrators crime,-0.2083333333333333,villain
+perpetrators crime threat,-0.2083333333333333,villain
+crime threat predatory,-0.2083333333333333,villain
+threat predatory tactics,-0.2083333333333333,villain
+predatory tactics trickery,-0.2083333333333333,villain
+tactics trickery phishing,-0.2083333333333333,villain
+trickery phishing scams,-0.2083333333333333,villain
+phishing scams exploitation,-0.2083333333333333,villain
+scams exploitation identity,-0.2083333333333333,villain
+exploitation identity theft,-0.2083333333333333,villain
+identity theft deception,-0.2083333333333333,villain
+theft deception financial,-0.2083333333333333,villain
+deception financial fraud,-0.2083333333333333,villain
+financial fraud fraudulent,-0.2083333333333333,villain
+fraud fraudulent sinister,-0.5,villain
+fraudulent sinister tactics,-0.5,villain
+sinister tactics insidious,-0.5,villain
+tactics insidious plots,-0.2083333333333333,villain
+insidious plots schemes,-0.2083333333333333,villain
+plots schemes fraudulent,-0.2083333333333333,villain
+schemes fraudulent emails,-0.2083333333333333,villain
+fraudulent emails fake,-0.5,villain
+emails fake news,-0.5,villain
+fake news fabricated,-0.25,villain
+news fabricated images,-0.2083333333333333,villain
+fabricated images impersonation,-0.2083333333333333,villain
+images impersonation imposter,-0.2083333333333333,villain
+impersonation imposter scams,-0.2083333333333333,villain
+imposter scams phishing,-0.2083333333333333,villain
+scams phishing attacks,-0.2083333333333333,villain
+phishing attacks fraudulent,-0.2083333333333333,villain
+attacks fraudulent checks,-0.2083333333333333,villain
+fraudulent checks financial,-0.2083333333333333,villain
+checks financial exploitation,-0.2083333333333333,villain
+financial exploitation dishonest,-0.15,villain
+exploitation dishonest practices,-0.3,villain
+dishonest practices predatory,-0.3,villain
+practices predatory behavior,-0.2083333333333333,villain
+predatory behavior untrustworthy,-0.2083333333333333,villain
+behavior untrustworthy behavior,-0.2083333333333333,villain
+untrustworthy behavior exploitation,-0.2083333333333333,villain
+behavior exploitation fraudulent,-0.2083333333333333,villain
+exploitation fraudulent claims,-0.2083333333333333,villain
+fraudulent claims red,-0.2083333333333333,villain
+claims red flags,-0.2083333333333333,villain
+red flags warning,-0.2083333333333333,villain
+flags warning signs,-0.2083333333333333,villain
+warning signs fraudulent,-0.2083333333333333,villain
+signs fraudulent activities,-0.2083333333333333,villain
+fraudulent activities deceptive,-0.2083333333333333,villain
+activities deceptive messages,-0.2083333333333333,villain
+deceptive messages malicious,-0.2083333333333333,villain
+messages malicious schemes,-0.2083333333333333,villain
+malicious schemes fraudulent,-0.2083333333333333,villain
+schemes fraudulent schemes,-0.2083333333333333,villain
+fraudulent schemes malicious,-0.2083333333333333,villain
+schemes malicious intentions,-0.2083333333333333,villain
+malicious intentions financial,-0.2083333333333333,villain
+intentions financial scams,-0.2083333333333333,villain
+financial scams fake,-0.25,villain
+scams fake websites,-0.5,villain
+fake websites fake,-0.5,villain
+websites fake emails,-0.5,villain
+fake emails dishonest,-0.4,villain
+emails dishonest tactics,-0.3,villain
+dishonest tactics illicit,-0.3,villain
+tactics illicit activities,-0.2083333333333333,villain
+illicit activities fraudulent,-0.2083333333333333,villain
+activities fraudulent requests,-0.2083333333333333,villain
+fraudulent requests fraudulent,-0.2083333333333333,villain
+requests fraudulent behavior,-0.2083333333333333,villain
+behavior fraudulent offers,0.1,villain
+offers deceptive practices,0.1,villain
