@@ -2,22 +2,42 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def visualize_tfidf(tfidf_file):
-    df = pd.read_csv(tfidf_file, index_col=0)
-    df = df.T  # Transpose for better readability
+# Input file path
+INPUT_FILE = "../03_output/tfidf_scores.csv"
 
-    print("TF-IDF Table Preview:")
-    print(df.head(10))  # Display first 10 words
+# Read the TF-IDF scores
+df = pd.read_csv(INPUT_FILE)
 
-    plt.figure(figsize=(12, 6))
-    sns.heatmap(df, cmap="Blues", linewidths=0.5, linecolor="gray")
-    plt.title("TF-IDF Scores Across Documents")
-    plt.xlabel("Document Category")
-    plt.ylabel("Words/Bigrams")
-    plt.xticks(rotation=45)
-    plt.yticks(rotation=0)
+# Set plot style
+sns.set(style="whitegrid")
+
+# Function to create and display a barplot
+def plot_top_terms(data, title, top_n=20):
+    plt.figure(figsize=(10, 6))
+    sns.barplot(data=data.head(top_n), x="score", y="term", palette="viridis")
+    plt.title(title)
+    plt.xlabel("TF-IDF Score")
+    plt.ylabel("Term")
+    plt.tight_layout()
     plt.show()
 
+# Plot top unigrams
+unigrams = df[df["ngram_type"] == "unigram"].sort_values(by="score", ascending=False)
+plot_top_terms(unigrams, "Top Unigrams by TF-IDF Score")
+
+# Plot top bigrams
+bigrams = df[df["ngram_type"] == "bigram"].sort_values(by="score", ascending=False)
+plot_top_terms(bigrams, "Top Bigrams by TF-IDF Score")
+
+# Plot top trigrams
+trigrams = df[df["ngram_type"] == "trigram"].sort_values(by="score", ascending=False)
+plot_top_terms(trigrams, "Top Trigrams by TF-IDF Score")
+
+# Plot top overall terms
+top_all = df.sort_values(by="score", ascending=False)
+plot_top_terms(top_all, "Top Overall N-grams by TF-IDF Score")
+
+#Sentiment Analysis
 def visualize_sentiment(sentiment_file):
     df = pd.read_csv(sentiment_file)
     
@@ -36,7 +56,4 @@ def visualize_sentiment(sentiment_file):
     plt.ylabel("Sentiment Score")
     plt.axhline(0, color="black", linewidth=1)  # Neutral sentiment line
     plt.show()
-
-# Usage
-visualize_tfidf("../03_output/tfidf_scores.csv")
 visualize_sentiment("../03_output/sentiment_scores.csv")
