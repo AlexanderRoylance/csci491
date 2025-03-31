@@ -1,0 +1,4 @@
+-add word Complexity graph
+-refine sentiment(maybe)
+-standardize graph(xy range)
+-
