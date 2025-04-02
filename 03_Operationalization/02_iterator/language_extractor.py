@@ -2,29 +2,29 @@ import openai
 import json
 
 # Ensure you have the latest OpenAI API key set in your environment
-openai.api_key = "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"
+openai.api_key = ""
 # Read the preprocessed text
 with open("../01_input/preprocessed_text.txt", "r", encoding="utf-8") as f:
     text = f.read()
 
 # Define prompts for extraction
 prompts = {
-    "hero": "Extract words and phrases that portray the target as a hero in this text.",
-    "victim": "Extract words and phrases that depict the target as a victim in this text.",
-    "villain": "Extract words and phrases that describe an attacker as a villain in this text."
+    "hero": "Extract Sentences that demonstrate Individuals or entities that try to help, prevent, or resolve the phishing attack. do not say anything other than these sentences.(no numbers no explanation)",
+    "victim": "Extract Sentences that portray Individuals or entities who were deceived or harmed by the phishing attack. do not say anything other than these sentences.(no numbers no explanation)",
+    "villain": "Extract Sentences that describe Perpetrators of the phishing attack (e.g., scammers, fraudsters). do not say anything other than these sentences (no numbers no explanation)."
 }
 
 # Dictionary to store results
 risk_language = {}
 
 for category, prompt in prompts.items():
-    response = openai.ChatCompletion.create( 
+    response = openai.chat.completions.create( 
         model="gpt-3.5-turbo",
         messages=[{"role": "system", "content": "You are an NLP model extracting linguistic features."},
                   {"role": "user", "content": f"{prompt}\n\n{text}"}]
     )
     
-    extracted_words = response['choices'][0]['message']['content'].strip().split(", ")
+    extracted_words = response.choices[0].message.content.strip().split(".")
     risk_language[category] = extracted_words
 
 with open("risk_language_summary.json", "w", encoding="utf-8") as f:
