@@ -11,13 +11,14 @@ df = pd.read_csv(INPUT_FILE)
 # Set plot style
 sns.set(style="whitegrid")
 
-# Function to create and display a barplot
+# Function to create and display a barplot with standardized x-axis
 def plot_top_terms(data, title, top_n=20):
     plt.figure(figsize=(10, 6))
     sns.barplot(data=data.head(top_n), x="score", y="term", palette="viridis")
     plt.title(title)
     plt.xlabel("TF-IDF Score")
     plt.ylabel("Term")
+    plt.xlim(0, 0.6)  # Set max TF-IDF score to 0.6
     plt.tight_layout()
     plt.show()
 
@@ -37,17 +38,17 @@ plot_top_terms(trigrams, "Top Trigrams by TF-IDF Score")
 top_all = df.sort_values(by="score", ascending=False)
 plot_top_terms(top_all, "Top Overall N-grams by TF-IDF Score")
 
-#Sentiment Analysis
+# Sentiment Analysis
 def visualize_sentiment(sentiment_file):
     df = pd.read_csv(sentiment_file)
     
-    # **Filter single words only (remove phrases)**
-    df = df[df["Word"].str.contains(" ") == False]  # Keep words without spaces
+    # Filter single words only (remove phrases)
+    df = df[df["Word"].str.contains(" ") == False]
 
-    # **Drop duplicate words, keeping the first occurrence per category**
+    # Drop duplicate words, keeping the first occurrence per category
     df = df.drop_duplicates(subset=["Word", "Category"])
 
-    # **Plot**
+    # Plot
     plt.figure(figsize=(12, 6))
     sns.barplot(data=df, x="Word", y="Sentiment Score", hue="Category", dodge=False)
     plt.xticks(rotation=90)
@@ -55,5 +56,7 @@ def visualize_sentiment(sentiment_file):
     plt.xlabel("Words")
     plt.ylabel("Sentiment Score")
     plt.axhline(0, color="black", linewidth=1)  # Neutral sentiment line
+    plt.tight_layout()
     plt.show()
+
 visualize_sentiment("../03_output/sentiment_scores.csv")
