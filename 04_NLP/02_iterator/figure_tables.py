@@ -15,16 +15,57 @@ sns.set(style="whitegrid")
 INPUT_FILE = "../03_output/tfidf_scores.csv"
 df = pd.read_csv(INPUT_FILE)
 
+# Define keywords for highlighting
+HERO_KEYWORDS = [
+    "warning signs", "help"
+]
+VILLAIN_KEYWORDS = [
+    "scams", "scam", "scammers", "fraud"
+]
+VICTIM_KEYWORDS = [
+    "older adults", "adults", "seniors"
+]
+
 def plot_top_terms(data, title, top_n=20):
-    plt.figure(figsize=(10, 6))
-    sns.barplot(data=data.head(top_n), x="score", y="term", palette="viridis")
+    # Select top terms
+    plot_data = data.head(top_n).copy()
+
+    # Assign color using consistent scheme
+    def get_color(term):
+        if any(keyword in term for keyword in HERO_KEYWORDS):
+            return "green"
+        elif any(keyword in term for keyword in VILLAIN_KEYWORDS):
+            return "red"
+        elif any(keyword in term for keyword in VICTIM_KEYWORDS):
+            return "blue"
+        else:
+            return "gray"
+
+    plot_data["color"] = plot_data["term"].apply(get_color)
+
+    # Plot
+    plt.figure(figsize=(12, 6))
+    for i, row in plot_data.iterrows():
+        plt.bar(
+            row["term"],
+            row["score"],
+            color=row["color"],           # fill color with default opacity
+            edgecolor=row["color"],      # border color
+            linewidth=2,
+            alpha=0.3                    # semi-transparent fill
+        )
+
     plt.title(title)
-    plt.xlabel("TF-IDF Score")
-    plt.ylabel("Term")
-    plt.xlim(0, 0.6)
+    plt.ylabel("TF-IDF Score")
+    plt.xlabel("Term")
+    plt.xticks(rotation=45, ha="right")
+    plt.ylim(0, 0.6)
     plt.tight_layout()
     plt.show()
 
+
+
+# Filter by n-gram type and plot
 unigrams = df[df["ngram_type"] == "unigram"].sort_values(by="score", ascending=False)
 plot_top_terms(unigrams, "Top Unigrams by TF-IDF Score")
 

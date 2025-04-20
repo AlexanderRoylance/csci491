@@ -15,7 +15,7 @@ documents = [text]
 
 # Function to compute TF-IDF for given n-gram range
 def compute_tfidf(documents, ngram_range):
-    vectorizer = TfidfVectorizer(ngram_range=ngram_range)
+    vectorizer = TfidfVectorizer(ngram_range=ngram_range, stop_words='english')
     tfidf_matrix = vectorizer.fit_transform(documents)
     feature_names = vectorizer.get_feature_names_out()
     scores = tfidf_matrix.toarray().flatten()
