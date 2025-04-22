@@ -1,0 +1,324 @@
+Word,Sentiment Score,Category
+you,0.28531746031746036,hero_messages
+are,0.28531746031746036,hero_messages
+savvy,0.28531746031746036,hero_messages
+strong,0.43333333333333335,hero_messages
+and,0.28531746031746036,hero_messages
+smart,0.21428571428571427,hero_messages
+dear,0.28531746031746036,hero_messages
+older,0.16666666666666666,hero_messages
+adults,0.28531746031746036,hero_messages
+you are,0.28531746031746036,hero_messages
+are savvy,0.28531746031746036,hero_messages
+savvy strong,0.43333333333333335,hero_messages
+strong and,0.43333333333333335,hero_messages
+and smart,0.21428571428571427,hero_messages
+smart dear,0.21428571428571427,hero_messages
+dear older,0.16666666666666666,hero_messages
+older adults,0.16666666666666666,hero_messages
+you are savvy,0.28531746031746036,hero_messages
+are savvy strong,0.43333333333333335,hero_messages
+savvy strong and,0.43333333333333335,hero_messages
+strong and smart,0.3238095238095238,hero_messages
+and smart dear,0.21428571428571427,hero_messages
+smart dear older,0.19047619047619047,hero_messages
+dear older adults,0.16666666666666666,hero_messages
+remember,0.3,hero_messages
+valuable,0.3,hero_messages
+adults remember,0.3,hero_messages
+remember you,0.3,hero_messages
+and valuable,0.3,hero_messages
+older adults remember,0.16666666666666666,hero_messages
+adults remember you,0.3,hero_messages
+remember you are,0.3,hero_messages
+strong and valuable,0.43333333333333335,hero_messages
+young,0.1,hero_messages
+at,0.3770833333333333,hero_messages
+heart,0.3770833333333333,hero_messages
+wise,0.7,hero_messages
+in,0.3770833333333333,hero_messages
+mind,0.3770833333333333,hero_messages
+young at,0.1,hero_messages
+at heart,0.3770833333333333,hero_messages
+heart wise,0.7,hero_messages
+wise in,0.7,hero_messages
+in mind,0.3770833333333333,hero_messages
+mind remember,0.3770833333333333,hero_messages
+remember older,0.16666666666666666,hero_messages
+adults are,0.3770833333333333,hero_messages
+savvy and,0.3770833333333333,hero_messages
+and strong,0.43333333333333335,hero_messages
+young at heart,0.1,hero_messages
+at heart wise,0.7,hero_messages
+heart wise in,0.7,hero_messages
+wise in mind,0.7,hero_messages
+in mind remember,0.3770833333333333,hero_messages
+mind remember older,0.16666666666666666,hero_messages
+remember older adults,0.16666666666666666,hero_messages
+older adults are,0.16666666666666666,hero_messages
+adults are savvy,0.3770833333333333,hero_messages
+are savvy and,0.3770833333333333,hero_messages
+savvy and strong,0.43333333333333335,hero_messages
+stay,-0.25,victim_messages
+vigilant,-0.25,victim_messages
+protect,-0.25,victim_messages
+your,-0.25,victim_messages
+security,-0.25,victim_messages
+from,-0.25,victim_messages
+potential,-0.25,victim_messages
+phishing,-0.25,victim_messages
+scams,-0.25,victim_messages
+targeting,-0.25,victim_messages
+vulnerable,-0.5,victim_messages
+individuals,-0.25,victim_messages
+stay vigilant,-0.25,victim_messages
+vigilant and,-0.25,victim_messages
+and protect,-0.25,victim_messages
+protect your,-0.25,victim_messages
+your security,-0.25,victim_messages
+security from,-0.25,victim_messages
+from potential,-0.25,victim_messages
+potential phishing,-0.25,victim_messages
+phishing scams,-0.25,victim_messages
+scams targeting,-0.25,victim_messages
+targeting vulnerable,-0.5,victim_messages
+vulnerable individuals,-0.5,victim_messages
+stay vigilant and,-0.25,victim_messages
+vigilant and protect,-0.25,victim_messages
+and protect your,-0.25,victim_messages
+protect your security,-0.25,victim_messages
+your security from,-0.25,victim_messages
+security from potential,-0.25,victim_messages
+from potential phishing,-0.25,victim_messages
+potential phishing scams,-0.25,victim_messages
+phishing scams targeting,-0.25,victim_messages
+scams targeting vulnerable,-0.5,victim_messages
+targeting vulnerable individuals,-0.5,victim_messages
+yourself,-0.05,victim_messages
+never,-0.05,victim_messages
+give,-0.05,victim_messages
+personal,-0.05,victim_messages
+details,-0.05,victim_messages
+to,-0.05,victim_messages
+unknown,-0.1,victim_messages
+people,-0.05,victim_messages
+online,-0.05,victim_messages
+or,-0.05,victim_messages
+over,-0.05,victim_messages
+the,-0.05,victim_messages
+phone,-0.05,victim_messages
+protect yourself,-0.05,victim_messages
+yourself and,-0.05,victim_messages
+and your,-0.05,victim_messages
+security never,-0.05,victim_messages
+never give,-0.05,victim_messages
+give personal,-0.05,victim_messages
+personal details,-0.05,victim_messages
+details to,-0.05,victim_messages
+to unknown,-0.1,victim_messages
+unknown people,-0.1,victim_messages
+people online,-0.05,victim_messages
+online or,-0.05,victim_messages
+or over,-0.05,victim_messages
+over the,-0.05,victim_messages
+the phone,-0.05,victim_messages
+protect yourself and,-0.05,victim_messages
+yourself and your,-0.05,victim_messages
+and your security,-0.05,victim_messages
+your security never,-0.05,victim_messages
+security never give,-0.05,victim_messages
+never give personal,-0.05,victim_messages
+give personal details,-0.05,victim_messages
+personal details to,-0.05,victim_messages
+details to unknown,-0.1,victim_messages
+to unknown people,-0.1,victim_messages
+unknown people online,-0.1,victim_messages
+people online or,-0.05,victim_messages
+online or over,-0.05,victim_messages
+or over the,-0.05,victim_messages
+over the phone,-0.05,victim_messages
+beware,-0.175,villain_messages
+of,-0.175,villain_messages
+attackers,-0.175,villain_messages
+these,-0.175,villain_messages
+criminal,-0.4,villain_messages
+artists,-0.175,villain_messages
+create,-0.175,villain_messages
+fake,-0.5,villain_messages
+websites,-0.175,villain_messages
+that,-0.175,villain_messages
+mimic,-0.175,villain_messages
+real,0.2,villain_messages
+ones,-0.175,villain_messages
+trick,-0.175,villain_messages
+into,-0.175,villain_messages
+giving,-0.175,villain_messages
+out,-0.175,villain_messages
+information,-0.175,villain_messages
+money,-0.175,villain_messages
+beware of,-0.175,villain_messages
+of phishing,-0.175,villain_messages
+phishing attackers,-0.175,villain_messages
+attackers these,-0.175,villain_messages
+these criminal,-0.4,villain_messages
+criminal artists,-0.4,villain_messages
+artists create,-0.175,villain_messages
+create fake,-0.5,villain_messages
+fake websites,-0.5,villain_messages
+websites that,-0.175,villain_messages
+that mimic,-0.175,villain_messages
+mimic real,0.2,villain_messages
+real ones,0.2,villain_messages
+ones to,-0.175,villain_messages
+to trick,-0.175,villain_messages
+trick you,-0.175,villain_messages
+you into,-0.175,villain_messages
+into giving,-0.175,villain_messages
+giving out,-0.175,villain_messages
+out personal,-0.175,villain_messages
+personal information,-0.175,villain_messages
+information or,-0.175,villain_messages
+or money,-0.175,villain_messages
+beware of phishing,-0.175,villain_messages
+of phishing attackers,-0.175,villain_messages
+phishing attackers these,-0.175,villain_messages
+attackers these criminal,-0.4,villain_messages
+these criminal artists,-0.4,villain_messages
+criminal artists create,-0.4,villain_messages
+artists create fake,-0.5,villain_messages
+create fake websites,-0.5,villain_messages
+fake websites that,-0.5,villain_messages
+websites that mimic,-0.175,villain_messages
+that mimic real,0.2,villain_messages
+mimic real ones,0.2,villain_messages
+real ones to,0.2,villain_messages
+ones to trick,-0.175,villain_messages
+to trick you,-0.175,villain_messages
+trick you into,-0.175,villain_messages
+you into giving,-0.175,villain_messages
+into giving out,-0.175,villain_messages
+giving out personal,-0.175,villain_messages
+out personal information,-0.175,villain_messages
+personal information or,-0.175,villain_messages
+information or money,-0.175,villain_messages
+deceptive,-0.2,villain_messages
+con,-0.2,villain_messages
+impersonate,-0.2,villain_messages
+legitimate,-0.2,villain_messages
+organizations,-0.2,villain_messages
+lure,-0.2,villain_messages
+sensitive,0.1,villain_messages
+making,-0.2,villain_messages
+fraudulent,-0.2,villain_messages
+requests,-0.2,villain_messages
+these deceptive,-0.2,villain_messages
+deceptive con,-0.2,villain_messages
+con artists,-0.2,villain_messages
+websites and,-0.2,villain_messages
+and impersonate,-0.2,villain_messages
+impersonate legitimate,-0.2,villain_messages
+legitimate organizations,-0.2,villain_messages
+organizations to,-0.2,villain_messages
+to lure,-0.2,villain_messages
+lure you,-0.2,villain_messages
+giving sensitive,0.1,villain_messages
+sensitive information,0.1,villain_messages
+or making,-0.2,villain_messages
+making fraudulent,-0.2,villain_messages
+fraudulent requests,-0.2,villain_messages
+attackers these deceptive,-0.2,villain_messages
+these deceptive con,-0.2,villain_messages
+deceptive con artists,-0.2,villain_messages
+con artists create,-0.2,villain_messages
+fake websites and,-0.5,villain_messages
+websites and impersonate,-0.2,villain_messages
+and impersonate legitimate,-0.2,villain_messages
+impersonate legitimate organizations,-0.2,villain_messages
+legitimate organizations to,-0.2,villain_messages
+organizations to lure,-0.2,villain_messages
+to lure you,-0.2,villain_messages
+lure you into,-0.2,villain_messages
+into giving sensitive,0.1,villain_messages
+giving sensitive information,0.1,villain_messages
+sensitive information or,0.1,villain_messages
+information or making,-0.2,villain_messages
+or making fraudulent,-0.2,villain_messages
+making fraudulent requests,-0.2,villain_messages
+do,-0.23750000000000002,villain_messages
+n't,-0.23750000000000002,villain_messages
+fall,-0.23750000000000002,villain_messages
+victim,-0.07500000000000001,villain_messages
+their,-0.23750000000000002,villain_messages
+schemes,-0.23750000000000002,villain_messages
+do n't,-0.23750000000000002,villain_messages
+n't fall,-0.23750000000000002,villain_messages
+fall victim,-0.07500000000000001,villain_messages
+victim to,-0.07500000000000001,villain_messages
+to their,-0.23750000000000002,villain_messages
+their criminal,-0.4,villain_messages
+criminal schemes,-0.4,villain_messages
+do n't fall,-0.23750000000000002,villain_messages
+n't fall victim,-0.07500000000000001,villain_messages
+fall victim to,-0.07500000000000001,villain_messages
+victim to their,-0.07500000000000001,villain_messages
+to their criminal,-0.4,villain_messages
+their criminal schemes,-0.4,villain_messages
+cyber,-0.25,villain_messages
+criminals,-0.25,villain_messages
+who,-0.25,villain_messages
+include,-0.25,villain_messages
+up,-0.25,villain_messages
+attackers are,-0.25,villain_messages
+are cyber,-0.25,villain_messages
+cyber criminals,-0.25,villain_messages
+criminals who,-0.25,villain_messages
+who create,-0.25,villain_messages
+and include,-0.25,villain_messages
+include deceptive,-0.25,villain_messages
+deceptive requests,-0.25,villain_messages
+requests to,-0.25,villain_messages
+giving up,-0.25,villain_messages
+up personal,-0.25,villain_messages
+phishing attackers are,-0.25,villain_messages
+attackers are cyber,-0.25,villain_messages
+are cyber criminals,-0.25,villain_messages
+cyber criminals who,-0.25,villain_messages
+criminals who create,-0.25,villain_messages
+who create fake,-0.5,villain_messages
+websites and include,-0.25,villain_messages
+and include deceptive,-0.25,villain_messages
+include deceptive requests,-0.25,villain_messages
+deceptive requests to,-0.25,villain_messages
+requests to trick,-0.25,villain_messages
+into giving up,-0.25,villain_messages
+giving up personal,-0.25,villain_messages
+up personal information,-0.25,villain_messages
+for,-0.5,villain_messages
+imposter,-0.5,villain_messages
+be,-0.5,villain_messages
+wary,-0.5,villain_messages
+any,-0.5,villain_messages
+suspicious,-0.5,villain_messages
+activity,-0.5,villain_messages
+fall for,-0.5,villain_messages
+for their,-0.5,villain_messages
+their imposter,-0.5,villain_messages
+imposter scams,-0.5,villain_messages
+scams be,-0.5,villain_messages
+be wary,-0.5,villain_messages
+wary of,-0.5,villain_messages
+of any,-0.5,villain_messages
+any suspicious,-0.5,villain_messages
+suspicious online,-0.5,villain_messages
+online activity,-0.5,villain_messages
+n't fall for,-0.5,villain_messages
+fall for their,-0.5,villain_messages
+for their imposter,-0.5,villain_messages
+their imposter scams,-0.5,villain_messages
+imposter scams be,-0.5,villain_messages
+scams be wary,-0.5,villain_messages
+be wary of,-0.5,villain_messages
+wary of any,-0.5,villain_messages
+of any suspicious,-0.5,villain_messages
+any suspicious online,-0.5,villain_messages
+suspicious online activity,-0.5,villain_messages
