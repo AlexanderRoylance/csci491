@@ -49,3 +49,7 @@ Scammers are increasingly targeting older populations through deceptive digital 
 - Output includes:
   - 1–4 sentence messages.
   - Breakdown of word types and sentiment scores.
+
+### 6. Analysis
+-Compare generated and original messages
+-dislplay graphs detailing findings
