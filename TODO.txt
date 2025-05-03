@@ -1,18 +1,1 @@
--add word Complexity graph
--refine sentiment(maybe)
--standardize graph(xy range)
--Sentiment graph (sentiment on x)
---3 graphs dot plot?
---1 graph bell curve(s)?
----normalize w/ labels
-
-
-(1) Tf-idf
-(what is baseline)
-
-(2) Word Complexity
-(how difficult is the verbiage)
-
-(3) Sentiment
-(what correct language & what discard.) 
 
