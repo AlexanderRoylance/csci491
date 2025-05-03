@@ -52,4 +52,4 @@ Scammers are increasingly targeting older populations through deceptive digital 
 
 ### 6. Analysis
 - Compare generated and original messages
-- dislplay graphs detailing findings
+- Dislplay graphs detailing findings
