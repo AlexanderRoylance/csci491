@@ -51,5 +51,5 @@ Scammers are increasingly targeting older populations through deceptive digital 
   - Breakdown of word types and sentiment scores.
 
 ### 6. Analysis
--Compare generated and original messages
--dislplay graphs detailing findings
+- Compare generated and original messages
+- dislplay graphs detailing findings
