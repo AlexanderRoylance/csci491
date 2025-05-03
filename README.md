@@ -2,7 +2,7 @@
 
 This project analyzes digital risk communication messages targeted at older adults, aiming to improve their clarity, emotional tone, and effectiveness using a structured NLP pipeline. The analysis is grounded in the Narrative Policy Framework and includes TF-IDF scoring, sentiment analysis, word complexity scoring, and custom message generation.
 
-## 🔍 Overview
+## Overview
 
 Scammers are increasingly targeting older populations through deceptive digital means. Many existing messages use complex or negative language that may reduce their effectiveness. Our goal is to identify linguistic weaknesses and strengths in current messaging and generate simplified, emotionally resonant alternatives.
 
